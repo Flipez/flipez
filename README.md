@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/flipez">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=flipez&show_icons=true&count_private=true&theme=synthwave&hide_title=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=flipez&count_private=true&theme=synthwave&hide_title=true" />
 </a>
 
 <!--
