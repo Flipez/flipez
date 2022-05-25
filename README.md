@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [add analog in v3 bricklet](https://github.com/vetinari/brickd_exporter/pull/10) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (1 month ago)
 - [Add RocketLang](https://github.com/mrnugget/monkeylang/pull/10) on [mrnugget/monkeylang](https://github.com/mrnugget/monkeylang) (2 months ago)
 - [add basic http response](https://github.com/Flipez/rocket-lang/pull/84) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
-- [add .to_json()](https://github.com/Flipez/rocket-lang/pull/82) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 
 #### 📜 My recent blog posts
 
