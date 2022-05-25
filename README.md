@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
@@ -44,7 +45,6 @@
 - [Add RocketLang](https://github.com/mrnugget/monkeylang/pull/10) on [mrnugget/monkeylang](https://github.com/mrnugget/monkeylang) (2 months ago)
 - [add basic http response](https://github.com/Flipez/rocket-lang/pull/84) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [add .to_json()](https://github.com/Flipez/rocket-lang/pull/82) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
-- [add networking](https://github.com/Flipez/rocket-lang/pull/81) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 
 #### 📜 My recent blog posts
 
