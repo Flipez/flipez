@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 day ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 week ago)
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 weeks ago)
