@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/flipez](https://github.com/Flipez/flipez) -  (today)
+- [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 day ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
@@ -41,7 +41,7 @@
 - [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 - [add hat brick](https://github.com/vetinari/brickd_exporter/pull/11) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (1 month ago)
 - [add analog in v3 bricklet](https://github.com/vetinari/brickd_exporter/pull/10) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (1 month ago)
-- [Add RocketLang](https://github.com/mrnugget/monkeylang/pull/10) on [mrnugget/monkeylang](https://github.com/mrnugget/monkeylang) (1 month ago)
+- [Add RocketLang](https://github.com/mrnugget/monkeylang/pull/10) on [mrnugget/monkeylang](https://github.com/mrnugget/monkeylang) (2 months ago)
 - [add basic http response](https://github.com/Flipez/rocket-lang/pull/84) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [add .to_json()](https://github.com/Flipez/rocket-lang/pull/82) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [add networking](https://github.com/Flipez/rocket-lang/pull/81) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (3 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (4 days ago)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (2 weeks ago)
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (4 weeks ago)
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 month ago)
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. (1 month ago)
