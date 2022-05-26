@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
-- [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 day ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 day ago)
+- [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 days ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 weeks ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 weeks ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) -  (1 month ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 month ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.16.0-alpha.2](https://github.com/Flipez/rocket-lang/releases/tag/v0.16.0-alpha.2), 4 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.16.0-alpha.2](https://github.com/Flipez/rocket-lang/releases/tag/v0.16.0-alpha.2), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 8 months ago) - Community tool to manage open PRs for puppet modules
 - [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 10 months ago) - Game made for the Godot Wild Jam 2021
 
 #### 🔨 My recent Pull Requests
 
-- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
-- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
-- [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
+- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
+- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
+- [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (4 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 days ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (5 days ago)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (2 weeks ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
