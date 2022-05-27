@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 day ago)
-- [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 days ago)
+- [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 days ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
-- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
+- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
+- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
 - [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 days ago)
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (5 days ago)
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (2 weeks ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 days ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (6 days ago)
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (3 weeks ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 month ago)
@@ -69,7 +69,7 @@
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [babiel](https://github.com/babiel) (3 months ago)
+- [babiel](https://github.com/babiel) (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
