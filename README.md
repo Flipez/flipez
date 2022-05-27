@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 days ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
@@ -35,6 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
+- [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
+- [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
 - [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
 - [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
@@ -42,9 +45,6 @@
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 - [add hat brick](https://github.com/vetinari/brickd_exporter/pull/11) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (1 month ago)
-- [add analog in v3 bricklet](https://github.com/vetinari/brickd_exporter/pull/10) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (1 month ago)
-- [Add RocketLang](https://github.com/mrnugget/monkeylang/pull/10) on [mrnugget/monkeylang](https://github.com/mrnugget/monkeylang) (2 months ago)
-- [add basic http response](https://github.com/Flipez/rocket-lang/pull/84) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 
 #### 📜 My recent blog posts
 
