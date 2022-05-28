@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
-- [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 day ago)
+- [Flipez/flipez](https://github.com/Flipez/flipez) -  (4 days ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
@@ -35,13 +35,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
-- [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
-- [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
-- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
-- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
+- [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
+- [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
+- [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
+- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
+- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
 - [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
-- [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
+- [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (4 weeks ago)
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 - [add hat brick](https://github.com/vetinari/brickd_exporter/pull/11) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (1 month ago)
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 days ago)
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (6 days ago)
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (4 days ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (1 week ago)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (3 weeks ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
