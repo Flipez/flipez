@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (6 days ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 week ago)
@@ -10,7 +11,6 @@
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) -  (1 month ago)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) - Prometheus exporter for Tinkerforge&#39;s brickd (2 months ago)
 
 #### 🌱 My latest projects
