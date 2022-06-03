@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
@@ -44,7 +45,6 @@
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 month ago)
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
-- [add hat brick](https://github.com/vetinari/brickd_exporter/pull/11) on [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) (2 months ago)
 
 #### 📜 My recent blog posts
 
