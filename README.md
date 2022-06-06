@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 days ago)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (6 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 days ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 week ago)
-- [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (2 weeks ago)
+- [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (3 weeks ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
+- [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
 - [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [betadots/hdm](https://github.com/betadots/hdm) -  (today)
-- [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (1 day ago)
+- [betadots/hdm](https://github.com/betadots/hdm) -  (1 day ago)
+- [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (2 days ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2 weeks ago)
