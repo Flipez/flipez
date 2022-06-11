@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 weeks ago)
@@ -41,7 +41,7 @@
 - [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 - [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 - [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
-- [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 weeks ago)
+- [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 month ago)
 - [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [betadots/hdm](https://github.com/betadots/hdm) -  (5 days ago)
-- [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (6 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) -  (6 days ago)
+- [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (1 week ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 weeks ago)
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (2 weeks ago)
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger (3 weeks ago)
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (1 month ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (2 months ago)
