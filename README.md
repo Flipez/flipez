@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [betadots/hdm](https://github.com/betadots/hdm) -  (6 days ago)
+- [betadots/hdm](https://github.com/betadots/hdm) -  (1 week ago)
 - [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (1 week ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 weeks ago)
