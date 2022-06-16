@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (5 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (6 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (2 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 weeks ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (today)
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (1 day ago)
 - [betadots/hdm](https://github.com/betadots/hdm) -  (1 week ago)
 - [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (1 week ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (2 weeks ago)
