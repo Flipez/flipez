@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (today)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (2 days ago)
 - [betadots/hdm](https://github.com/betadots/hdm) -  (1 week ago)
 - [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (1 week ago)
@@ -66,7 +67,6 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (1 month ago)
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang (1 month ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (2 months ago)
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
