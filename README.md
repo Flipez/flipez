@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create codeql-analysis.yml](https://github.com/kickr-me/dashboard/pull/46) on [kickr-me/dashboard](https://github.com/kickr-me/dashboard) (today)
+- [Upgrade rails 7](https://github.com/kickr-me/dashboard/pull/45) on [kickr-me/dashboard](https://github.com/kickr-me/dashboard) (today)
 - [use v2](https://github.com/kickr-me/kickr-core/pull/9) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (today)
 - [emit event for undo round](https://github.com/kickr-me/kickr-core/pull/8) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (today)
 - [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
@@ -44,8 +46,6 @@
 - [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
-- [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
-- [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 month ago)
 
 #### 📜 My recent blog posts
 
