@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
+- [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 weeks ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (2 weeks ago)
@@ -11,7 +12,6 @@
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) -  (1 month ago)
-- [vetinari/brickd_exporter](https://github.com/vetinari/brickd_exporter) - Prometheus exporter for Tinkerforge&#39;s brickd (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,12 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), today) - kickr core component
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.16.0-alpha.2](https://github.com/Flipez/rocket-lang/releases/tag/v0.16.0-alpha.2), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 8 months ago) - Community tool to manage open PRs for puppet modules
 - [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 11 months ago) - Game made for the Godot Wild Jam 2021
 
 #### 🔨 My recent Pull Requests
 
+- [use v2](https://github.com/kickr-me/kickr-core/pull/9) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (today)
+- [emit event for undo round](https://github.com/kickr-me/kickr-core/pull/8) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (today)
 - [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 - [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
@@ -43,8 +46,6 @@
 - [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [[GitLab] Update to 14.10](https://github.com/hetznercloud/apps/pull/41) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 - [new year new theme](https://github.com/Flipez/brauser.io/pull/53) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 month ago)
-- [Apt repo](https://github.com/Flipez/rocket-lang/pull/87) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[GitLab] Update to 14.9](https://github.com/hetznercloud/apps/pull/40) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 
 #### 📜 My recent blog posts
 
