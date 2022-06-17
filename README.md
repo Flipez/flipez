@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 weeks ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (2 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 weeks ago)
