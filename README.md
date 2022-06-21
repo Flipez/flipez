@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/470) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
+- [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/469) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [Create codeql-analysis.yml](https://github.com/kickr-me/dashboard/pull/46) on [kickr-me/dashboard](https://github.com/kickr-me/dashboard) (4 days ago)
 - [Upgrade rails 7](https://github.com/kickr-me/dashboard/pull/45) on [kickr-me/dashboard](https://github.com/kickr-me/dashboard) (4 days ago)
 - [use v2](https://github.com/kickr-me/kickr-core/pull/9) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (4 days ago)
@@ -44,8 +46,6 @@
 - [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [[GitLab] Update to 15.0](https://github.com/hetznercloud/apps/pull/44) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
-- [fix: app logos](https://github.com/hetznercloud/apps/pull/43) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
-- [Add Apps for Ruby and Go](https://github.com/hetznercloud/apps/pull/42) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
