@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add net-pop and net-imap](https://github.com/voxpupuli/vox-pupuli-tasks/pull/475) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
+- [add net/smtp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/474) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [update deps &#43; local dev sqlite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/471) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/470) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/469) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
@@ -44,8 +46,6 @@
 - [use v2](https://github.com/kickr-me/kickr-core/pull/9) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (4 days ago)
 - [emit event for undo round](https://github.com/kickr-me/kickr-core/pull/8) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (4 days ago)
 - [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
-- [[Wordpress] Update to 6.0](https://github.com/hetznercloud/apps/pull/46) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
-- [[Nextcloud] Update to 24.0.1](https://github.com/hetznercloud/apps/pull/45) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
