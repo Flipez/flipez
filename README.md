@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (5 days ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (5 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove BigBlueButton](https://github.com/hetznercloud/apps/pull/51) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [add net-pop and net-imap](https://github.com/voxpupuli/vox-pupuli-tasks/pull/475) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
 - [add net/smtp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/474) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
 - [update deps &#43; local dev sqlite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/471) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
@@ -45,7 +46,6 @@
 - [Upgrade rails 7](https://github.com/kickr-me/dashboard/pull/45) on [kickr-me/dashboard](https://github.com/kickr-me/dashboard) (5 days ago)
 - [use v2](https://github.com/kickr-me/kickr-core/pull/9) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (5 days ago)
 - [emit event for undo round](https://github.com/kickr-me/kickr-core/pull/8) on [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) (5 days ago)
-- [remove languagetool](https://github.com/hetznercloud/apps/pull/48) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
