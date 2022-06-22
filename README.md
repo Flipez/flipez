@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (today)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (5 days ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (5 days ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (5 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (4 weeks ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 month ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
-- [Flipez/http-relay](https://github.com/Flipez/http-relay) -  (1 month ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 
 #### 🌱 My latest projects
 
