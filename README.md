@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [&#39;Fix&#39; pull request queueing finally?](https://github.com/voxpupuli/vox-pupuli-tasks/pull/482) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [Fix undefined local variable or method `id&#39; for RefreshPullRequestWorker](https://github.com/voxpupuli/vox-pupuli-tasks/pull/481) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [Release 1.6.0](https://github.com/voxpupuli/puppet_metadata/pull/44) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (3 days ago)
 - [add latest freebsd releases](https://github.com/voxpupuli/puppet_metadata/pull/43) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (3 days ago)
@@ -45,7 +46,6 @@
 - [add net/smtp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/474) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (4 days ago)
 - [update deps &#43; local dev sqlite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/471) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (4 days ago)
 - [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/470) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (4 days ago)
-- [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/469) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (4 days ago)
 
 #### 📜 My recent blog posts
 
