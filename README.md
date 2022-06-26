@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 day ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (4 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
@@ -10,7 +11,6 @@
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 month ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 month ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Return bytesWritten instead of True on successfull file.write()](https://github.com/Flipez/rocket-lang/pull/88) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Fix call for last check_suite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/484) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [&#39;Fix&#39; pull request queueing finally?](https://github.com/voxpupuli/vox-pupuli-tasks/pull/482) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
 - [Fix undefined local variable or method `id&#39; for RefreshPullRequestWorker](https://github.com/voxpupuli/vox-pupuli-tasks/pull/481) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
@@ -45,7 +46,6 @@
 - [Remove BigBlueButton](https://github.com/hetznercloud/apps/pull/51) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
 - [add net-pop and net-imap](https://github.com/voxpupuli/vox-pupuli-tasks/pull/475) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
 - [add net/smtp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/474) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
-- [update deps &#43; local dev sqlite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/471) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
 
 #### 📜 My recent blog posts
 
