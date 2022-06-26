@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 day ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (4 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (1 week ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix call for last check_suite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/484) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (today)
 - [&#39;Fix&#39; pull request queueing finally?](https://github.com/voxpupuli/vox-pupuli-tasks/pull/482) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
 - [Fix undefined local variable or method `id&#39; for RefreshPullRequestWorker](https://github.com/voxpupuli/vox-pupuli-tasks/pull/481) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 day ago)
 - [Release 1.6.0](https://github.com/voxpupuli/puppet_metadata/pull/44) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (4 days ago)
@@ -45,7 +46,6 @@
 - [add net-pop and net-imap](https://github.com/voxpupuli/vox-pupuli-tasks/pull/475) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
 - [add net/smtp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/474) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
 - [update deps &#43; local dev sqlite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/471) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
-- [fix check and decrease jwt exp](https://github.com/voxpupuli/vox-pupuli-tasks/pull/470) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
 
 #### 📜 My recent blog posts
 
