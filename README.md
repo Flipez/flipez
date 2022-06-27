@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (2 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (5 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
@@ -11,7 +12,6 @@
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 month ago)
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) -  (1 month ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.16.0-alpha.3](https://github.com/Flipez/rocket-lang/releases/tag/v0.16.0-alpha.3), today) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 1 week ago) - kickr core component
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.16.0-alpha.2](https://github.com/Flipez/rocket-lang/releases/tag/v0.16.0-alpha.2), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 9 months ago) - Community tool to manage open PRs for puppet modules
 - [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 11 months ago) - Game made for the Godot Wild Jam 2021
 
