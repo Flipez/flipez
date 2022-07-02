@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (2 days ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (5 days ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (2 weeks ago)
@@ -29,7 +29,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.16.0-alpha.3](https://github.com/Flipez/rocket-lang/releases/tag/v0.16.0-alpha.3), 5 days ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 2 weeks ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 9 months ago) - Community tool to manage open PRs for puppet modules
 - [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 11 months ago) - Game made for the Godot Wild Jam 2021
