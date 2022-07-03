@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Foreach improvements](https://github.com/Flipez/rocket-lang/pull/92) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Add nil and replace null with it](https://github.com/Flipez/rocket-lang/pull/91) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Add support for `next()` and `break()`](https://github.com/Flipez/rocket-lang/pull/90) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
 - [Remove support for curly braces in foreach, while, if and function](https://github.com/Flipez/rocket-lang/pull/89) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -45,7 +46,6 @@
 - [Fix undefined local variable or method `id&#39; for RefreshPullRequestWorker](https://github.com/voxpupuli/vox-pupuli-tasks/pull/481) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 week ago)
 - [Release 1.6.0](https://github.com/voxpupuli/puppet_metadata/pull/44) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (1 week ago)
 - [add latest freebsd releases](https://github.com/voxpupuli/puppet_metadata/pull/43) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (1 week ago)
-- [Release 1.5.0](https://github.com/voxpupuli/puppet_metadata/pull/42) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (1 week ago)
 
 #### 📜 My recent blog posts
 
