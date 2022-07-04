@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 day ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (1 day ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 days ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
