@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove args from next and break](https://github.com/Flipez/rocket-lang/pull/94) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Foreach improvements](https://github.com/Flipez/rocket-lang/pull/92) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [Add nil and replace null with it](https://github.com/Flipez/rocket-lang/pull/91) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [Add support for `next()` and `break()`](https://github.com/Flipez/rocket-lang/pull/90) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -45,7 +46,6 @@
 - [&#39;Fix&#39; pull request queueing finally?](https://github.com/voxpupuli/vox-pupuli-tasks/pull/482) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 week ago)
 - [Fix undefined local variable or method `id&#39; for RefreshPullRequestWorker](https://github.com/voxpupuli/vox-pupuli-tasks/pull/481) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 week ago)
 - [Release 1.6.0](https://github.com/voxpupuli/puppet_metadata/pull/44) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (2 weeks ago)
-- [add latest freebsd releases](https://github.com/voxpupuli/puppet_metadata/pull/43) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
