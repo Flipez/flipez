@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 days ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (4 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 week ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add json object](https://github.com/Flipez/rocket-lang/pull/95) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [remove args from next and break](https://github.com/Flipez/rocket-lang/pull/94) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Foreach improvements](https://github.com/Flipez/rocket-lang/pull/92) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 - [Add nil and replace null with it](https://github.com/Flipez/rocket-lang/pull/91) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
@@ -45,7 +46,6 @@
 - [Fix call for last check_suite](https://github.com/voxpupuli/vox-pupuli-tasks/pull/484) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 week ago)
 - [&#39;Fix&#39; pull request queueing finally?](https://github.com/voxpupuli/vox-pupuli-tasks/pull/482) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 week ago)
 - [Fix undefined local variable or method `id&#39; for RefreshPullRequestWorker](https://github.com/voxpupuli/vox-pupuli-tasks/pull/481) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 week ago)
-- [Release 1.6.0](https://github.com/voxpupuli/puppet_metadata/pull/44) on [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
