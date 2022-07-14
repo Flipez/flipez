@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (6 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 week ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (1 week ago)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (2 weeks ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (2 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 weeks ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (3 weeks ago)
@@ -32,11 +32,11 @@
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.17.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.17.1), 1 week ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 3 weeks ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 9 months ago) - Community tool to manage open PRs for puppet modules
-- [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 11 months ago) - Game made for the Godot Wild Jam 2021
+- [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 1 year ago) - Game made for the Godot Wild Jam 2021
 
 #### 🔨 My recent Pull Requests
 
-- [add json object](https://github.com/Flipez/rocket-lang/pull/95) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [add json object](https://github.com/Flipez/rocket-lang/pull/95) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [remove args from next and break](https://github.com/Flipez/rocket-lang/pull/94) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Foreach improvements](https://github.com/Flipez/rocket-lang/pull/92) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Add nil and replace null with it](https://github.com/Flipez/rocket-lang/pull/91) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (2 days ago)
+- [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (3 days ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 week ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (3 weeks ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (4 weeks ago)
