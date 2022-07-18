@@ -32,7 +32,6 @@
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.17.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.17.1), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 1 month ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 10 months ago) - Community tool to manage open PRs for puppet modules
-- [Flipez/scrap-race](https://github.com/Flipez/scrap-race) ([v1.0.0](https://github.com/Flipez/scrap-race/releases/tag/v1.0.0), 1 year ago) - Game made for the Godot Wild Jam 2021
 
 #### 🔨 My recent Pull Requests
 
