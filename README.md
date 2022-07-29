@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 day ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 days ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 days ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 days ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (1 week ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (3 weeks ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 weeks ago)
@@ -29,14 +29,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.18.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.18.0), 3 days ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.18.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.18.0), 4 days ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 1 month ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 10 months ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 day ago)
-- [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
+- [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [fix load path](https://github.com/Herzmut-Games/level-renner/pull/106) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 week ago)
 - [add credits](https://github.com/Herzmut-Games/level-renner/pull/102) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 week ago)
 - [fix level popup](https://github.com/Herzmut-Games/level-renner/pull/101) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 week ago)
