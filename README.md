@@ -44,7 +44,7 @@
 - [improvements](https://github.com/Herzmut-Games/level-renner/pull/95) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
 - [Update level03_score.tres](https://github.com/Herzmut-Games/level-renner/pull/94) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
 - [fix level done](https://github.com/Herzmut-Games/level-renner/pull/93) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
-- [Add level 03](https://github.com/Herzmut-Games/level-renner/pull/91) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
+- [Add level 03](https://github.com/Herzmut-Games/level-renner/pull/91) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (3 days ago)
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (4 days ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (3 weeks ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 month ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (1 month ago)
