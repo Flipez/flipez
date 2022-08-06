@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [fix load path](https://github.com/Herzmut-Games/level-renner/pull/106) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [improvements](https://github.com/Herzmut-Games/level-renner/pull/95) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
 - [Update level03_score.tres](https://github.com/Herzmut-Games/level-renner/pull/94) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
 - [fix level done](https://github.com/Herzmut-Games/level-renner/pull/93) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (2 weeks ago)
-- [Add level 03](https://github.com/Herzmut-Games/level-renner/pull/91) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
