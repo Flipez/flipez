@@ -11,7 +11,7 @@
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 month ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (1 month ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [fix load path](https://github.com/Herzmut-Games/level-renner/pull/106) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (3 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (6 days ago)
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (1 week ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (4 weeks ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (1 month ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (1 month ago)
