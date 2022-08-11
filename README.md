@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 weeks ago)
 - [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [fix load path](https://github.com/Herzmut-Games/level-renner/pull/106) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (3 weeks ago)
