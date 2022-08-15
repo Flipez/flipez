@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 weeks ago)
@@ -11,7 +12,6 @@
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (1 month ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (1 month ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -48,11 +48,11 @@
 
 #### 📜 My recent blog posts
 
-- [🪴 Blumentopf - Automated Plant Watering #2](/posts/2022/blumentopf-2/) (3 months ago)
-- [🪴 Blumentopf - Automated Plant Watering #1](/posts/2022/blumentopf-1/) (3 months ago)
-- [Sous Vide Steak 1.0](/posts/2021/sous-vide/sous-vide-steak-1.0/) (10 months ago)
-- [Books](/books/) (10 months ago)
-- [🥤 spezi &amp; cola](/spezi/) (10 months ago)
+- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (3 months ago)
+- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (3 months ago)
+- [Sous Vide Steak 1.0](https://auch.cool/posts/2021/sous-vide/sous-vide-steak-1.0/) (10 months ago)
+- [Books](https://auch.cool/books/) (10 months ago)
+- [🥤 spezi &amp; cola](https://auch.cool/spezi/) (10 months ago)
 
 #### ⭐ Recent Stars
 
