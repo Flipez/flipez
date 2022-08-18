@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add release posts; fix favicon](https://github.com/Flipez/rocket-lang/pull/99) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [add first release post](https://github.com/Flipez/rocket-lang/pull/98) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [fix level popup](https://github.com/Herzmut-Games/level-renner/pull/101) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 - [add intro](https://github.com/Herzmut-Games/level-renner/pull/98) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 - [improvements](https://github.com/Herzmut-Games/level-renner/pull/95) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
-- [Update level03_score.tres](https://github.com/Herzmut-Games/level-renner/pull/94) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 
 #### 📜 My recent blog posts
 
