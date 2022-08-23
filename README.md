@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Playground](https://github.com/Flipez/rocket-lang/pull/100) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [add release posts; fix favicon](https://github.com/Flipez/rocket-lang/pull/99) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [add first release post](https://github.com/Flipez/rocket-lang/pull/98) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [add credits](https://github.com/Herzmut-Games/level-renner/pull/102) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 - [fix level popup](https://github.com/Herzmut-Games/level-renner/pull/101) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 - [add intro](https://github.com/Herzmut-Games/level-renner/pull/98) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
-- [improvements](https://github.com/Herzmut-Games/level-renner/pull/95) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 
 #### 📜 My recent blog posts
 
