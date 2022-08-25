@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement `and` and  `or` ](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [link playground](https://github.com/Flipez/rocket-lang/pull/101) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Add Playground](https://github.com/Flipez/rocket-lang/pull/100) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [add release posts; fix favicon](https://github.com/Flipez/rocket-lang/pull/99) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -44,7 +45,6 @@
 - [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [fix load path](https://github.com/Herzmut-Games/level-renner/pull/106) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 - [add credits](https://github.com/Herzmut-Games/level-renner/pull/102) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
-- [fix level popup](https://github.com/Herzmut-Games/level-renner/pull/101) on [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) (1 month ago)
 
 #### 📜 My recent blog posts
 
