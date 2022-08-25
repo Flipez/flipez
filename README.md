@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement `and` and  `or` ](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [link playground](https://github.com/Flipez/rocket-lang/pull/101) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Add Playground](https://github.com/Flipez/rocket-lang/pull/100) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [add release posts; fix favicon](https://github.com/Flipez/rocket-lang/pull/99) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
