@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
@@ -44,7 +45,6 @@
 - [add first release post](https://github.com/Flipez/rocket-lang/pull/98) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
-- [Add support for single quotes and escape double quotes](https://github.com/Flipez/rocket-lang/pull/96) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
