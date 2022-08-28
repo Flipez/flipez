@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (4 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (1 month ago)
@@ -35,12 +35,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [link playground](https://github.com/Flipez/rocket-lang/pull/101) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
-- [Add Playground](https://github.com/Flipez/rocket-lang/pull/100) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [link playground](https://github.com/Flipez/rocket-lang/pull/101) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
+- [Add Playground](https://github.com/Flipez/rocket-lang/pull/100) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [add release posts; fix favicon](https://github.com/Flipez/rocket-lang/pull/99) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add first release post](https://github.com/Flipez/rocket-lang/pull/98) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
