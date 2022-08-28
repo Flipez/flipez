@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [dafriedmann](https://github.com/dafriedmann)
 - [MarcusWichelmann](https://github.com/MarcusWichelmann)
 - [cfwmengxiang](https://github.com/cfwmengxiang)
 - [Tixcoin](https://github.com/Tixcoin)
 - [biberairport](https://github.com/biberairport)
-- [RichterBea](https://github.com/RichterBea)
 
 #### 💬 Feedback
 
