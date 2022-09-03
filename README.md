@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -43,8 +45,6 @@
 - [Add Playground](https://github.com/Flipez/rocket-lang/pull/100) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add release posts; fix favicon](https://github.com/Flipez/rocket-lang/pull/99) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [add first release post](https://github.com/Flipez/rocket-lang/pull/98) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [Update docs page](https://github.com/Flipez/rocket-lang/pull/97) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
-- [Update GitLab and Wordpress](https://github.com/hetznercloud/apps/pull/54) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 
 #### 📜 My recent blog posts
 
