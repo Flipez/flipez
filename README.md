@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (1 month ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (2 months ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
