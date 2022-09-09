@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 weeks ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
-- [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
-- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
+- [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [link playground](https://github.com/Flipez/rocket-lang/pull/101) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (1 month ago)
-- [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (1 month ago)
+- [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (2 months ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (2 months ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (2 months ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (2 months ago)
