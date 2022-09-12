@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Update GitLab and Go](https://github.com/hetznercloud/apps/pull/59) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [Update](https://github.com/hetznercloud/apps/pull/58) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
@@ -44,7 +45,6 @@
 - [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
