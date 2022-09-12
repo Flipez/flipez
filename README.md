@@ -4,7 +4,7 @@
 
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (4 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Update GitLab and Go](https://github.com/hetznercloud/apps/pull/59) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [Update](https://github.com/hetznercloud/apps/pull/58) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [Update](https://github.com/hetznercloud/apps/pull/57) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
@@ -44,7 +45,6 @@
 - [Implement Math Stdlib and Constants](https://github.com/Flipez/rocket-lang/pull/105) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [use inter font](https://github.com/Flipez/rocket-lang/pull/103) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Implement `and`, `or` , `&amp;&amp;` and `||`](https://github.com/Flipez/rocket-lang/pull/102) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [link playground](https://github.com/Flipez/rocket-lang/pull/101) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
