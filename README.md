@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [networkpanic](https://github.com/networkpanic)
 - [DrBu7cher](https://github.com/DrBu7cher)
 - [dafriedmann](https://github.com/dafriedmann)
 - [MarcusWichelmann](https://github.com/MarcusWichelmann)
 - [cfwmengxiang](https://github.com/cfwmengxiang)
-- [Tixcoin](https://github.com/Tixcoin)
 
 #### 💬 Feedback
 
