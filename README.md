@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (2 months ago)
@@ -31,20 +31,20 @@
 
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.18.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.18.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 3 months ago) - kickr core component
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 11 months ago) - Community tool to manage open PRs for puppet modules
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 1 year ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [Update GitLab and Go](https://github.com/hetznercloud/apps/pull/59) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
-- [Update](https://github.com/hetznercloud/apps/pull/58) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
-- [Update](https://github.com/hetznercloud/apps/pull/57) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
+- [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [Update GitLab and Go](https://github.com/hetznercloud/apps/pull/59) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
+- [Update](https://github.com/hetznercloud/apps/pull/58) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
+- [Update](https://github.com/hetznercloud/apps/pull/57) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
 - [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
