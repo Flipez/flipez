@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (6 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (2 months ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
