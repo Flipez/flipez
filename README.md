@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -43,8 +45,6 @@
 - [Update](https://github.com/hetznercloud/apps/pull/58) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [Update](https://github.com/hetznercloud/apps/pull/57) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 week ago)
 - [change builtin implementation](https://github.com/Flipez/rocket-lang/pull/108) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [fix repl cmd handling](https://github.com/Flipez/rocket-lang/pull/107) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [allow object methods to return method without calling](https://github.com/Flipez/rocket-lang/pull/106) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
