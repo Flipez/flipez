@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
