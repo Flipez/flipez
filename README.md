@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 day ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 months ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (2 months ago)
-- [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (2 months ago)
+- [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (3 months ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 months ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (3 months ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (3 months ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (2 days ago)
-- [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
-- [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 days ago)
+- [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
+- [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (1 month ago)
+- [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (2 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (2 months ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (2 months ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (3 months ago)
