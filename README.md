@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (today)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 months ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (3 months ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (6 days ago)
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 week ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (2 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (3 months ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (3 months ago)
