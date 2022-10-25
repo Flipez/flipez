@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (6 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 months ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (3 months ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
 - [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
@@ -44,7 +45,6 @@
 - [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [Update GitLab and Go](https://github.com/hetznercloud/apps/pull/59) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
-- [Update](https://github.com/hetznercloud/apps/pull/58) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 
 #### 📜 My recent blog posts
 
