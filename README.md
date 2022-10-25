@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [try](https://github.com/Flipez/rocket-lang/pull/129) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [move open into IO module](https://github.com/Flipez/rocket-lang/pull/109) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [Update GitLab and Go](https://github.com/hetznercloud/apps/pull/59) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 
 #### 📜 My recent blog posts
 
