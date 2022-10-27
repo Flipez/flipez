@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[foreach/hash] Swap key/value order](https://github.com/Flipez/rocket-lang/pull/132) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[stdlib/math] Seed rand on each call](https://github.com/Flipez/rocket-lang/pull/131) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [try](https://github.com/Flipez/rocket-lang/pull/129) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
@@ -44,7 +45,6 @@
 - [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [Fix line calculation in error messages](https://github.com/Flipez/rocket-lang/pull/117) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [add Time builtin](https://github.com/Flipez/rocket-lang/pull/113) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [move exit and raise to os module](https://github.com/Flipez/rocket-lang/pull/111) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
