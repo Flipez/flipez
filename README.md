@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 months ago)
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[foreach/hash] Swap key/value order](https://github.com/Flipez/rocket-lang/pull/132) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [[stdlib/math] Seed rand on each call](https://github.com/Flipez/rocket-lang/pull/131) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [try](https://github.com/Flipez/rocket-lang/pull/129) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [[foreach/hash] Swap key/value order](https://github.com/Flipez/rocket-lang/pull/132) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [[stdlib/math] Seed rand on each call](https://github.com/Flipez/rocket-lang/pull/131) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [try](https://github.com/Flipez/rocket-lang/pull/129) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 - [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 - [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 days ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 days ago)
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (4 days ago)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (4 days ago)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (2 weeks ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (2 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (3 months ago)
