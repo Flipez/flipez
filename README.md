@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[object/array] Add ability to .reverse()](https://github.com/Flipez/rocket-lang/pull/138) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [[object/array] Add ability to .sort()](https://github.com/Flipez/rocket-lang/pull/137) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Release 0.19](https://github.com/Flipez/rocket-lang/pull/136) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[mixed] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/135) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[stdlib/math] Add support for Math.round()](https://github.com/Flipez/rocket-lang/pull/134) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -43,8 +45,6 @@
 - [[stdlib/math] Seed rand on each call](https://github.com/Flipez/rocket-lang/pull/131) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [[evaluator/assign] Fix assign if assigned to nested element](https://github.com/Flipez/rocket-lang/pull/129) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
-- [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
 
 #### 📜 My recent blog posts
 
