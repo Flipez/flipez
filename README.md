@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[object/string] Add support for .format()](https://github.com/Flipez/rocket-lang/pull/139) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/array] Add ability to .reverse()](https://github.com/Flipez/rocket-lang/pull/138) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/array] Add ability to .sort()](https://github.com/Flipez/rocket-lang/pull/137) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Release 0.19](https://github.com/Flipez/rocket-lang/pull/136) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -44,7 +45,6 @@
 - [[foreach/hash] Swap key/value order](https://github.com/Flipez/rocket-lang/pull/132) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [[stdlib/math] Seed rand on each call](https://github.com/Flipez/rocket-lang/pull/131) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [[evaluator/assign] Fix assign if assigned to nested element](https://github.com/Flipez/rocket-lang/pull/129) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
-- [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 
 #### 📜 My recent blog posts
 
