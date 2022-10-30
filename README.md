@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 months ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (3 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (3 months ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 months ago)
@@ -29,12 +29,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.18.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.18.0), 3 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.19.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.19.0), today) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 4 months ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 1 year ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
+- [Release 0.19](https://github.com/Flipez/rocket-lang/pull/136) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [[mixed] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/135) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[stdlib/math] Add support for Math.round()](https://github.com/Flipez/rocket-lang/pull/134) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[evaluator/module] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/133) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[foreach/hash] Swap key/value order](https://github.com/Flipez/rocket-lang/pull/132) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
@@ -43,8 +45,6 @@
 - [Add support for Math.min, Math.max, Math.rand](https://github.com/Flipez/rocket-lang/pull/128) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [fix typos](https://github.com/Flipez/rocket-lang/pull/126) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[DockerCE] Use Ubuntu 22.04 as base image](https://github.com/hetznercloud/apps/pull/63) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (1 month ago)
-- [document else if](https://github.com/Flipez/rocket-lang/pull/124) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [allow module name to be defined optionally](https://github.com/Flipez/rocket-lang/pull/123) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
