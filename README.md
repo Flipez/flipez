@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[object/error] Add ability to rescue errors](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Release 0.19.1](https://github.com/Flipez/rocket-lang/pull/141) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[stdlib/time] Add support for `Time.format()` and `Time.parse()`](https://github.com/Flipez/rocket-lang/pull/140) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[object/string] Add support for `.format()`](https://github.com/Flipez/rocket-lang/pull/139) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
@@ -44,7 +45,6 @@
 - [[mixed] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/135) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[stdlib/math] Add support for `Math.round()`](https://github.com/Flipez/rocket-lang/pull/134) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[evaluator/module] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/133) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [[foreach/hash] Swap key/value order](https://github.com/Flipez/rocket-lang/pull/132) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 
 #### 📜 My recent blog posts
 
