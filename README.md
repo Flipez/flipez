@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[release] Release 0.20.1](https://github.com/Flipez/rocket-lang/pull/149) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/string] Fix `.find()` and `.count()`  argument validation to only accept STRING](https://github.com/Flipez/rocket-lang/pull/147) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[release] Release 0.20.0](https://github.com/Flipez/rocket-lang/pull/146) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -44,7 +45,6 @@
 - [[object/error] Add ability to rescue errors and introduce `begin/rescue/end`](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Release 0.19.1](https://github.com/Flipez/rocket-lang/pull/141) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[stdlib/time] Add support for `Time.format()` and `Time.parse()`](https://github.com/Flipez/rocket-lang/pull/140) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [[object/string] Add support for `.format()`](https://github.com/Flipez/rocket-lang/pull/139) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 
 #### 📜 My recent blog posts
 
