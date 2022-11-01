@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[object/error] Add ability to rescue errors](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [[object/error] Add ability to rescue errors and introduce `begin/rescue/end`](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Release 0.19.1](https://github.com/Flipez/rocket-lang/pull/141) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[stdlib/time] Add support for `Time.format()` and `Time.parse()`](https://github.com/Flipez/rocket-lang/pull/140) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[object/string] Add support for `.format()`](https://github.com/Flipez/rocket-lang/pull/139) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
