@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[object/string] Fix `.find()` and `.count()`  argument validation to only accept STRING](https://github.com/Flipez/rocket-lang/pull/147) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[release] Release 0.20.0](https://github.com/Flipez/rocket-lang/pull/146) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/error] Add `raise()` builtin](https://github.com/Flipez/rocket-lang/pull/145) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[docs] Update documentation](https://github.com/Flipez/rocket-lang/pull/144) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -44,7 +45,6 @@
 - [[stdlib/time] Add support for `Time.format()` and `Time.parse()`](https://github.com/Flipez/rocket-lang/pull/140) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[object/string] Add support for `.format()`](https://github.com/Flipez/rocket-lang/pull/139) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[object/array] Add ability to `.reverse()`](https://github.com/Flipez/rocket-lang/pull/138) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [[object/array] Add ability to `.sort()`](https://github.com/Flipez/rocket-lang/pull/137) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 
 #### 📜 My recent blog posts
 
