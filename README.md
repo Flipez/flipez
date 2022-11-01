@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 day ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add function name to function object to use on inspect](https://github.com/Flipez/rocket-lang/pull/143) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/error] Add ability to rescue errors and introduce `begin/rescue/end`](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Release 0.19.1](https://github.com/Flipez/rocket-lang/pull/141) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[stdlib/time] Add support for `Time.format()` and `Time.parse()`](https://github.com/Flipez/rocket-lang/pull/140) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
@@ -44,7 +45,6 @@
 - [Release 0.19](https://github.com/Flipez/rocket-lang/pull/136) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[mixed] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/135) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[stdlib/math] Add support for `Math.round()`](https://github.com/Flipez/rocket-lang/pull/134) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [[evaluator/module] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/133) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 
 #### 📜 My recent blog posts
 
