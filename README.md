@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[object/error] Add `raise()` builtin](https://github.com/Flipez/rocket-lang/pull/145) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [[docs] Update documentation](https://github.com/Flipez/rocket-lang/pull/144) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/funtion] Missing name to use when inspect](https://github.com/Flipez/rocket-lang/pull/143) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/error] Add ability to rescue errors and introduce `begin/rescue/end`](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [Release 0.19.1](https://github.com/Flipez/rocket-lang/pull/141) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
@@ -43,8 +45,6 @@
 - [[object/array] Add ability to `.reverse()`](https://github.com/Flipez/rocket-lang/pull/138) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[object/array] Add ability to `.sort()`](https://github.com/Flipez/rocket-lang/pull/137) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Release 0.19](https://github.com/Flipez/rocket-lang/pull/136) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [[mixed] fix ioutil deprecation](https://github.com/Flipez/rocket-lang/pull/135) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [[stdlib/math] Add support for `Math.round()`](https://github.com/Flipez/rocket-lang/pull/134) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 
 #### 📜 My recent blog posts
 
