@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 days ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 weeks ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (3 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (4 months ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 months ago)
