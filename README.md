@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [himanshusinghs](https://github.com/himanshusinghs)
 - [Tch1b0](https://github.com/Tch1b0)
 - [networkpanic](https://github.com/networkpanic)
 - [DrBu7cher](https://github.com/DrBu7cher)
 - [dafriedmann](https://github.com/dafriedmann)
-- [MarcusWichelmann](https://github.com/MarcusWichelmann)
 
 #### 💬 Feedback
 
