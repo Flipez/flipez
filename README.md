@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (today)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 weeks ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 weeks ago)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 month ago)
@@ -65,7 +66,6 @@
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (5 months ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (5 months ago)
 - [betadots/hdm](https://github.com/betadots/hdm) -  (5 months ago)
-- [polyend/TrackerBetaTesting](https://github.com/polyend/TrackerBetaTesting) - Beta firmware and reporting. For official releases go to https://polyend.com/downloads/ (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
