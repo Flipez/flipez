@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (today)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (3 days ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 weeks ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 weeks ago)
@@ -65,7 +66,6 @@
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (4 months ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (5 months ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (5 months ago)
-- [betadots/hdm](https://github.com/betadots/hdm) -  (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
