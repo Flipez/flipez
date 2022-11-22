@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (6 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (4 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (4 months ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 months ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (4 months ago)
+- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (5 months ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (5 months ago)
 
 #### 🌱 My latest projects
@@ -29,21 +29,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.20.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.20.1), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.20.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.20.1), 3 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 5 months ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 1 year ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [[release] Release 0.20.1](https://github.com/Flipez/rocket-lang/pull/149) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [[object/string] Fix `.find()` and `.count()`  argument validation to only accept STRING](https://github.com/Flipez/rocket-lang/pull/147) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [[release] Release 0.20.0](https://github.com/Flipez/rocket-lang/pull/146) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [[object/error] Add `raise()` builtin](https://github.com/Flipez/rocket-lang/pull/145) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [[docs] Update documentation](https://github.com/Flipez/rocket-lang/pull/144) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [[object/funtion] Missing name to use when inspect](https://github.com/Flipez/rocket-lang/pull/143) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
+- [[release] Release 0.20.1](https://github.com/Flipez/rocket-lang/pull/149) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
+- [[object/string] Fix `.find()` and `.count()`  argument validation to only accept STRING](https://github.com/Flipez/rocket-lang/pull/147) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
+- [[release] Release 0.20.0](https://github.com/Flipez/rocket-lang/pull/146) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
+- [[object/error] Add `raise()` builtin](https://github.com/Flipez/rocket-lang/pull/145) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
+- [[docs] Update documentation](https://github.com/Flipez/rocket-lang/pull/144) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
+- [[object/funtion] Missing name to use when inspect](https://github.com/Flipez/rocket-lang/pull/143) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[object/error] Add ability to rescue errors and introduce `begin/rescue/end`](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 day ago)
-- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (4 days ago)
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 weeks ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (2 days ago)
+- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (5 days ago)
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (4 weeks ago)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (4 weeks ago)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 month ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (3 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (4 months ago)
