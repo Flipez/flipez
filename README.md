@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (4 months ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (today)
 - [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 - [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [[object/error] Add `raise()` builtin](https://github.com/Flipez/rocket-lang/pull/145) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[docs] Update documentation](https://github.com/Flipez/rocket-lang/pull/144) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[object/funtion] Missing name to use when inspect](https://github.com/Flipez/rocket-lang/pull/143) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [[object/error] Add ability to rescue errors and introduce `begin/rescue/end`](https://github.com/Flipez/rocket-lang/pull/142) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
