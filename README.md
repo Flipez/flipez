@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (today)
-- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 day ago)
+- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[release] Release 0.20.1](https://github.com/Flipez/rocket-lang/pull/149) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 days ago)
-- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (6 days ago)
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (4 weeks ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (4 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (4 days ago)
+- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (1 week ago)
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (1 month ago)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 month ago)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 month ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (3 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (4 months ago)
