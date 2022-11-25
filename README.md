@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 day ago)
-- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
+- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (2 days ago)
+- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
 - [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[release] Release 0.20.1](https://github.com/Flipez/rocket-lang/pull/149) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (4 days ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (5 days ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (1 week ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (1 month ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 month ago)
