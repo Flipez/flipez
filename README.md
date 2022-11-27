@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (4 days ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (4 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (4 months ago)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 months ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (5 months ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (5 months ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (5 months ago)
 
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 days ago)
+- [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (4 days ago)
 - [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -48,15 +48,15 @@
 
 #### 📜 My recent blog posts
 
-- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (6 months ago)
-- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (6 months ago)
+- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (7 months ago)
+- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (7 months ago)
 - [Sous Vide Steak 1.0](https://auch.cool/posts/2021/sous-vide/sous-vide-steak-1.0/) (1 year ago)
 - [Books](https://auch.cool/books/) (1 year ago)
 - [🥤 spezi &amp; cola](https://auch.cool/spezi/) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (6 days ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 week ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (1 week ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (1 month ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 month ago)
