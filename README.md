@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 week ago)
-- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) -  (1 week ago)
+- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (1 week ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (1 month ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 month ago)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 month ago)
