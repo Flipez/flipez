@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
@@ -9,7 +10,6 @@
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (4 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (5 months ago)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (5 months ago)
 - [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (5 months ago)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) - kickr core component (5 months ago)
 
