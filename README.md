@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (today)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 day ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 days ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 day ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (2 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 days ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (4 months ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (today)
-- [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
-- [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 day ago)
+- [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
+- [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 week ago)
 - [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
@@ -48,7 +48,7 @@
 
 #### 📜 My recent blog posts
 
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (today)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (1 day ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (7 months ago)
 - [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (7 months ago)
 - [Sous Vide Steak 1.0](https://auch.cool/posts/2021/sous-vide/sous-vide-steak-1.0/) (1 year ago)
@@ -63,7 +63,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 month ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (4 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (4 months ago)
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (4 months ago)
+- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (5 months ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind. (5 months ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (5 months ago)
 
