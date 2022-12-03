@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 day ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 days ago)
