@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (4 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 days ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (5 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 days ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (5 days ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 4 days ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 5 days ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 5 months ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 1 year ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [update docs](https://github.com/Flipez/rocket-lang/pull/167) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [update docs](https://github.com/Flipez/rocket-lang/pull/167) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
 - [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 week ago)
-- [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
+- [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (2 weeks ago)
 - [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (2 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 weeks ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (3 weeks ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (1 month ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 month ago)
