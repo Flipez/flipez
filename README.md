@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [[Wordpress] Update to 6.1.1](https://github.com/hetznercloud/apps/pull/72) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [[Nextcloud] Update to 25.0.2](https://github.com/hetznercloud/apps/pull/71) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [[Go] Update to 1.19.4](https://github.com/hetznercloud/apps/pull/70) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
@@ -44,7 +45,6 @@
 - [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 week ago)
 - [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
-- [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
