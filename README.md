@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Wordpress] Update to 6.1.1](https://github.com/hetznercloud/apps/pull/72) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
+- [[Nextcloud] Update to 25.0.2](https://github.com/hetznercloud/apps/pull/71) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
+- [[Go] Update to 1.19.4](https://github.com/hetznercloud/apps/pull/70) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
+- [[GitLab] Update to 15.6](https://github.com/hetznercloud/apps/pull/69) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
+- [[GitLab] Update to 15.6](https://github.com/hetznercloud/apps/pull/68) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (today)
 - [update docs](https://github.com/Flipez/rocket-lang/pull/167) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 week ago)
 - [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Refactor documentation generator](https://github.com/Flipez/rocket-lang/pull/156) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [Update theme](https://github.com/Flipez/brauser.io/pull/54) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 weeks ago)
-- [Add class](https://github.com/Flipez/rocket-lang/pull/155) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [test wasm](https://github.com/Flipez/rocket-lang/pull/153) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[release/goreleaser] Add tag to archive filename](https://github.com/Flipez/rocket-lang/pull/150) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[release] Release 0.20.1](https://github.com/Flipez/rocket-lang/pull/149) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[object/string] Fix `.find()` and `.count()`  argument validation to only accept STRING](https://github.com/Flipez/rocket-lang/pull/147) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
