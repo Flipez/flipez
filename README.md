@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix line position and add file to error message](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (4 days ago)
 - [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
 - [[Wordpress] Update to 6.1.1 and Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/72) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
@@ -44,7 +45,6 @@
 - [[GitLab] Update to 15.6](https://github.com/hetznercloud/apps/pull/68) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
 - [update docs](https://github.com/Flipez/rocket-lang/pull/167) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (2 weeks ago)
-- [Examples aoc](https://github.com/Flipez/rocket-lang/pull/157) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
