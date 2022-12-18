@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for range rocket syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[errorhandling] Fix line position, add `file:line:pos` to multiple error messages](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (4 days ago)
 - [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
@@ -44,7 +45,6 @@
 - [[GitLab] Update to 15.6 and Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/69) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
 - [[GitLab] Update to 15.6](https://github.com/hetznercloud/apps/pull/68) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (4 days ago)
 - [update docs](https://github.com/Flipez/rocket-lang/pull/167) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [add day 1 2022](https://github.com/Flipez/brauser.io/pull/55) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
