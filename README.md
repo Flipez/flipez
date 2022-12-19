@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[object] Refactor type conversion and rename methods](https://github.com/Flipez/rocket-lang/pull/175) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
@@ -43,8 +45,6 @@
 - [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
 - [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (5 days ago)
 - [[Wordpress] Update to 6.1.1 and Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/72) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (5 days ago)
-- [[Nextcloud] Update to 25.0.2 and Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/71) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (5 days ago)
-- [[Go] Update to 1.19.4](https://github.com/hetznercloud/apps/pull/70) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (5 days ago)
 
 #### 📜 My recent blog posts
 
