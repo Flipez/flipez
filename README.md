@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
@@ -44,7 +45,6 @@
 - [[language/control-expressions] Add support for `🚀-range`  syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [[errorhandling] Fix line position, add `file:line:pos` to multiple error messages](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (6 days ago)
-- [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (6 days ago)
 
 #### 📜 My recent blog posts
 
