@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
-- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 days ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 week ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 week ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (4 days ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (2 weeks ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (2 months ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (5 months ago)
@@ -29,22 +29,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 1 week ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 6 months ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 1 year ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [[object] Refactor type conversion and rename methods](https://github.com/Flipez/rocket-lang/pull/175) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [[language/control-expressions] Add support for `🚀-range`  syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [[errorhandling] Fix line position, add `file:line:pos` to multiple error messages](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (5 days ago)
-- [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (5 days ago)
-- [[Wordpress] Update to 6.1.1 and Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/72) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (5 days ago)
+- [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [[object] Refactor type conversion and rename methods](https://github.com/Flipez/rocket-lang/pull/175) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [[language/control-expressions] Add support for `🚀-range`  syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [[errorhandling] Fix line position, add `file:line:pos` to multiple error messages](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
+- [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (6 days ago)
+- [[LAMP] Update Ubuntu to 22.04](https://github.com/hetznercloud/apps/pull/73) on [hetznercloud/apps](https://github.com/hetznercloud/apps) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (4 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 month ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (1 month ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (1 month ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 month ago)
