@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 week ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 week ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (2 weeks ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 weeks ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (5 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (5 months ago)
@@ -29,13 +29,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 3 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 6 months ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 1 year ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
@@ -49,8 +49,8 @@
 #### 📜 My recent blog posts
 
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (3 weeks ago)
-- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (7 months ago)
-- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (7 months ago)
+- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (8 months ago)
+- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (8 months ago)
 - [Sous Vide Steak 1.0](https://auch.cool/posts/2021/sous-vide/sous-vide-steak-1.0/) (1 year ago)
 - [Books](https://auch.cool/books/) (1 year ago)
 
