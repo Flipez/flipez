@@ -36,11 +36,11 @@
 #### 🔨 My recent Pull Requests
 
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
+- [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
+- [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [[object] Refactor type conversion and rename methods](https://github.com/Flipez/rocket-lang/pull/175) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [[language/control-expressions] Add support for `🚀-range`  syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [[errorhandling] Fix line position, add `file:line:pos` to multiple error messages](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
