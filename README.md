@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (today)
+- [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 weeks ago)
@@ -11,7 +12,6 @@
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 - [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (5 months ago)
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention (6 months ago)
-- [voxpupuli/puppet_metadata](https://github.com/voxpupuli/puppet_metadata) -  (6 months ago)
 
 #### 🌱 My latest projects
 
