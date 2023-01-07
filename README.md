@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 day ago)
-- [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (1 day ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (3 weeks ago)
