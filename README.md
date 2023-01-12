@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 days ago)
-- [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (4 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
+- [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (5 days ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (3 weeks ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (4 weeks ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 days ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 days ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 month ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (1 month ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (2 months ago)
