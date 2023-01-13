@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (today)
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [[object] Refactor type conversion and rename methods](https://github.com/Flipez/rocket-lang/pull/175) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[language/control-expressions] Add support for `🚀-range`  syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [[errorhandling] Fix line position, add `file:line:pos` to multiple error messages](https://github.com/Flipez/rocket-lang/pull/173) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [Update setup-ruby action to non deprecated version](https://github.com/voxpupuli/vox-pupuli-tasks/pull/580) on [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) (1 month ago)
 
 #### 📜 My recent blog posts
 
