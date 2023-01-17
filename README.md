@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [bkochendorfer](https://github.com/bkochendorfer)
 - [sebastiangaiser](https://github.com/sebastiangaiser)
 - [enp0s10-GH](https://github.com/enp0s10-GH)
 - [LKaemmerling](https://github.com/LKaemmerling)
 - [apricote](https://github.com/apricote)
-- [himanshusinghs](https://github.com/himanshusinghs)
 
 #### 💬 Feedback
 
