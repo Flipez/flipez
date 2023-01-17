@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (today)
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (1 week ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
@@ -11,7 +12,6 @@
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
-- [Herzmut-Games/level-renner](https://github.com/Herzmut-Games/level-renner) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (today)
 - [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (today)
 - [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (4 days ago)
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
@@ -44,7 +45,6 @@
 - [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
 - [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
 - [[object] Refactor type conversion and rename methods](https://github.com/Flipez/rocket-lang/pull/175) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[language/control-expressions] Add support for `🚀-range`  syntax](https://github.com/Flipez/rocket-lang/pull/174) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
