@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager (2 months ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (2 months ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (2 months ago)
