@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (today)
-- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (2 days ago)
+- [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 day ago)
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (3 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (1 week ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 weeks ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (today)
-- [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (2 days ago)
-- [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (2 days ago)
-- [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (6 days ago)
+- [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 day ago)
+- [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (3 days ago)
+- [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (3 days ago)
+- [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
