@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (4 days ago)
+- [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (today)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (6 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
 - [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 
 #### 🌱 My latest projects
