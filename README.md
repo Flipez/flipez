@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update headers for files](https://github.com/publicsuffix/publicsuffix.org/pull/38) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (today)
 - [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (4 days ago)
 - [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (6 days ago)
 - [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (6 days ago)
@@ -44,7 +45,6 @@
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[object/array] Add ability to `.join()` elements](https://github.com/Flipez/rocket-lang/pull/177) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[foreach/while] Document return value](https://github.com/Flipez/rocket-lang/pull/176) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
