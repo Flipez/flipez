@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (3 days ago)
-- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (5 days ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
+- [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (4 days ago)
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (6 days ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
 - [Flipez/gl](https://github.com/Flipez/gl) - Environment sensible GitLab wrapper (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (3 days ago)
-- [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (5 days ago)
-- [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (5 days ago)
+- [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (4 days ago)
+- [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (6 days ago)
+- [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (6 days ago)
 - [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (2 months ago)
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (2 months ago)
+- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 months ago)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 months ago)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (3 months ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (5 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (6 months ago)
