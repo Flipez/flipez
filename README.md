@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/os](https://github.com/Flipez/os) -  (today)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (4 days ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (1 week ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
@@ -11,10 +12,10 @@
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/os](https://github.com/Flipez/os) - 
 - [Flipez/rcterm](https://github.com/Flipez/rcterm) - 
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) - 
 - [Flipez/blumentopf-go](https://github.com/Flipez/blumentopf-go) - 
@@ -24,7 +25,6 @@
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) - 
 - [Flipez/arnold](https://github.com/Flipez/arnold) - 
 - [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) - 
-- [Flipez/scrap-race](https://github.com/Flipez/scrap-race) - Game made for the Godot Wild Jam 2021
 
 
 #### 🔭 Latest releases I've contributed to
