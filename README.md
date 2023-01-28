@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Mario-e777](https://github.com/Mario-e777)
 - [bkochendorfer](https://github.com/bkochendorfer)
 - [sebastiangaiser](https://github.com/sebastiangaiser)
 - [lud1cr0us](https://github.com/lud1cr0us)
 - [LKaemmerling](https://github.com/LKaemmerling)
-- [apricote](https://github.com/apricote)
 
 #### 💬 Feedback
 
