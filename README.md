@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (today)
 - [Add wildcard to exclude regex](https://github.com/publicsuffix/publicsuffix.org/pull/39) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Update headers for files](https://github.com/publicsuffix/publicsuffix.org/pull/38) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
@@ -44,7 +45,6 @@
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [[object/array] Add ability to `.sum()` elements](https://github.com/Flipez/rocket-lang/pull/178) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 
 #### 📜 My recent blog posts
 
