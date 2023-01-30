@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
 - [Flipez/os](https://github.com/Flipez/os) -  (2 days ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 week ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (1 week ago)
@@ -10,7 +11,6 @@
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -49,10 +49,10 @@
 #### 📜 My recent blog posts
 
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 months ago)
-- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (9 months ago)
-- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (9 months ago)
-- [Sous Vide Steak 1.0](https://auch.cool/posts/2021/sous-vide/sous-vide-steak-1.0/) (1 year ago)
-- [Books](https://auch.cool/books/) (1 year ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (2 months ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (2 months ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (2 months ago)
+- [L&#39;Angolo Della Pizza](https://auch.cool/munich/langolo-della-pizza/) (2 months ago)
 
 #### ⭐ Recent Stars
 
