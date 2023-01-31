@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (today)
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (3 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
@@ -65,7 +66,6 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (3 months ago)
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki (6 months ago)
 - [FundamentalFrequency/LMN-3-Build-Guide](https://github.com/FundamentalFrequency/LMN-3-Build-Guide) - Build guide for the LMN-3 project (6 months ago)
-- [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
