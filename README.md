@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (4 days ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 week ago)
@@ -11,10 +12,10 @@
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [kickr-me/dashboard](https://github.com/kickr-me/dashboard) -  (1 month ago)
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps (1 month ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - 
 - [Flipez/os](https://github.com/Flipez/os) - 
 - [Flipez/rcterm](https://github.com/Flipez/rcterm) - 
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) - 
@@ -24,7 +25,6 @@
 - [Flipez/solar-valley](https://github.com/Flipez/solar-valley) - 
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) - 
 - [Flipez/arnold](https://github.com/Flipez/arnold) - 
-- [Flipez/flunkyball.auch.cool](https://github.com/Flipez/flunkyball.auch.cool) - 
 
 
 #### 🔭 Latest releases I've contributed to
