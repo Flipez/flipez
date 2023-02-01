@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (today)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (today)
 - [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (1 day ago)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (1 day ago)
@@ -65,7 +66,6 @@
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 months ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 months ago)
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
