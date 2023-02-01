@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (3 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (4 days ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 week ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (2 weeks ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 weeks ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (1 day ago)
+- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (2 days ago)
 - [Add wildcard to exclude regex](https://github.com/publicsuffix/publicsuffix.org/pull/39) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Update headers for files](https://github.com/publicsuffix/publicsuffix.org/pull/38) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (today)
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (today)
-- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (3 days ago)
+- [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (1 day ago)
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (1 day ago)
+- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (4 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
