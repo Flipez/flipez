@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (1 day ago)
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 days ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (5 days ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 week ago)
