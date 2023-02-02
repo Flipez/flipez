@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (today)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (4 days ago)
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (1 day ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 days ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (5 days ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 week ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (2 weeks ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 weeks ago)
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (2 days ago)
+- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (3 days ago)
 - [Add wildcard to exclude regex](https://github.com/publicsuffix/publicsuffix.org/pull/39) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Update headers for files](https://github.com/publicsuffix/publicsuffix.org/pull/38) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
-- [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
+- [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (2 weeks ago)
 - [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (2 weeks ago)
 - [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (2 weeks ago)
 - [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (2 weeks ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (today)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (today)
-- [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (1 day ago)
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (1 day ago)
-- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (4 days ago)
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (1 day ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 day ago)
+- [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (2 days ago)
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (2 days ago)
+- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (5 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
