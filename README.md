@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (2 days ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (5 days ago)
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (3 days ago)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (6 days ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (1 week ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (1 week ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (2 weeks ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (5 days ago)
+- [Add munich](https://github.com/Flipez/brauser.io/pull/56) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (6 days ago)
 - [Add wildcard to exclude regex](https://github.com/publicsuffix/publicsuffix.org/pull/39) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Update headers for files](https://github.com/publicsuffix/publicsuffix.org/pull/38) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (1 week ago)
 - [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (2 weeks ago)
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (3 days ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (3 days ago)
-- [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (4 days ago)
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (4 days ago)
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (4 days ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (4 days ago)
+- [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (5 days ago)
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (5 days ago)
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (1 week ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
