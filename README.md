@@ -41,7 +41,7 @@
 - [Add Cache-Control header to files](https://github.com/publicsuffix/publicsuffix.org/pull/36) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (3 weeks ago)
 - [Add GitHub Action to deploy site on list update](https://github.com/publicsuffix/list/pull/1686) on [publicsuffix/list](https://github.com/publicsuffix/list) (3 weeks ago)
 - [Add concurrency for workflow](https://github.com/publicsuffix/publicsuffix.org/pull/35) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (3 weeks ago)
-- [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (3 weeks ago)
+- [Add GitHub Action to deploy site to Google Cloud](https://github.com/publicsuffix/publicsuffix.org/pull/34) on [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) (4 weeks ago)
 - [use stringable when possible](https://github.com/Flipez/rocket-lang/pull/181) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[core] Refactor `int64` to `int` where possible](https://github.com/Flipez/rocket-lang/pull/180) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [[object/array] Rename `.yeet()` and `.yoink()` to `.pop()` and `.push()`](https://github.com/Flipez/rocket-lang/pull/179) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
