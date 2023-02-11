@@ -4,7 +4,7 @@
 
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (1 week ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (1 week ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (2 weeks ago)
 - [publicsuffix/publicsuffix.org](https://github.com/publicsuffix/publicsuffix.org) - The publicsuffix.org website (2 weeks ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (3 weeks ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 month ago)
@@ -60,7 +60,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
 - [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (1 week ago)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (1 week ago)
-- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (1 week ago)
+- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (2 weeks ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 month ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
 - [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
