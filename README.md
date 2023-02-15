@@ -56,14 +56,14 @@
 
 #### ⭐ Recent Stars
 
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (1 week ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (2 weeks ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (2 weeks ago)
 - [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (2 weeks ago)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (2 weeks ago)
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (2 weeks ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 month ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (2 months ago)
-- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (2 months ago)
+- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4 (3 months ago)
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (3 months ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (3 months ago)
 
