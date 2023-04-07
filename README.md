@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 days ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (2 weeks ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (1 month ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (1 month ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 month ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (2 months ago)
@@ -51,11 +51,11 @@
 
 #### 📜 My recent blog posts
 
+- [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (today)
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (4 months ago)
 - [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (4 months ago)
 - [Frau Bartels](https://auch.cool/munich/frau-bartels/) (4 months ago)
 - [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (4 months ago)
-- [L&#39;Angolo Della Pizza](https://auch.cool/munich/langolo-della-pizza/) (4 months ago)
 
 #### ⭐ Recent Stars
 
