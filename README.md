@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [GtpsFinance](https://github.com/GtpsFinance)
 - [Weldhappy](https://github.com/Weldhappy)
 - [jasonthomas](https://github.com/jasonthomas)
 - [RaphaelPour](https://github.com/RaphaelPour)
 - [DEEPRAJKUSHWAHA](https://github.com/DEEPRAJKUSHWAHA)
-- [ahoneiser](https://github.com/ahoneiser)
 
 #### 💬 Feedback
 
