@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (today)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (4 days ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 week ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (3 weeks ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (1 month ago)
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (1 month ago)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 month ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.92.3](https://github.com/common-voice/common-voice/releases/tag/release-v1.92.3), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.132](https://github.com/mozilla-it/refractr/releases/tag/v0.0.132), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 1 month ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -59,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (today)
 - [RaphaelPour/blogstage](https://github.com/RaphaelPour/blogstage) - Simple web server providing my static blog to the 🌍 (1 month ago)
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (2 months ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (2 months ago)
@@ -68,7 +70,6 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 months ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (4 months ago)
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (4 months ago)
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
