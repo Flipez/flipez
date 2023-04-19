@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.93.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.93.1), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.133](https://github.com/mozilla-it/refractr/releases/tag/v0.0.133), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.93.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.93.1), 2 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.133](https://github.com/mozilla-it/refractr/releases/tag/v0.0.133), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 1 month ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 4 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -68,7 +68,7 @@
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (2 months ago)
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (2 months ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 months ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (4 months ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (5 months ago)
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
