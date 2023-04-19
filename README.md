@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (today)
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (1 week ago)
 - [RaphaelPour/blogstage](https://github.com/RaphaelPour/blogstage) - Simple web server providing my static blog to the 🌍 (1 month ago)
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (2 months ago)
@@ -69,7 +70,6 @@
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (2 months ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 months ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager (5 months ago)
-- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
