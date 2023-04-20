@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.93.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.93.2), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.133](https://github.com/mozilla-it/refractr/releases/tag/v0.0.133), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.93.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.93.2), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.133](https://github.com/mozilla-it/refractr/releases/tag/v0.0.133), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 1 month ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 4 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 week ago)
+- [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 weeks ago)
 - [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [fix: Replace mail logging with log to console](https://github.com/mozilla-it/pastebin/pull/13) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (today)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 day ago)
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (1 week ago)
 - [RaphaelPour/blogstage](https://github.com/RaphaelPour/blogstage) - Simple web server providing my static blog to the 🌍 (1 month ago)
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (2 months ago)
