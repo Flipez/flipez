@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [Flipez/neural-network](https://github.com/Flipez/neural-network) - 
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) - 
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - 
 - [Flipez/os](https://github.com/Flipez/os) - 
@@ -24,7 +25,6 @@
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention
 - [Flipez/flipez](https://github.com/Flipez/flipez) - 
 - [Flipez/solar-valley](https://github.com/Flipez/solar-valley) - 
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) - 
 
 
 #### 🔭 Latest releases I've contributed to
