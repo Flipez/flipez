@@ -8,8 +8,8 @@
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 weeks ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (1 month ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (1 month ago)
-- [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (1 month ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
+- [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (1 month ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (2 months ago)
 
