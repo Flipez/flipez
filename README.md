@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (6 days ago)
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (2 weeks ago)
@@ -69,7 +70,6 @@
 - [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (2 months ago)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (2 months ago)
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (2 months ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
