@@ -60,6 +60,8 @@
 
 #### ⭐ Recent Stars
 
+- [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (today)
+- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (today)
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (1 week ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
@@ -68,8 +70,6 @@
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (3 months ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (3 months ago)
 - [HenningHolmDE/hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust) - Unofficial Rust crate for accessing the Hetzner Cloud API (3 months ago)
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (3 months ago)
-- [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
