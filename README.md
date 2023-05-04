@@ -6,7 +6,7 @@
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 week ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (3 weeks ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 weeks ago)
-- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 weeks ago)
+- [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 month ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (1 month ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (1 month ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (2 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.138](https://github.com/mozilla-it/refractr/releases/tag/v0.0.138), today) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.138](https://github.com/mozilla-it/refractr/releases/tag/v0.0.138), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.94.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.94.1), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 1 month ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 weeks ago)
+- [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (4 weeks ago)
 - [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [fix: Replace mail logging with log to console](https://github.com/mozilla-it/pastebin/pull/13) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
@@ -60,8 +60,8 @@
 
 #### ⭐ Recent Stars
 
-- [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (today)
-- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (today)
+- [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (1 day ago)
+- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (1 day ago)
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (1 week ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
