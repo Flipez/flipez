@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/k8s-evaluation-term-paper](https://github.com/Flipez/k8s-evaluation-term-paper) -  (2 weeks ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (2 weeks ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (3 weeks ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 month ago)
@@ -12,10 +11,10 @@
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (2 months ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (2 months ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (2 months ago)
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) -  (2 months ago)
 
 #### 🌱 My latest projects
 
-- [Flipez/k8s-evaluation-term-paper](https://github.com/Flipez/k8s-evaluation-term-paper) - 
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) - 
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) - 
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - 
@@ -25,6 +24,7 @@
 - [Flipez/blumentopf-go](https://github.com/Flipez/blumentopf-go) - 
 - [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention
 - [Flipez/flipez](https://github.com/Flipez/flipez) - 
+- [Flipez/solar-valley](https://github.com/Flipez/solar-valley) - 
 
 
 #### 🔭 Latest releases I've contributed to
