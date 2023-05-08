@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (today)
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API (2 days ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (3 days ago)
 - [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (5 days ago)
@@ -69,7 +70,6 @@
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (3 weeks ago)
 - [RaphaelPour/blogstage](https://github.com/RaphaelPour/blogstage) - Simple web server providing my static blog to the 🌍 (2 months ago)
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
