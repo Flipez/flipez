@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.95.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.95.2), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.142](https://github.com/mozilla-it/refractr/releases/tag/v0.0.142), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.95.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.95.1), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 1 week ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 2 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 4 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
