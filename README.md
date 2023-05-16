@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (today)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (today)
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (1 week ago)
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (1 week ago)
@@ -70,7 +71,6 @@
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (1 week ago)
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (3 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 weeks ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
