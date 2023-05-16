@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (today)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 week ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (3 weeks ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (1 month ago)
@@ -11,7 +12,6 @@
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (2 months ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (2 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (2 months ago)
-- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (today)
 - [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 month ago)
 - [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
@@ -49,7 +50,6 @@
 - [chore(etherpad): remove prod and adjust telegraf](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/121) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (2 months ago)
 - [chore(pastebin): remove prod and adjust telegraf](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/120) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (2 months ago)
 - [chore(etherpad): remove staging](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/126) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (2 months ago)
-- [chore(pastebin): remove staging](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/125) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (2 months ago)
 
 #### 📜 My recent blog posts
 
