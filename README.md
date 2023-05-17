@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (today)
+- [[WIP] Update cluster to 1.24](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (today)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (today)
 - [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 day ago)
 - [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 month ago)
@@ -48,8 +50,6 @@
 - [fix: Replace mail logging with log to console](https://github.com/mozilla-it/pastebin/pull/13) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [chore(etherpad): remove chart](https://github.com/mozilla-it/helm-charts/pull/166) on [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) (2 months ago)
 - [chore(pastebin): remove chart](https://github.com/mozilla-it/helm-charts/pull/165) on [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) (2 months ago)
-- [chore(etherpad): remove prod and adjust telegraf](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/121) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (2 months ago)
-- [chore(pastebin): remove prod and adjust telegraf](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/120) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (2 months ago)
 
 #### 📜 My recent blog posts
 
