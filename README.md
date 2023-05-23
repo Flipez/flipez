@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 day ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 weeks ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (2 months ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (2 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (2 months ago)
-- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 days ago)
 - [[WIP] Install aws-ebs-csi-driver, upgrade kubernetes to version 1.24](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 days ago)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 days ago)
@@ -49,7 +50,6 @@
 - [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [fix: Replace mail logging with log to console](https://github.com/mozilla-it/pastebin/pull/13) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [chore(etherpad): remove chart](https://github.com/mozilla-it/helm-charts/pull/166) on [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) (2 months ago)
-- [chore(pastebin): remove chart](https://github.com/mozilla-it/helm-charts/pull/165) on [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) (2 months ago)
 
 #### 📜 My recent blog posts
 
