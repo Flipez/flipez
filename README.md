@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 days ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 weeks ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 month ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.143](https://github.com/mozilla-it/refractr/releases/tag/v0.0.143), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.96.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.96.0), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.143](https://github.com/mozilla-it/refractr/releases/tag/v0.0.143), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.96.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.96.0), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 2 weeks ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 2 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 4 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
 - [[WIP] Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (1 day ago)
+- [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (2 days ago)
 - [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (1 week ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 week ago)
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (2 weeks ago)
@@ -70,7 +70,7 @@
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
 - [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (3 weeks ago)
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (3 weeks ago)
-- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (4 weeks ago)
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
