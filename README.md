@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 week ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 weeks ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 month ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
 - [[WIP] Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
-- [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 week ago)
+- [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
 - [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 month ago)
 - [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
@@ -54,16 +54,16 @@
 #### 📜 My recent blog posts
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (1 month ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (5 months ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (5 months ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (5 months ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (5 months ago)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (6 months ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (6 months ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (6 months ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (6 days ago)
-- [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (1 week ago)
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 week ago)
+- [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (1 week ago)
+- [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (2 weeks ago)
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 weeks ago)
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (3 weeks ago)
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (3 weeks ago)
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API (3 weeks ago)
