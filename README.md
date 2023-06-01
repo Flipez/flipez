@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 day ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 days ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 weeks ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 month ago)
@@ -11,7 +11,7 @@
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (1 month ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (2 months ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (2 months ago)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (2 months ago)
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (today)
+- [[WIP] Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 day ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
 - [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
