@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 days ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 days ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 weeks ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.143](https://github.com/mozilla-it/refractr/releases/tag/v0.0.143), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.96.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.96.0), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.143](https://github.com/mozilla-it/refractr/releases/tag/v0.0.143), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.96.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.96.0), 2 weeks ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 3 weeks ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 2 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 4 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 day ago)
+- [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 days ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
 - [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
@@ -67,9 +67,9 @@
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (3 weeks ago)
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (3 weeks ago)
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API (3 weeks ago)
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (3 weeks ago)
-- [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (4 weeks ago)
-- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (4 weeks ago)
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (4 weeks ago)
+- [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (1 month ago)
+- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (1 month ago)
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
