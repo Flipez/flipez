@@ -6,7 +6,7 @@
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (1 month ago)
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (1 month ago)
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (2 months ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 months ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (2 months ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (2 months ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (4 days ago)
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (5 days ago)
 - [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (2 weeks ago)
 - [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (3 weeks ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (3 weeks ago)
