@@ -35,7 +35,7 @@
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 3 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 5 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 6 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 11 months ago) - kickr core component
+- [kickr-me/kickr-core](https://github.com/kickr-me/kickr-core) ([v0.3.3](https://github.com/kickr-me/kickr-core/releases/tag/v0.3.3), 1 year ago) - kickr core component
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 2 years ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (6 days ago)
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (1 week ago)
 - [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (2 weeks ago)
 - [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (3 weeks ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (3 weeks ago)
