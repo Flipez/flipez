@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.98.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.98.0), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.143](https://github.com/mozilla-it/refractr/releases/tag/v0.0.143), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.98.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.98.0), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.143](https://github.com/mozilla-it/refractr/releases/tag/v0.0.143), 4 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 1 month ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 3 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 5 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -42,9 +42,9 @@
 
 - [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 weeks ago)
-- [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 weeks ago)
-- [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 weeks ago)
+- [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
+- [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
+- [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
 - [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
 - [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 months ago)
 - [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
