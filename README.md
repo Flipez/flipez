@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (today)
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (3 weeks ago)
 - [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (1 month ago)
 - [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (1 month ago)
@@ -69,7 +70,6 @@
 - [hetznercloud/hcloud-go](https://github.com/hetznercloud/hcloud-go) - A Go library for the Hetzner Cloud API (1 month ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (1 month ago)
 - [karlomikus/vue-salt-rim](https://github.com/karlomikus/vue-salt-rim) - Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance. (1 month ago)
-- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
