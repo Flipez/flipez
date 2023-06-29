@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [duttyend](https://github.com/duttyend)
 - [engraya](https://github.com/engraya)
 - [arthurdoomer](https://github.com/arthurdoomer)
 - [MarkusFreitag](https://github.com/MarkusFreitag)
 - [Neustradamus](https://github.com/Neustradamus)
-- [ccrrd98](https://github.com/ccrrd98)
 
 #### 💬 Feedback
 
