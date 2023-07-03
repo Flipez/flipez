@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ahmadsafirun](https://github.com/ahmadsafirun)
 - [duttyend](https://github.com/duttyend)
 - [engraya](https://github.com/engraya)
 - [arthurdoomer](https://github.com/arthurdoomer)
 - [MarkusFreitag](https://github.com/MarkusFreitag)
-- [Neustradamus](https://github.com/Neustradamus)
 
 #### 💬 Feedback
 
