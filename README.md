@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.100.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.100.0), 4 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.100.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.100.0), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 4 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 6 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -60,9 +60,9 @@
 
 #### ⭐ Recent Stars
 
-- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programing Language (5 days ago)
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (5 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (6 days ago)
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programing Language (6 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (6 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 week ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (2 weeks ago)
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language (1 month ago)
 - [mjuhanne/fyrtur-motor-board](https://github.com/mjuhanne/fyrtur-motor-board) - Custom firmware for the STM32 based IKEA Fyrtur roller blind motor board (1 month ago)
