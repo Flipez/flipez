@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 months ago)
-- [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (2 months ago)
+- [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (3 months ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (3 months ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (3 months ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 months ago)
@@ -40,7 +40,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
-- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
+- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 months ago)
 - [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 months ago)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 months ago)
@@ -60,8 +60,8 @@
 
 #### ⭐ Recent Stars
 
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (3 days ago)
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 days ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (4 days ago)
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (4 days ago)
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programing Language (1 week ago)
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (1 week ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 week ago)
