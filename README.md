@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (3 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.100.3](https://github.com/common-voice/common-voice/releases/tag/release-v1.100.3), 2 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.100.3](https://github.com/common-voice/common-voice/releases/tag/release-v1.100.3), 3 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 4 months ago) - 
@@ -53,10 +53,10 @@
 #### 📜 My recent blog posts
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (3 months ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (7 months ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (7 months ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (7 months ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (7 months ago)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (8 months ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (8 months ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (8 months ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (8 months ago)
 
 #### ⭐ Recent Stars
 
