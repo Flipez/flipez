@@ -11,7 +11,7 @@
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (3 months ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (4 months ago)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (4 months ago)
-- [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (4 months ago)
+- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (4 months ago)
 
 #### 🌱 My latest projects
 
