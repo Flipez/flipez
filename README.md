@@ -4,7 +4,7 @@
 
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 months ago)
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (3 months ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (3 months ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (4 months ago)
@@ -31,7 +31,7 @@
 
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.100.3](https://github.com/common-voice/common-voice/releases/tag/release-v1.100.3), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 3 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 5 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 6 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.21.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.21.0), 8 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -69,18 +69,18 @@
 - [TodePond/C](https://github.com/TodePond/C) - perfect programming language (2 months ago)
 - [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (2 months ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
-- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (2 months ago)
+- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 #### 👯 Check out some of my recent followers
 
+- [Mohamed988o](https://github.com/Mohamed988o)
 - [ahmadsafirun](https://github.com/ahmadsafirun)
 - [duttyend](https://github.com/duttyend)
 - [engraya](https://github.com/engraya)
 - [arthurdoomer](https://github.com/arthurdoomer)
-- [MarkusFreitag](https://github.com/MarkusFreitag)
 
 #### 💬 Feedback
 
