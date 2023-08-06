@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (today)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (2 weeks ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 weeks ago)
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (3 weeks ago)
@@ -69,7 +70,6 @@
 - [TodePond/C](https://github.com/TodePond/C) - perfect programming language (2 months ago)
 - [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (2 months ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
-- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
