@@ -60,6 +60,8 @@
 
 #### ⭐ Recent Stars
 
+- [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (today)
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (today)
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (2 days ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (3 weeks ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 weeks ago)
@@ -68,8 +70,6 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (4 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 month ago)
 - [TodePond/C](https://github.com/TodePond/C) - perfect programming language (2 months ago)
-- [stffffn/cyberbacher](https://github.com/stffffn/cyberbacher) - Cyberbacher Stickers (2 months ago)
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
