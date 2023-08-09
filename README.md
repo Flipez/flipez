@@ -6,7 +6,7 @@
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (3 months ago)
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (3 months ago)
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (4 months ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (4 months ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (4 months ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (4 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.101.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.101.0), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.101.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.101.0), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 4 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 3 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 5 months ago) - 
@@ -60,13 +60,13 @@
 
 #### ⭐ Recent Stars
 
-- [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (today)
-- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (today)
-- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (2 days ago)
+- [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (1 day ago)
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (1 day ago)
+- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (3 days ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (3 weeks ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (3 weeks ago)
-- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (3 weeks ago)
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (3 weeks ago)
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (4 weeks ago)
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (4 weeks ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (4 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 month ago)
 - [TodePond/C](https://github.com/TodePond/C) - perfect programming language (2 months ago)
