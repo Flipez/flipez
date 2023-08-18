@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (today)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 days ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (1 week ago)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (1 week ago)
@@ -69,7 +70,6 @@
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (1 month ago)
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
