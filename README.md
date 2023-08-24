@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (5 days ago)
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (6 days ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (1 week ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (2 weeks ago)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (2 weeks ago)
