@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Leonemal](https://github.com/Leonemal)
 - [Mohamed988o](https://github.com/Mohamed988o)
 - [ahmadsafirun](https://github.com/ahmadsafirun)
 - [duttyend](https://github.com/duttyend)
 - [engraya](https://github.com/engraya)
-- [arthurdoomer](https://github.com/arthurdoomer)
 
 #### 💬 Feedback
 
