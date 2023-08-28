@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 days ago)
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
+- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (3 days ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (4 months ago)
@@ -53,14 +53,14 @@
 #### 📜 My recent blog posts
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (4 months ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (8 months ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (8 months ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (8 months ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (8 months ago)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (9 months ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (9 months ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (9 months ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 days ago)
+- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (3 days ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (1 week ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (1 week ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (2 weeks ago)
