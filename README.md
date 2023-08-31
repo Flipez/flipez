@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (5 days ago)
+- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (6 days ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.101.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.101.1), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.101.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.101.1), 2 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 1 month ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 3 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 5 months ago) - 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (5 days ago)
+- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (6 days ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (1 week ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 weeks ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (3 weeks ago)
