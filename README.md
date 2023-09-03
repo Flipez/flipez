@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.101.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.101.1), 4 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.101.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.101.1), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.145](https://github.com/mozilla-it/refractr/releases/tag/v0.0.145), 1 month ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 3 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 6 months ago) - 
@@ -45,10 +45,10 @@
 - [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 months ago)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 months ago)
 - [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 months ago)
-- [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (4 months ago)
-- [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (5 months ago)
-- [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (5 months ago)
-- [fix: Replace mail logging with log to console](https://github.com/mozilla-it/pastebin/pull/13) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (5 months ago)
+- [Use nonroot user inside the docker image](https://github.com/common-voice/common-voice/pull/3999) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (5 months ago)
+- [fix: Explicitly set database charset to utf8mb4](https://github.com/mozilla-it/pastebin/pull/15) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (6 months ago)
+- [fix: Do not specify logger in command](https://github.com/mozilla-it/pastebin/pull/14) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (6 months ago)
+- [fix: Replace mail logging with log to console](https://github.com/mozilla-it/pastebin/pull/13) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (6 months ago)
 
 #### 📜 My recent blog posts
 
@@ -60,13 +60,13 @@
 
 #### ⭐ Recent Stars
 
-- [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (1 day ago)
+- [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (2 days ago)
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (1 week ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 weeks ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 weeks ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (3 weeks ago)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (3 weeks ago)
-- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (3 weeks ago)
+- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (4 weeks ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 month ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (1 month ago)
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (1 month ago)
