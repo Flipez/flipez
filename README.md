@@ -60,12 +60,12 @@
 
 #### ⭐ Recent Stars
 
-- [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (5 days ago)
+- [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (6 days ago)
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (1 week ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 weeks ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (3 weeks ago)
-- [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (4 weeks ago)
-- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (4 weeks ago)
+- [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (1 month ago)
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (1 month ago)
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (1 month ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 month ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (1 month ago)
