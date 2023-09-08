@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (1 week ago)
+- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 weeks ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (4 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (4 months ago)
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (4 months ago)
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (5 months ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (5 months ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 months ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (5 months ago)
@@ -60,9 +60,9 @@
 
 #### ⭐ Recent Stars
 
-- [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (6 days ago)
-- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (1 week ago)
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 weeks ago)
+- [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (1 week ago)
+- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 weeks ago)
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (3 weeks ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (3 weeks ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (1 month ago)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (1 month ago)
