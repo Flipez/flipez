@@ -69,7 +69,7 @@
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (1 month ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 month ago)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (1 month ago)
-- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (1 month ago)
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
