@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (today)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (3 weeks ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
@@ -11,7 +12,6 @@
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (5 months ago)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) - Community tool to manage open PRs for puppet modules (5 months ago)
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) -  (6 months ago)
-- [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) -  (6 months ago)
 
 #### 🌱 My latest projects
 
