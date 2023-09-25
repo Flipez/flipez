@@ -76,11 +76,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ar-rakib](https://github.com/ar-rakib)
 - [n0coast](https://github.com/n0coast)
 - [Leonemal](https://github.com/Leonemal)
 - [Mohamed988o](https://github.com/Mohamed988o)
 - [ahmadsafirun](https://github.com/ahmadsafirun)
-- [duttyend](https://github.com/duttyend)
 
 #### 💬 Feedback
 
