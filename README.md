@@ -4,7 +4,7 @@
 
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (1 week ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (1 month ago)
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 months ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (4 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (5 months ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.147](https://github.com/mozilla-it/refractr/releases/tag/v0.0.147), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.103.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.103.0), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.147](https://github.com/mozilla-it/refractr/releases/tag/v0.0.147), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.103.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.103.0), 2 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 6 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 8 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -53,10 +53,10 @@
 #### 📜 My recent blog posts
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (5 months ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (9 months ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (9 months ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (9 months ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (9 months ago)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (10 months ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (10 months ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (10 months ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (10 months ago)
 
 #### ⭐ Recent Stars
 
