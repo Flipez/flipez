@@ -19,7 +19,7 @@
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) - 
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) - 
-- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - 
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - Repository for the Command Line Rust book by Ken Youens-Clark
 - [Flipez/os](https://github.com/Flipez/os) - 
 - [Flipez/rcterm](https://github.com/Flipez/rcterm) - 
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) - 
