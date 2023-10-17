@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.1), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.1), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.149](https://github.com/mozilla-it/refractr/releases/tag/v0.0.149), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 5 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -63,7 +63,7 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (2 weeks ago)
 - [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (1 month ago)
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (1 month ago)
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (1 month ago)
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 months ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 months ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (2 months ago)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (2 months ago)
