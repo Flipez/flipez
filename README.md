@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 day ago)
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (today)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.36.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.36.0), today) - Cross-SRE Terraform modules
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.2), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.35.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.35.0), 1 day ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.149](https://github.com/mozilla-it/refractr/releases/tag/v0.0.149), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.0.0), 5 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (today)
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (today)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 day ago)
 - [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
@@ -49,7 +50,6 @@
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
 - [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
 - [Install aws-ebs-csi-driver, upgrade kubernetes to version 1.23](https://github.com/mozilla-iam/iam-infra/pull/314) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
-- [Upgrade prod and stage cluster to version 1.22](https://github.com/mozilla-iam/iam-infra/pull/313) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
 
 #### 📜 My recent blog posts
 
