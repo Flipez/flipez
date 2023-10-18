@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.150](https://github.com/mozilla-it/refractr/releases/tag/v0.0.150), today) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.151](https://github.com/mozilla-it/refractr/releases/tag/v0.0.151), today) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.36.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.36.0), today) - Cross-SRE Terraform modules
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.2), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
