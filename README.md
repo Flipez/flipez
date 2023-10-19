@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (today)
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (today)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (today)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (2 weeks ago)
@@ -70,7 +71,6 @@
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 months ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (2 months ago)
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (2 months ago)
-- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
