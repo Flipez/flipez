@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (today)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (4 days ago)
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (4 days ago)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (4 days ago)
@@ -70,7 +71,6 @@
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 months ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 months ago)
 - [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (2 months ago)
-- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
