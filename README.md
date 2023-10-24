@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (today)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 day ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (5 days ago)
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (5 days ago)
@@ -70,7 +71,6 @@
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 months ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 months ago)
 - [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 months ago)
-- [adjust/rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
