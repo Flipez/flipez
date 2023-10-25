@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/bkv](https://github.com/Flipez/bkv) -  (today)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (2 days ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (5 days ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
@@ -11,10 +12,10 @@
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (6 months ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (6 months ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (6 months ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/bkv](https://github.com/Flipez/bkv) - 
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) - 
@@ -24,7 +25,6 @@
 - [Flipez/rcterm](https://github.com/Flipez/rcterm) - 
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) - 
 - [Flipez/blumentopf-go](https://github.com/Flipez/blumentopf-go) - 
-- [Flipez/rocket-lang-vscode](https://github.com/Flipez/rocket-lang-vscode) - 🚀🇱🅰🆖 vscode extention
 
 
 #### 🔭 Latest releases I've contributed to
