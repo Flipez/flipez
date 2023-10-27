@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/bkv](https://github.com/Flipez/bkv) -  (1 day ago)
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (3 days ago)
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (6 days ago)
+- [Flipez/bkv](https://github.com/Flipez/bkv) -  (2 days ago)
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (4 days ago)
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (1 month ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 months ago)
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (5 months ago)
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (6 months ago)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak. (6 months ago)
 
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 2 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 6 days ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 3 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 week ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.2), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 3 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 7 months ago) - 
@@ -54,15 +54,15 @@
 #### 📜 My recent blog posts
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (6 months ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (10 months ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (10 months ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (10 months ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (10 months ago)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (11 months ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (11 months ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (11 months ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (2 days ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (3 days ago)
+- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (3 days ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (4 days ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 week ago)
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (1 week ago)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 week ago)
