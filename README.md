@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/bkv](https://github.com/Flipez/bkv) -  (3 days ago)
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (5 days ago)
+- [Flipez/bkv](https://github.com/Flipez/bkv) -  (4 days ago)
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (6 days ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 weeks ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 4 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 5 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 week ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.2), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 4 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -61,8 +61,8 @@
 
 #### ⭐ Recent Stars
 
-- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (4 days ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (5 days ago)
+- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (5 days ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (6 days ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 week ago)
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (1 week ago)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 week ago)
