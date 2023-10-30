@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.105.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.105.0), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 6 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 week ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.2), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 7 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 9 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
