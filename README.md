@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/bkv](https://github.com/Flipez/bkv) -  (4 days ago)
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (6 days ago)
+- [Flipez/bkv](https://github.com/Flipez/bkv) -  (5 days ago)
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 week ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 week ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 weeks ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 weeks ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (1 month ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (5 months ago)
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 5 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.38.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.38.0), 6 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 week ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.104.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.104.2), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 4 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 7 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 9 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 2 years ago) - Community tool to manage open PRs for puppet modules
@@ -43,8 +43,8 @@
 - [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 week ago)
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 week ago)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 week ago)
-- [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
-- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 weeks ago)
+- [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
+- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 months ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
@@ -61,12 +61,12 @@
 
 #### ⭐ Recent Stars
 
-- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (5 days ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (6 days ago)
+- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (6 days ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 week ago)
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (1 week ago)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 week ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (4 weeks ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 month ago)
 - [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (1 month ago)
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 months ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 months ago)
