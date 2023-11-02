@@ -77,11 +77,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [konrad2002](https://github.com/konrad2002)
 - [hyoun797](https://github.com/hyoun797)
 - [ar-rakib](https://github.com/ar-rakib)
 - [n0coast](https://github.com/n0coast)
 - [Leonemal](https://github.com/Leonemal)
-- [Mohamed988o](https://github.com/Mohamed988o)
 
 #### 💬 Feedback
 
