@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (today)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (1 week ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (2 weeks ago)
@@ -70,7 +71,6 @@
 - [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (2 months ago)
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 months ago)
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 months ago)
-- [maxbbraun/whisper-edge](https://github.com/maxbbraun/whisper-edge) - OpenAI Whisper for edge devices (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
