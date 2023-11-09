@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (today)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (6 days ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (2 weeks ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (2 weeks ago)
@@ -70,7 +71,6 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform (1 month ago)
 - [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (2 months ago)
 - [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 months ago)
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
