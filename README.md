@@ -5,7 +5,7 @@
 - [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (1 week ago)
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (2 weeks ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (2 weeks ago)
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 weeks ago)
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (1 month ago)
@@ -32,7 +32,7 @@
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.105.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.105.2), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.39.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.39.0), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.152](https://github.com/mozilla-it/refractr/releases/tag/v0.0.152), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 2 weeks ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 3 weeks ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 8 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 10 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -61,8 +61,8 @@
 
 #### ⭐ Recent Stars
 
-- [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (today)
-- [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (6 days ago)
+- [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (1 day ago)
+- [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 week ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (2 weeks ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (2 weeks ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (3 weeks ago)
