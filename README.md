@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (1 week ago)
+- [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (2 weeks ago)
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (2 weeks ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (2 weeks ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (3 weeks ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (2 days ago)
+- [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (3 days ago)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 week ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (2 weeks ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (2 weeks ago)
