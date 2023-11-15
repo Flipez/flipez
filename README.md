@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (today)
 - [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (6 days ago)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 week ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (3 weeks ago)
@@ -70,7 +71,6 @@
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (3 weeks ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform (1 month ago)
 - [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (2 months ago)
-- [M45-Science/ChatWire](https://github.com/M45-Science/ChatWire) - Factorio to Discord chat bridge and server manager, written in golang. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
