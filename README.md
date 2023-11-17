@@ -77,11 +77,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [monsieurgrey](https://github.com/monsieurgrey)
 - [dumingvss](https://github.com/dumingvss)
 - [konrad2002](https://github.com/konrad2002)
 - [hyoun797](https://github.com/hyoun797)
 - [ar-rakib](https://github.com/ar-rakib)
-- [n0coast](https://github.com/n0coast)
 
 #### 💬 Feedback
 
