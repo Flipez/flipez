@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.155](https://github.com/mozilla-it/refractr/releases/tag/v0.0.155), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.40.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.40.0), 3 days ago) - Cross-SRE Terraform modules
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.106.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.106.1), 3 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.155](https://github.com/mozilla-it/refractr/releases/tag/v0.0.155), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.40.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.40.0), 4 days ago) - Cross-SRE Terraform modules
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.106.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.106.1), 4 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 4 weeks ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 8 months ago) - 
@@ -61,14 +61,14 @@
 
 #### ⭐ Recent Stars
 
-- [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (2 days ago)
+- [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (3 days ago)
 - [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (1 week ago)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (2 weeks ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (3 weeks ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (3 weeks ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (4 weeks ago)
-- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (4 weeks ago)
-- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (4 weeks ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 month ago)
+- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (1 month ago)
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 month ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform (1 month ago)
 - [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome (2 months ago)
 
