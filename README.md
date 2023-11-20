@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (today)
 - [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (3 weeks ago)
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (3 weeks ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (4 weeks ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (2 months ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (5 months ago)
-- [Flipez/neural-network](https://github.com/Flipez/neural-network) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.155](https://github.com/mozilla-it/refractr/releases/tag/v0.0.155), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.156](https://github.com/mozilla-it/refractr/releases/tag/v0.0.156), today) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.40.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.40.0), 6 days ago) - Cross-SRE Terraform modules
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.106.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.106.1), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 month ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (today)
 - [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (today)
 - [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
@@ -49,7 +50,6 @@
 - [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 months ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 months ago)
 - [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
-- [Upgrade prod and stage kubernetes cluster to 1.25](https://github.com/mozilla-iam/iam-infra/pull/315) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
 
 #### 📜 My recent blog posts
 
