@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (5 days ago)
-- [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (3 weeks ago)
+- [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (today)
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 day ago)
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (6 days ago)
+- [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (4 weeks ago)
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (1 month ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 month ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (2 months ago)
-- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (3 months ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/
 - [Flipez/bkv](https://github.com/Flipez/bkv) - 
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -24,13 +25,12 @@
 - [Flipez/os](https://github.com/Flipez/os) - 
 - [Flipez/rcterm](https://github.com/Flipez/rcterm) - 
 - [Flipez/http-relay](https://github.com/Flipez/http-relay) - 
-- [Flipez/blumentopf-go](https://github.com/Flipez/blumentopf-go) - 
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.107.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.107.1), 3 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.156](https://github.com/mozilla-it/refractr/releases/tag/v0.0.156), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.107.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.107.1), 4 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.156](https://github.com/mozilla-it/refractr/releases/tag/v0.0.156), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.40.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.40.0), 1 week ago) - Cross-SRE Terraform modules
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 month ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (5 days ago)
-- [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (5 days ago)
+- [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (6 days ago)
+- [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (6 days ago)
 - [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
@@ -54,16 +54,16 @@
 #### 📜 My recent blog posts
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (7 months ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (11 months ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (11 months ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (11 months ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (11 months ago)
+- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (1 year ago)
+- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (1 year ago)
+- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (1 year ago)
+- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python (today)
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python (today)
-- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python (today)
+- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python (1 day ago)
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python (1 day ago)
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python (1 day ago)
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (1 week ago)
 - [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (2 weeks ago)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (3 weeks ago)
