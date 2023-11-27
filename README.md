@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (1 day ago)
 - [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (2 days ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 week ago)
@@ -9,7 +10,6 @@
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (1 month ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 month ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 month ago)
 - [mozilla/stickers](https://github.com/mozilla/stickers) - Collection of Mozilla related stickers (2 months ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (1 week ago)
 - [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 week ago)
 - [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
@@ -49,7 +50,6 @@
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/187) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 months ago)
-- [Cleanup deprecated versions in kubernetes cluster](https://github.com/mozilla-iam/iam-infra/pull/316) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
 
 #### 📜 My recent blog posts
 
