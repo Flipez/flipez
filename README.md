@@ -61,6 +61,8 @@
 
 #### ⭐ Recent Stars
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (today)
+- [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (today)
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python (3 days ago)
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python (3 days ago)
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python (3 days ago)
@@ -69,8 +71,6 @@
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (3 weeks ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (1 month ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 month ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 month ago)
-- [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
