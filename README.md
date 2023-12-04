@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (today)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (6 days ago)
 - [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (6 days ago)
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python (1 week ago)
@@ -70,7 +71,6 @@
 - [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (3 weeks ago)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
 - [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (1 month ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
