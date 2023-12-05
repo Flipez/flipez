@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (today)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (1 day ago)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (1 week ago)
 - [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (1 week ago)
@@ -70,7 +71,6 @@
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (2 weeks ago)
 - [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (3 weeks ago)
 - [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 month ago)
-- [geophile/marcel](https://github.com/geophile/marcel) - A modern shell (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
