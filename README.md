@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (today)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (today)
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (1 week ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (1 week ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (2 weeks ago)
 - [Herzmut-Games/hgj-2023](https://github.com/Herzmut-Games/hgj-2023) - Entry for Hetzner Game Jam 2023 (1 month ago)
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (1 month ago)
@@ -55,9 +55,9 @@
 
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (8 months ago)
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (1 year ago)
-- [Call Soul - Breaking Bar](https://auch.cool/munich/call-soul/) (1 year ago)
-- [Frau Bartels](https://auch.cool/munich/frau-bartels/) (1 year ago)
-- [Goldene Rakete](https://auch.cool/munich/goldene-rakete/) (1 year ago)
+- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
+- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (2 years ago)
+- [Archives](https://auch.cool/page/archives/) (2 years ago)
 
 #### ⭐ Recent Stars
 
