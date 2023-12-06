@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.108.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.108.1), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.40.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.40.1), 5 days ago) - Cross-SRE Terraform modules
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.108.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.108.0), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.156](https://github.com/mozilla-it/refractr/releases/tag/v0.0.156), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 month ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update theme](https://github.com/Flipez/brauser.io/pull/58) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (today)
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 week ago)
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 weeks ago)
@@ -49,7 +50,6 @@
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
 - [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
-- [Upgrade deprecated k8s cluster resources](https://github.com/mozilla-iam/iam-infra/pull/317) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
 
 #### 📜 My recent blog posts
 
