@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/brauser.io](https://github.com/Flipez/brauser.io) - personal webpage (6 days ago)
+- [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (today)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 days ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (6 days ago)
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
@@ -11,10 +12,10 @@
 - [Flipez/bkv](https://github.com/Flipez/bkv) -  (1 month ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 month ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/auch.cool](https://github.com/Flipez/auch.cool) - 
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/
 - [Flipez/bkv](https://github.com/Flipez/bkv) - 
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands
@@ -24,7 +25,6 @@
 - [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - Repository for the Command Line Rust book by Ken Youens-Clark
 - [Flipez/os](https://github.com/Flipez/os) - 
 - [Flipez/rcterm](https://github.com/Flipez/rcterm) - 
-- [Flipez/http-relay](https://github.com/Flipez/http-relay) - 
 
 
 #### 🔭 Latest releases I've contributed to
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update theme](https://github.com/Flipez/brauser.io/pull/58) on [Flipez/brauser.io](https://github.com/Flipez/brauser.io) (6 days ago)
+- [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (6 days ago)
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 week ago)
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 weeks ago)
@@ -53,11 +53,6 @@
 
 #### 📜 My recent blog posts
 
-- [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (8 months ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (1 year ago)
-- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
-- [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (2 years ago)
-- [Archives](https://auch.cool/page/archives/) (2 years ago)
 
 #### ⭐ Recent Stars
 
