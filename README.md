@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (3 days ago)
+- [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (4 days ago)
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (1 week ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 weeks ago)
@@ -33,7 +33,7 @@
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.157](https://github.com/mozilla-it/refractr/releases/tag/v0.0.157), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.43.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.43.0), 2 weeks ago) - Cross-SRE Terraform modules
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 3 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 9 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 11 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 2 years ago) - Community tool to manage open PRs for puppet modules
@@ -41,15 +41,15 @@
 #### 🔨 My recent Pull Requests
 
 - [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
-- [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (4 weeks ago)
+- [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (1 month ago)
 - [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
-- [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
-- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
+- [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
+- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 
 #### 📜 My recent blog posts
 
