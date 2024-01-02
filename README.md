@@ -4,8 +4,8 @@
 
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (1 week ago)
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (2 weeks ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 weeks ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 month ago)
