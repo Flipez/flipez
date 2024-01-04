@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update font-awesome](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (today)
 - [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 weeks ago)
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
@@ -49,13 +50,13 @@
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
 - [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
-- [update docusaurus](https://github.com/Flipez/rocket-lang/pull/192) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 
 #### 📜 My recent blog posts
 
 
 #### ⭐ Recent Stars
 
+- [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (today)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (1 month ago)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (1 month ago)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (1 month ago)
@@ -65,7 +66,6 @@
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python (1 month ago)
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (1 month ago)
 - [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (1 month ago)
-- [brushknight/smartknob](https://github.com/brushknight/smartknob) - Haptic input knob with software-defined endstops and virtual detents (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
