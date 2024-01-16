@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.109.5](https://github.com/common-voice/common-voice/releases/tag/release-v1.109.5), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.109.5](https://github.com/common-voice/common-voice/releases/tag/release-v1.109.5), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.159](https://github.com/mozilla-it/refractr/releases/tag/v0.0.159), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.43.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.43.0), 1 month ago) - Cross-SRE Terraform modules
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -46,8 +46,8 @@
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (1 month ago)
 - [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
-- [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
-- [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 months ago)
+- [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
+- [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
 - [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 
