@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (today)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 week ago)
-- [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (1 week ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (3 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
