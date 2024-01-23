@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (today)
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (2 weeks ago)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (1 month ago)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (1 month ago)
@@ -65,7 +66,6 @@
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python (1 month ago)
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python (1 month ago)
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths. (2 months ago)
-- [mozilla/crlite](https://github.com/mozilla/crlite) - WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
