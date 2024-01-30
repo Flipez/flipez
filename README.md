@@ -29,12 +29,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.111.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.111.0), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.44.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.44.0), 1 week ago) - Cross-SRE Terraform modules
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.111.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.111.0), 1 day ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.44.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.44.0), 2 weeks ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.159](https://github.com/mozilla-it/refractr/releases/tag/v0.0.159), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 3 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 4 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 10 months ago) - 
+- [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 11 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([ctms-0.1.7](https://github.com/mozilla-it/helm-charts/releases/tag/ctms-0.1.7), 1 year ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 2 years ago) - Community tool to manage open PRs for puppet modules
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (6 days ago)
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 week ago)
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (3 weeks ago)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (1 month ago)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (1 month ago)
