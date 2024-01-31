@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(moderator): terraform version](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/127) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (today)
 - [update](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (3 weeks ago)
 - [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
@@ -49,7 +50,6 @@
 - [feat: Expose log_analytics variable and create _Default bucket in TF …](https://github.com/mozilla/terraform-modules/pull/138) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
 - [feat: Update hashicorp/google to 5.2](https://github.com/mozilla/terraform-modules/pull/137) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
 - [feat: Add variable to enable log_analytics in gke_namespace_logging](https://github.com/mozilla/terraform-modules/pull/136) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
-- [Bump go version to 1.21](https://github.com/Flipez/rocket-lang/pull/195) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 months ago)
 
 #### 📜 My recent blog posts
 
