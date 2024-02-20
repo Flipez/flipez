@@ -4,7 +4,7 @@
 
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 week ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (2 weeks ago)
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (1 month ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.112.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.112.0), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.112.0](https://github.com/common-voice/common-voice/releases/tag/release-v1.112.0), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.46.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.46.0), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.162](https://github.com/mozilla-it/refractr/releases/tag/v0.0.162), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -62,7 +62,7 @@
 #### ⭐ Recent Stars
 
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 week ago)
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (3 weeks ago)
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (4 weeks ago)
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (1 month ago)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (2 months ago)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (2 months ago)
