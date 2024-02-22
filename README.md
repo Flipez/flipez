@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (today)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (2 weeks ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 month ago)
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (1 month ago)
@@ -70,7 +71,6 @@
 - [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (2 months ago)
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python (2 months ago)
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python (2 months ago)
-- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
