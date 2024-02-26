@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 week ago)
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (2 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (3 weeks ago)
@@ -10,7 +10,7 @@
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 months ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (2 months ago)
-- [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (2 months ago)
+- [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
 
 #### 🌱 My latest projects
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.112.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.112.1), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.46.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.46.0), 1 week ago) - Cross-SRE Terraform modules
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.112.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.112.1), 6 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.46.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.46.0), 2 weeks ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.162](https://github.com/mozilla-it/refractr/releases/tag/v0.0.162), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 4 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 week ago)
+- [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (2 weeks ago)
 - [feat(deployment_accounts): Add support for multiple repositories](https://github.com/mozilla/terraform-modules/pull/150) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 weeks ago)
 - [fix(moderator): terraform version](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/127) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (3 weeks ago)
 - [update](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (1 month ago)
@@ -61,14 +61,14 @@
 
 #### ⭐ Recent Stars
 
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (3 days ago)
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (4 days ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (2 weeks ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 month ago)
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (1 month ago)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (2 months ago)
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (2 months ago)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (2 months ago)
-- [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (2 months ago)
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (3 months ago)
+- [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (3 months ago)
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python (3 months ago)
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python (3 months ago)
 
@@ -77,11 +77,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [missAnneThorpe](https://github.com/missAnneThorpe)
 - [ADs-17](https://github.com/ADs-17)
 - [monsieurgrey](https://github.com/monsieurgrey)
 - [dumingvss](https://github.com/dumingvss)
 - [konrad2002](https://github.com/konrad2002)
-- [hyoun797](https://github.com/hyoun797)
 
 #### 💬 Feedback
 
