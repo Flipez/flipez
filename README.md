@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (today)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 day ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (3 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 weeks ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 weeks ago)
 - [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (1 month ago)
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) -  (1 month ago)
-- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
+- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (2 months ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 months ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (2 months ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 months ago)
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (3 months ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.48.3](https://github.com/mozilla/terraform-modules/releases/tag/v1.48.3), 4 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.164](https://github.com/mozilla-it/refractr/releases/tag/v0.0.164), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.112.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.112.1), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.48.3](https://github.com/mozilla/terraform-modules/releases/tag/v1.48.3), 5 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.164](https://github.com/mozilla-it/refractr/releases/tag/v0.0.164), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.112.1](https://github.com/common-voice/common-voice/releases/tag/release-v1.112.1), 2 weeks ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/etherpad-docker](https://github.com/mozilla-it/etherpad-docker) ([v1.0.4](https://github.com/mozilla-it/etherpad-docker/releases/tag/v1.0.4), 1 year ago) - 
@@ -44,7 +44,7 @@
 - [feat(deployment_accounts): Add support for multiple repositories](https://github.com/mozilla/terraform-modules/pull/150) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
 - [fix(moderator): terraform version](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/127) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (1 month ago)
 - [update](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (2 months ago)
-- [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 months ago)
+- [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
