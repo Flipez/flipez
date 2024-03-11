@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(deploy): add helm list after upgrade and output chart and app ve…](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (today)
 - [feat(k8s): update k8s cluster to 1.29 and dependencies](https://github.com/mozilla-iam/iam-infra/pull/321) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
 - [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (4 weeks ago)
 - [feat(deployment_accounts): Add support for multiple repositories](https://github.com/mozilla/terraform-modules/pull/150) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
@@ -47,7 +48,6 @@
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
 - [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 - [feat(pastebin): Remove gcp redirect](https://github.com/mozilla-it/refractr/pull/299) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
-- [[PATCH] fix: correct escaping of api responses](https://github.com/mozilla-it/pastebin/pull/16) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
 
 #### 📜 My recent blog posts
 
