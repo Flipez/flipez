@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (today)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 week ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (4 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (2 months ago)
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands (2 months ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 months ago)
-- [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/ (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.0), today) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.168](https://github.com/mozilla-it/refractr/releases/tag/v0.0.168), today) - yaml -&gt; nginx for redirects and rewrites
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.114.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.114.2), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.50.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.50.1), 4 days ago) - Cross-SRE Terraform modules
