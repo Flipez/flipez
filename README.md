@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.50.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.50.2), today) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), today) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.168](https://github.com/mozilla-it/refractr/releases/tag/v0.0.168), today) - yaml -&gt; nginx for redirects and rewrites
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.114.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.114.2), today) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.50.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.50.1), 4 days ago) - Cross-SRE Terraform modules
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 2 years ago) - Community tool to manage open PRs for puppet modules
