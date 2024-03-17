@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (4 days ago)
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (5 days ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 week ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 month ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 month ago)
@@ -29,17 +29,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.169](https://github.com/mozilla-it/refractr/releases/tag/v0.0.169), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.50.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.50.2), 4 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 4 days ago) - Generic GitHub composite actions/workflows for deploying applications
-- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.114.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.114.2), 4 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.169](https://github.com/mozilla-it/refractr/releases/tag/v0.0.169), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.50.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.50.2), 5 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 5 days ago) - Generic GitHub composite actions/workflows for deploying applications
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.114.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.114.2), 5 days ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [voxpupuli/vox-pupuli-tasks](https://github.com/voxpupuli/vox-pupuli-tasks) ([v1.0.1](https://github.com/voxpupuli/vox-pupuli-tasks/releases/tag/v1.0.1), 2 years ago) - Community tool to manage open PRs for puppet modules
 
 #### 🔨 My recent Pull Requests
 
-- [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (5 days ago)
+- [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (6 days ago)
 - [feat(k8s): update k8s cluster to 1.29 and dependencies](https://github.com/mozilla-iam/iam-infra/pull/321) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 weeks ago)
 - [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
 - [feat(deployment_accounts): Add support for multiple repositories](https://github.com/mozilla/terraform-modules/pull/150) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
