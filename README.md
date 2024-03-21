@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (today)
 - [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (today)
 - [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (1 week ago)
 - [feat(k8s): update k8s cluster to 1.29 and dependencies](https://github.com/mozilla-iam/iam-infra/pull/321) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 weeks ago)
@@ -49,7 +50,6 @@
 - [update](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (2 months ago)
 - [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
 - [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
-- [feat(docusaurus): Update docusaurus to 3.0.0](https://github.com/Flipez/rocket-lang/pull/199) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 
 #### 📜 My recent blog posts
 
