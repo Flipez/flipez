@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (today)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (today)
+- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 day ago)
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 day ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (1 week ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 weeks ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), today) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.170](https://github.com/mozilla-it/refractr/releases/tag/v0.0.170), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 1 day ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.170](https://github.com/mozilla-it/refractr/releases/tag/v0.0.170), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.50.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.50.2), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 1 week ago) - Generic GitHub composite actions/workflows for deploying applications
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) ([release-v1.114.2](https://github.com/common-voice/common-voice/releases/tag/release-v1.114.2), 1 week ago) - Common Voice is part of Mozilla&#39;s initiative to help teach machines how real people speak.
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (today)
-- [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (today)
+- [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (1 day ago)
+- [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (1 day ago)
 - [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (1 week ago)
 - [feat(k8s): update k8s cluster to 1.29 and dependencies](https://github.com/mozilla-iam/iam-infra/pull/321) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 weeks ago)
 - [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (1 month ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 days ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 days ago)
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (4 weeks ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (1 month ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 month ago)
