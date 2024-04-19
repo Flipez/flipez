@@ -22,7 +22,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://auch.cool/rss.xml" 5}}
+{{range rss "https://auch.cool/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
