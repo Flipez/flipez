@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), today) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.53.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.53.0), 4 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.171](https://github.com/mozilla-it/refractr/releases/tag/v0.0.171), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 1 month ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 6 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
