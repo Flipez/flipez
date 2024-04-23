@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
-- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (3 weeks ago)
+- [Flipez/flipez](https://github.com/Flipez/flipez) -  (4 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 weeks ago)
+- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (4 weeks ago)
 - [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (4 weeks ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), today) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.53.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.53.0), 4 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.53.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.53.0), 5 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 1 month ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 6 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -68,7 +68,7 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (4 months ago)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (4 months ago)
 - [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (4 months ago)
-- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python (4 months ago)
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
