@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 day ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (4 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 weeks ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (4 weeks ago)
 - [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (4 weeks ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
