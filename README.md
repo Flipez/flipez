@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (5 days ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 week ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
 - [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (1 month ago)
@@ -29,12 +29,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.53.3](https://github.com/mozilla/terraform-modules/releases/tag/v1.53.3), 1 day ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.53.3](https://github.com/mozilla/terraform-modules/releases/tag/v1.53.3), 2 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 1 month ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 6 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 6 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 7 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 
 #### 🔨 My recent Pull Requests
 
@@ -47,7 +47,7 @@
 - [fix(moderator): terraform version](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/127) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (2 months ago)
 - [update](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (3 months ago)
 - [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
-- [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (4 months ago)
+- [feat(pastebin): Add privacy banner](https://github.com/mozilla-it/pastebin/pull/17) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (5 months ago)
 
 #### 📜 My recent blog posts
 
