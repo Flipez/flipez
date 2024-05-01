@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (today)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (3 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 week ago)
 - [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (1 month ago)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (1 month ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (1 month ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (2 months ago)
@@ -51,11 +51,11 @@
 
 #### 📜 My recent blog posts
 
+- [Enten 🦆](https://auch.cool/enten/) (today)
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (1 year ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
 - [🪴 Blumentopf - Automated Plant Watering #1](https://auch.cool/posts/2022/blumentopf-1/) (2 years ago)
-- [Sous Vide Steak 1.0](https://auch.cool/posts/2021/sous-vide/sous-vide-steak-1.0/) (2 years ago)
 
 #### ⭐ Recent Stars
 
