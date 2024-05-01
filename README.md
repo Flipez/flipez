@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [erberj23jpfkd](https://github.com/erberj23jpfkd)
 - [TommyTheScientist](https://github.com/TommyTheScientist)
 - [Jakob3xD](https://github.com/Jakob3xD)
 - [diviyeshpatel](https://github.com/diviyeshpatel)
 - [missAnneThorpe](https://github.com/missAnneThorpe)
+- [ADs-17](https://github.com/ADs-17)
 
 #### 💬 Feedback
 
