@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (2 days ago)
+- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (3 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 week ago)
 - [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (1 month ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.54.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.54.0), today) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.54.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.54.0), 1 day ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 1 month ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
