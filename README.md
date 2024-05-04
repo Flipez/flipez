@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 days ago)
-- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (5 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 days ago)
+- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (6 days ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 weeks ago)
 - [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (1 month ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (1 month ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.54.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.54.0), 3 days ago) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.54.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.54.0), 4 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.172](https://github.com/mozilla-it/refractr/releases/tag/v0.0.172), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 1 month ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.1](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.1), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 days ago)
+- [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 days ago)
 - [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (1 month ago)
 - [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (1 month ago)
 - [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (1 month ago)
@@ -47,11 +47,11 @@
 - [feat(deployment_accounts): Add support for multiple repositories](https://github.com/mozilla/terraform-modules/pull/150) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (3 months ago)
 - [fix(moderator): terraform version](https://github.com/mozilla-it/itse-apps-prod-1-infra/pull/127) on [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) (3 months ago)
 - [update](https://github.com/Flipez/auch.cool/pull/1) on [Flipez/auch.cool](https://github.com/Flipez/auch.cool) (4 months ago)
-- [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
+- [update theme](https://github.com/Flipez/blog.auch.cool/pull/58) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [Enten 🦆](https://auch.cool/enten/) (2 days ago)
+- [Enten 🦆](https://auch.cool/enten/) (3 days ago)
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (1 year ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
