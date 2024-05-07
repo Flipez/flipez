@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini&#43; (today)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 month ago)
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (2 months ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (2 months ago)
@@ -68,7 +69,6 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (5 months ago)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (5 months ago)
 - [RaphaelPour/aoc2023](https://github.com/RaphaelPour/aoc2023) - AoC2023 solutions (5 months ago)
-- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
