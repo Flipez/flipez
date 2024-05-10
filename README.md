@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [orka1000](https://github.com/orka1000)
 - [henningthies](https://github.com/henningthies)
 - [TommyTheScientist](https://github.com/TommyTheScientist)
 - [Jakob3xD](https://github.com/Jakob3xD)
 - [diviyeshpatel](https://github.com/diviyeshpatel)
-- [missAnneThorpe](https://github.com/missAnneThorpe)
 
 #### 💬 Feedback
 
