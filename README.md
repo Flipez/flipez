@@ -59,6 +59,9 @@
 
 #### ⭐ Recent Stars
 
+- [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (today)
+- [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (today)
+- [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (today)
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI (today)
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini&#43; (2 weeks ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 months ago)
@@ -66,9 +69,6 @@
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (3 months ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (4 months ago)
 - [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (4 months ago)
-- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (5 months ago)
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers (5 months ago)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
