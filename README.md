@@ -6,18 +6,17 @@
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 days ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (2 weeks ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 month ago)
-- [Flipez/tears-tools](https://github.com/Flipez/tears-tools) -  (2 months ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (2 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (2 months ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (2 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (3 months ago)
+- [mozilla-it/itse-apps-prod-1-infra](https://github.com/mozilla-it/itse-apps-prod-1-infra) - Infrastructure and configuration files for itse-apps-prod-1-infra Kubernetes cluster  (3 months ago)
 
 #### 🌱 My latest projects
 
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - 
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) - 
-- [Flipez/tears-tools](https://github.com/Flipez/tears-tools) - 
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) - 
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/
 - [Flipez/bkv](https://github.com/Flipez/bkv) - 
@@ -25,6 +24,7 @@
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) - 
 - [Flipez/gwj-55](https://github.com/Flipez/gwj-55) - 
+- [Flipez/command-line-rust](https://github.com/Flipez/command-line-rust) - Repository for the Command Line Rust book by Ken Youens-Clark
 
 
 #### 🔭 Latest releases I've contributed to
