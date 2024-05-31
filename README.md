@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.174](https://github.com/mozilla-it/refractr/releases/tag/v0.0.174), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.175](https://github.com/mozilla-it/refractr/releases/tag/v0.0.175), today) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 3 days ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.59.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.59.0), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 2 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
