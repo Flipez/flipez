@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (today)
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (2 weeks ago)
 - [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (2 weeks ago)
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (2 weeks ago)
@@ -68,7 +69,6 @@
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (3 months ago)
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (4 months ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (4 months ago)
-- [waschinski/photo-stream](https://github.com/waschinski/photo-stream) - Self-hosted, super simple photo stream (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
