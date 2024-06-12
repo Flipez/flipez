@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.61.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.61.2), 4 days ago) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.61.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.61.2), 5 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.177](https://github.com/mozilla-it/refractr/releases/tag/v0.0.177), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 2 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 2 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 day ago)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 days ago)
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (2 weeks ago)
 - [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (2 weeks ago)
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (2 weeks ago)
