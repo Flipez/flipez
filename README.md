@@ -4,7 +4,7 @@
 
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 week ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 weeks ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (1 month ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (2 months ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.62.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.62.1), today) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.178](https://github.com/mozilla-it/refractr/releases/tag/v0.0.178), today) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.62.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.62.1), 1 day ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.178](https://github.com/mozilla-it/refractr/releases/tag/v0.0.178), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 2 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 2 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 7 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (3 days ago)
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (4 days ago)
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (2 weeks ago)
 - [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (2 weeks ago)
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (2 weeks ago)
