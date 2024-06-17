@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.62.2](https://github.com/mozilla/terraform-modules/releases/tag/v1.62.2), today) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.179](https://github.com/mozilla-it/refractr/releases/tag/v0.0.179), today) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.62.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.62.1), 4 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 2 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 2 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 8 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
