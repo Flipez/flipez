@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [TheHuman2022](https://github.com/TheHuman2022)
 - [JasonC761](https://github.com/JasonC761)
 - [snkd](https://github.com/snkd)
 - [maheralbashek3](https://github.com/maheralbashek3)
 - [ghulamaghaei](https://github.com/ghulamaghaei)
-- [orka1000](https://github.com/orka1000)
 
 #### 💬 Feedback
 
