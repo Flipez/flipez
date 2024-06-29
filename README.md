@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 days ago)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (5 days ago)
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 days ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (6 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 months ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.65.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.65.1), 1 day ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.182](https://github.com/mozilla-it/refractr/releases/tag/v0.0.182), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.65.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.65.1), 2 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.182](https://github.com/mozilla-it/refractr/releases/tag/v0.0.182), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 8 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (5 days ago)
+- [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (6 days ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (1 week ago)
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 weeks ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (1 month ago)
