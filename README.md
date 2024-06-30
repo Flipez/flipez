@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 days ago)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (6 days ago)
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (5 days ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 week ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (1 month ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (2 months ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.65.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.65.1), 2 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.182](https://github.com/mozilla-it/refractr/releases/tag/v0.0.182), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.65.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.65.1), 3 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.182](https://github.com/mozilla-it/refractr/releases/tag/v0.0.182), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 8 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -38,11 +38,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (6 days ago)
+- [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (1 week ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (1 week ago)
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 weeks ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (1 month ago)
-- [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
+- [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 months ago)
 - [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (3 months ago)
 - [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (3 months ago)
 - [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (3 months ago)
@@ -51,7 +51,7 @@
 
 #### 📜 My recent blog posts
 
-- [Enten 🦆](https://auch.cool/enten/) (1 month ago)
+- [Enten 🦆](https://auch.cool/enten/) (2 months ago)
 - [Crossing borders with sensible photo equipment](https://auch.cool/posts/2024/sensible-equipment/) (2 months ago)
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
