@@ -11,7 +11,7 @@
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (3 months ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (4 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (4 months ago)
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) - Cross-SRE Terraform modules (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.69.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.69.0), today) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.183](https://github.com/mozilla-it/refractr/releases/tag/v0.0.183), today) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.69.0](https://github.com/mozilla/terraform-modules/releases/tag/v1.69.0), 1 day ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.183](https://github.com/mozilla-it/refractr/releases/tag/v0.0.183), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.2](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.2), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 3 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 8 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -47,7 +47,7 @@
 - [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (3 months ago)
 - [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (4 months ago)
 - [feat(k8s): update k8s cluster to 1.29 and dependencies](https://github.com/mozilla-iam/iam-infra/pull/321) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 months ago)
-- [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (4 months ago)
+- [fix(deployment_accounts): make github_repository optional](https://github.com/mozilla/terraform-modules/pull/152) on [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) (5 months ago)
 
 #### 📜 My recent blog posts
 
