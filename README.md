@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (today)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (3 days ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (1 month ago)
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (1 month ago)
@@ -68,7 +69,6 @@
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini&#43; (2 months ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (3 months ago)
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (4 months ago)
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
