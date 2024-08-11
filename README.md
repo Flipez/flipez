@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 days ago)
+- [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (3 days ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 weeks ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (1 month ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (1 month ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (3 weeks ago)
+- [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (4 weeks ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 months ago)
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (2 months ago)
