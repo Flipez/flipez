@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (today)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 months ago)
@@ -68,7 +69,6 @@
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI (2 months ago)
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini&#43; (3 months ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (4 months ago)
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market! (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
