@@ -7,7 +7,7 @@
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 month ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (3 months ago)
-- [Flipez/flipez](https://github.com/Flipez/flipez) -  (3 months ago)
+- [Flipez/flipez](https://github.com/Flipez/flipez) -  (4 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (4 months ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (4 months ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (5 months ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (2 days ago)
+- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (3 days ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 months ago)
