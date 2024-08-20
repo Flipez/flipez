@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 weeks ago)
+- [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (4 weeks ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 month ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 month ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
@@ -30,7 +30,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.186](https://github.com/mozilla-it/refractr/releases/tag/v0.0.186), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.72.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.72.1), 2 weeks ago) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v1.72.1](https://github.com/mozilla/terraform-modules/releases/tag/v1.72.1), 3 weeks ago) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.3](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.3), 4 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 5 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 10 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -39,7 +39,7 @@
 #### 🔨 My recent Pull Requests
 
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (1 week ago)
-- [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (3 weeks ago)
+- [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (4 weeks ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (1 month ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
@@ -52,14 +52,14 @@
 #### 📜 My recent blog posts
 
 - [Enten 🦆](https://auch.cool/enten/) (3 months ago)
-- [Crossing borders with sensible photo equipment](https://auch.cool/posts/2024/sensible-equipment/) (3 months ago)
+- [Crossing borders with sensible photo equipment](https://auch.cool/posts/2024/sensible-equipment/) (4 months ago)
 - [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
 - [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (5 days ago)
+- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (6 days ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 months ago)
