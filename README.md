@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (today)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 week ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
@@ -68,7 +69,6 @@
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (2 months ago)
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI (2 months ago)
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini&#43; (3 months ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
