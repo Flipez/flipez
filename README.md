@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (4 weeks ago)
+- [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 month ago)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 month ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 months ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (3 months ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (4 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (5 months ago)
@@ -38,9 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (1 week ago)
-- [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (4 weeks ago)
-- [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (1 month ago)
+- [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 weeks ago)
+- [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (1 month ago)
+- [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (2 months ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (2 months ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (today)
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 day ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 week ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
