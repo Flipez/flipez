@@ -43,7 +43,7 @@
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (2 months ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
-- [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (2 months ago)
+- [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (3 months ago)
 - [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
 - [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (5 months ago)
 - [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (5 months ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 day ago)
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (2 days ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 week ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
