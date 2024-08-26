@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (4 days ago)
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (5 days ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 week ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
