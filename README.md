@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.0.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.0.0), 2 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.188](https://github.com/mozilla-it/refractr/releases/tag/v0.0.188), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 2 days ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.0.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.0.0), 3 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.188](https://github.com/mozilla-it/refractr/releases/tag/v0.0.188), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 3 days ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 5 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 10 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 11 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -42,7 +42,7 @@
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (1 month ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (2 months ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
-- [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (2 months ago)
+- [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (3 months ago)
 - [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
 - [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (5 months ago)
