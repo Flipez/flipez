@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (today)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 week ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (2 weeks ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
@@ -68,7 +69,6 @@
 - [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (3 months ago)
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (3 months ago)
 - [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI (3 months ago)
-- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini&#43; (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
