@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 day ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (today)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (2 months ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 months ago)
