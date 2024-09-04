@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (today)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 day ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (2 months ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 months ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.0.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.0.0), 4 days ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.188](https://github.com/mozilla-it/refractr/releases/tag/v0.0.188), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 4 days ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.0.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.0.0), 5 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.188](https://github.com/mozilla-it/refractr/releases/tag/v0.0.188), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 5 days ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 5 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 10 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 11 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -59,9 +59,9 @@
 
 #### ⭐ Recent Stars
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (today)
-- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 week ago)
-- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (2 weeks ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (1 day ago)
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (2 weeks ago)
+- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (3 weeks ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (1 month ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (1 month ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 months ago)
