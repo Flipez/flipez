@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (today)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (1 week ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (3 weeks ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 month ago)
@@ -68,7 +69,6 @@
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (3 months ago)
 - [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (3 months ago)
 - [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (3 months ago)
-- [tabixio/tabix](https://github.com/tabixio/tabix) - Tabix.io UI (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
