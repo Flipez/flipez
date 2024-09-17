@@ -9,8 +9,8 @@
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (4 months ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (5 months ago)
-- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (5 months ago)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (5 months ago)
+- [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (6 months ago)
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (6 months ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (6 months ago)
 
 #### 🌱 My latest projects
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.190](https://github.com/mozilla-it/refractr/releases/tag/v0.0.190), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.190](https://github.com/mozilla-it/refractr/releases/tag/v0.0.190), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.2.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.2.0), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 2 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 5 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 6 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 11 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 11 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 
@@ -45,8 +45,8 @@
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (3 months ago)
 - [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
-- [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (5 months ago)
-- [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (5 months ago)
+- [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (6 months ago)
+- [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (6 months ago)
 - [feat(deploy): add helm list and helm version outputs after upgrade](https://github.com/mozilla-it/deploy-actions/pull/29) on [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) (6 months ago)
 
 #### 📜 My recent blog posts
@@ -59,8 +59,8 @@
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (today)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (1 week ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 day ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (2 weeks ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (3 weeks ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 month ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (2 months ago)
