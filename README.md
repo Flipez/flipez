@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (today)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (2 days ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (2 weeks ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (4 weeks ago)
@@ -68,7 +69,6 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (3 months ago)
 - [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (3 months ago)
 - [duyet/clickhouse-monitoring](https://github.com/duyet/clickhouse-monitoring) - Simple UI for ClickHouse Monitoring (3 months ago)
-- [caioricciuti/ch-ui](https://github.com/caioricciuti/ch-ui) - This is a simple UI for using click house self hosted. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
