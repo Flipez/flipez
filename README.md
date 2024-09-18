@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - 
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - 
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) - 
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - 
@@ -24,7 +25,6 @@
 - [Flipez/moz-vending](https://github.com/Flipez/moz-vending) - Vending Machine for the annual Sticker Exchange at Mozilla AllHands
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/neural-network](https://github.com/Flipez/neural-network) - 
-- [Flipez/gwj-55](https://github.com/Flipez/gwj-55) - 
 
 
 #### 🔭 Latest releases I've contributed to
@@ -52,9 +52,9 @@
 #### 📜 My recent blog posts
 
 - [Enten 🦆](https://auch.cool/enten/) (4 months ago)
-- [Crossing borders with sensible photo equipment](https://auch.cool/posts/2024/sensible-equipment/) (4 months ago)
-- [TIL: &#39;dot_clean&#39; to remove macOS specific files](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
-- [Advent of Code Day #1 - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
+- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (4 months ago)
+- [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
+- [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
 
 #### ⭐ Recent Stars
