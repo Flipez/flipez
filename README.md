@@ -10,8 +10,8 @@
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (4 months ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (5 months ago)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (6 months ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (6 months ago)
+- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (6 months ago)
 
 #### 🌱 My latest projects
 
