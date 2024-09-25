@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 days ago)
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (3 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 days ago)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (2 weeks ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (3 days ago)
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (4 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (3 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (4 months ago)
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (6 days ago)
+- [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (1 month ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (3 months ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (6 days ago)
+- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 week ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 week ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (3 weeks ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 month ago)
