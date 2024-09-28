@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (5 days ago)
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (6 days ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (6 days ago)
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 week ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (3 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
@@ -45,15 +45,15 @@
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
 - [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (4 months ago)
-- [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
+- [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (5 months ago)
 - [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (6 months ago)
 - [feat(discourse): add sidekiq cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/133) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [Enten 🦆](https://auch.cool/enten/) (4 months ago)
+- [Enten 🦆](https://auch.cool/enten/) (5 months ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (5 months ago)
-- [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (1 year ago)
+- [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
 
