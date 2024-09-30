@@ -60,7 +60,7 @@
 #### ⭐ Recent Stars
 
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 week ago)
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 week ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (2 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (3 weeks ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 month ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 month ago)
