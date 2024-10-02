@@ -4,8 +4,8 @@
 
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 week ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 week ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (3 weeks ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (4 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (4 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.0), today) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.0), 1 day ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.190](https://github.com/mozilla-it/refractr/releases/tag/v0.0.190), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 6 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -38,12 +38,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
+- [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 weeks ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (1 month ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (3 months ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
-- [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
+- [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (4 months ago)
 - [improvements](https://github.com/Flipez/mvg-analyser/pull/1) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (4 months ago)
 - [Sensible equipment](https://github.com/Flipez/blog.auch.cool/pull/60) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (5 months ago)
 - [Rmuller/add discourse cleanup cronjob](https://github.com/mozilla-it/itse-apps-stage-1-infra/pull/134) on [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) (6 months ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 week ago)
+- [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (2 weeks ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (2 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (4 weeks ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 month ago)
