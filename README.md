@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.0), 5 days ago) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.0), 6 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.190](https://github.com/mozilla-it/refractr/releases/tag/v0.0.190), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.11.4](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.11.4), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 6 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -39,7 +39,7 @@
 #### 🔨 My recent Pull Requests
 
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 weeks ago)
-- [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (1 month ago)
+- [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (3 months ago)
 - [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (3 months ago)
@@ -60,7 +60,7 @@
 #### ⭐ Recent Stars
 
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (2 weeks ago)
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (2 weeks ago)
+- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (3 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (1 month ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 month ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (1 month ago)
