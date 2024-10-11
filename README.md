@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.1](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.1), today) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.193](https://github.com/mozilla-it/refractr/releases/tag/v0.0.193), today) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 1 day ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.1](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.1), 1 day ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.193](https://github.com/mozilla-it/refractr/releases/tag/v0.0.193), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 2 days ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 6 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 11 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 year ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (3 days ago)
+- [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (4 days ago)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (3 weeks ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (3 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (1 month ago)
