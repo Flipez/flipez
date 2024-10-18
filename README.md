@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (today)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (3 weeks ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (3 weeks ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 month ago)
