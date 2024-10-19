@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (today)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 day ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (3 weeks ago)
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (3 weeks ago)
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (4 weeks ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
@@ -52,7 +52,7 @@
 #### 📜 My recent blog posts
 
 - [Enten 🦆](https://auch.cool/enten/) (5 months ago)
-- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (5 months ago)
+- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (6 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 - [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
