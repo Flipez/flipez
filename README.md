@@ -33,7 +33,6 @@
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.193](https://github.com/mozilla-it/refractr/releases/tag/v0.0.193), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 1 week ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 7 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v1.1.0](https://github.com/Flipez/hcloud-kv/releases/tag/v1.1.0), 1 year ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 year ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 
 #### 🔨 My recent Pull Requests
