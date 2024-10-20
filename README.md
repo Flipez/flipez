@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (today)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (today)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 day ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 day ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 day ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 days ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (4 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
@@ -63,7 +63,7 @@
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 month ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads. (1 month ago)
-- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (1 month ago)
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (2 months ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (2 months ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (3 months ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (3 months ago)
