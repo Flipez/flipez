@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (today)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (today)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 day ago)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (2 days ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
