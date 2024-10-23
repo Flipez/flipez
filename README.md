@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 day ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 day ago)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 days ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (2 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 days ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (3 days ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (5 months ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (6 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (7 months ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.194](https://github.com/mozilla-it/refractr/releases/tag/v0.0.194), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.194](https://github.com/mozilla-it/refractr/releases/tag/v0.0.194), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.3.1](https://github.com/mozilla/terraform-modules/releases/tag/v2.3.1), 1 week ago) - Cross-SRE Terraform modules
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 1 week ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 2 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 7 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 year ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 
 #### 🔨 My recent Pull Requests
 
-- [add draft](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (today)
+- [add draft](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 day ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (3 months ago)
@@ -67,7 +67,7 @@
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (3 months ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (3 months ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (4 months ago)
-- [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (4 months ago)
+- [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
