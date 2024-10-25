@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (3 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 days ago)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (4 days ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (4 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 days ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (5 days ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 months ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 1 day ago) - Cross-SRE Terraform modules
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.194](https://github.com/mozilla-it/refractr/releases/tag/v0.0.194), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 2 days ago) - Cross-SRE Terraform modules
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.194](https://github.com/mozilla-it/refractr/releases/tag/v0.0.194), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 2 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 7 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 year ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 
 #### 🔨 My recent Pull Requests
 
-- [add draft](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 days ago)
+- [add draft](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 days ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (3 months ago)
