@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (today)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (5 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (5 days ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (6 days ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add draft](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 days ago)
+- [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 days ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (3 months ago)
@@ -50,11 +50,11 @@
 
 #### 📜 My recent blog posts
 
+- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (5 days ago)
 - [Enten 🦆](https://auch.cool/enten/) (5 months ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (6 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
-- [🪴 Blumentopf - Automated Plant Watering #2](https://auch.cool/posts/2022/blumentopf-2/) (2 years ago)
 
 #### ⭐ Recent Stars
 
