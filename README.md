@@ -74,11 +74,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nholuongut](https://github.com/nholuongut)
 - [crzysqrl](https://github.com/crzysqrl)
 - [cassimahmedattia](https://github.com/cassimahmedattia)
 - [DARIUSHMOHSEN2000](https://github.com/DARIUSHMOHSEN2000)
 - [Basma1912](https://github.com/Basma1912)
-- [emacs45](https://github.com/emacs45)
 
 #### 💬 Feedback
 
