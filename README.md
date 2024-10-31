@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 days ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (5 days ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (1 week ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (1 week ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 days ago)
+- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 days ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
@@ -74,11 +74,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [nholuongut](https://github.com/nholuongut)
 - [crzysqrl](https://github.com/crzysqrl)
 - [cassimahmedattia](https://github.com/cassimahmedattia)
 - [DARIUSHMOHSEN2000](https://github.com/DARIUSHMOHSEN2000)
-- [Basma1912](https://github.com/Basma1912)
 
 #### 💬 Feedback
 
