@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (today)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (3 weeks ago)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 month ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
@@ -67,7 +68,6 @@
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (3 months ago)
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (3 months ago)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (4 months ago)
-- [shlima/click_house](https://github.com/shlima/click_house) - Modern Ruby database driver for ClickHouse (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
