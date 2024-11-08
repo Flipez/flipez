@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.196](https://github.com/mozilla-it/refractr/releases/tag/v0.0.196), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.196](https://github.com/mozilla-it/refractr/releases/tag/v0.0.196), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 2 weeks ago) - Cross-SRE Terraform modules
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 4 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 7 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 year ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (3 days ago)
-- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (4 days ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (4 days ago)
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (5 days ago)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (1 month ago)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 month ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
@@ -67,7 +67,7 @@
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (2 months ago)
 - [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (2 months ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (3 months ago)
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (3 months ago)
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
