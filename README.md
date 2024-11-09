@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) -  (2 weeks ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) -  (2 weeks ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (4 days ago)
-- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (5 days ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (5 days ago)
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (6 days ago)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (1 month ago)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (1 month ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
