@@ -38,7 +38,7 @@
 #### 🔨 My recent Pull Requests
 
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 weeks ago)
-- [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 weeks ago)
+- [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (3 months ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (3 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (today)
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (1 day ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 week ago)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (1 week ago)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (1 month ago)
@@ -66,7 +66,7 @@
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (1 month ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (2 months ago)
 - [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (2 months ago)
-- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (2 months ago)
+- [cass-moz/sticker-track](https://github.com/cass-moz/sticker-track) -  (3 months ago)
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
