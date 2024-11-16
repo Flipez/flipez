@@ -4,10 +4,10 @@
 
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (today)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery (today)
-- [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) -  (1 day ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (today)
+- [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de (1 day ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) -  (3 weeks ago)
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) -  (1 month ago)
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (6 months ago)
@@ -16,11 +16,11 @@
 #### 🌱 My latest projects
 
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory
-- [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - 
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - 
+- [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) - 
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - 
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) - 
 - [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/
 - [Flipez/bkv](https://github.com/Flipez/bkv) - 
