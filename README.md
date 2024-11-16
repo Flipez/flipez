@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery (today)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (today)
 - [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) -  (1 day ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) -  (3 weeks ago)
@@ -11,7 +12,6 @@
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 months ago)
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) -  (6 months ago)
 - [Flipez/flipez](https://github.com/Flipez/flipez) -  (7 months ago)
-- [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (8 months ago)
 
 #### 🌱 My latest projects
 
