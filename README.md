@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (today)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 day ago)
-- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery (1 day ago)
-- [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de (2 days ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (1 day ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (2 days ago)
+- [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery (2 days ago)
+- [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de (3 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 weeks ago)
+- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 weeks ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 months ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (3 months ago)
@@ -50,16 +50,16 @@
 
 #### 📜 My recent blog posts
 
-- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (3 weeks ago)
+- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (4 weeks ago)
 - [Enten 🦆](https://auch.cool/enten/) (6 months ago)
-- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (6 months ago)
+- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (7 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (6 days ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 week ago)
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (1 week ago)
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (2 weeks ago)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (2 weeks ago)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (1 month ago)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (2 months ago)
