@@ -38,6 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (today)
+- [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (today)
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (today)
 - [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 day ago)
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 weeks ago)
@@ -46,8 +48,6 @@
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (3 months ago)
 - [remove disableCache (deprecated) and replace deprecated wfGetCache](https://github.com/mozilla/mediawiki-bugzilla/pull/108) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (4 months ago)
 - [feat(analyser): Add clickhouse backend and restructure code](https://github.com/Flipez/mvg-analyser/pull/2) on [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) (5 months ago)
-- [feat(refractr): Increase Retry After to 1 month for search.services.m…](https://github.com/mozilla-it/refractr/pull/329) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (5 months ago)
-- [feat(search.services): add 503 for search.services.mozilla.com](https://github.com/mozilla-it/refractr/pull/326) on [mozilla-it/refractr](https://github.com/mozilla-it/refractr) (5 months ago)
 
 #### 📜 My recent blog posts
 
