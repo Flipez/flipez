@@ -33,7 +33,6 @@
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.197](https://github.com/mozilla-it/refractr/releases/tag/v0.0.197), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 1 month ago) - Cross-SRE Terraform modules
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 8 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.0), 1 year ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
