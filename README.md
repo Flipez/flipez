@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (2 days ago)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (6 days ago)
-- [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (6 days ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (3 days ago)
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 week ago)
+- [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (1 week ago)
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery (1 week ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 week ago)
 - [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de (1 week ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.197](https://github.com/mozilla-it/refractr/releases/tag/v0.0.197), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.197](https://github.com/mozilla-it/refractr/releases/tag/v0.0.197), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 1 month ago) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.12.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.12.0), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 8 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -38,11 +38,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (6 days ago)
-- [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (6 days ago)
-- [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (6 days ago)
+- [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
+- [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
+- [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
 - [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
-- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (4 weeks ago)
+- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 month ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 months ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (3 months ago)
@@ -52,15 +52,15 @@
 #### 📜 My recent blog posts
 
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (1 month ago)
-- [Enten 🦆](https://auch.cool/enten/) (6 months ago)
+- [Enten 🦆](https://auch.cool/enten/) (7 months ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (7 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - &#39;Classic&#39; FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel. (6 days ago)
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (6 days ago)
+- [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - &#39;Classic&#39; FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel. (1 week ago)
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (1 week ago)
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (2 weeks ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (3 weeks ago)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (3 weeks ago)
