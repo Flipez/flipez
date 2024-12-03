@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.5.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.5.0), today) - Cross-SRE Terraform modules
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 6 days ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.197](https://github.com/mozilla-it/refractr/releases/tag/v0.0.197), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 1 month ago) - Cross-SRE Terraform modules
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 8 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
