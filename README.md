@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 day ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (2 days ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (1 week ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (1 week ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 week ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 5 days ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 6 days ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.197](https://github.com/mozilla-it/refractr/releases/tag/v0.0.197), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.4.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.4.0), 1 month ago) - Cross-SRE Terraform modules
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 8 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -40,7 +40,7 @@
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
 - [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
-- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 week ago)
+- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 weeks ago)
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 month ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 months ago)
@@ -62,7 +62,7 @@
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (1 week ago)
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (3 weeks ago)
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (4 weeks ago)
-- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (4 weeks ago)
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. (1 month ago)
 - [Shopify/yjit](https://github.com/Shopify/yjit) - Optimizing JIT compiler built inside CRuby (1 month ago)
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (2 months ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (2 months ago)
