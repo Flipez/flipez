@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.6.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.6.0), 5 days ago) - Cross-SRE Terraform modules
+- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.6.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.6.0), 6 days ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.198](https://github.com/mozilla-it/refractr/releases/tag/v0.0.198), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 3 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 9 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -42,7 +42,7 @@
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (4 weeks ago)
 - [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (4 weeks ago)
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (4 weeks ago)
-- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (4 weeks ago)
+- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 month ago)
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (1 month ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
@@ -67,7 +67,7 @@
 - [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. (3 months ago)
 - [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse (3 months ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (3 months ago)
-- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (3 months ago)
+- [leplatrem/collect](https://github.com/leplatrem/collect) - Publish and track your collectables (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
