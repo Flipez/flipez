@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/os](https://github.com/Flipez/os) -  (2 days ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (3 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 weeks ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 weeks ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 2 days ago) - 
+- [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 3 days ago) - 
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.6.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.6.0), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.198](https://github.com/mozilla-it/refractr/releases/tag/v0.0.198), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 4 weeks ago) - Generic GitHub composite actions/workflows for deploying applications
@@ -59,9 +59,9 @@
 
 #### ⭐ Recent Stars
 
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 days ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (2 days ago)
-- [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (6 days ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (3 days ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (3 days ago)
+- [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (1 week ago)
 - [FreeRTOS/FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - &#39;Classic&#39; FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel. (1 month ago)
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you&#39;d ever want to learn about data engineering (1 month ago)
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts. (1 month ago)
