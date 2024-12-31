@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Khalilheyrani](https://github.com/Khalilheyrani)
 - [Morayo110](https://github.com/Morayo110)
 - [Muhammad-Tayyab-Awan](https://github.com/Muhammad-Tayyab-Awan)
 - [femmeromantic](https://github.com/femmeromantic)
 - [Connor9994](https://github.com/Connor9994)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 💬 Feedback
 
