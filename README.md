@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/os](https://github.com/Flipez/os) -  (3 days ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (4 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (4 weeks ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (4 weeks ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (1 month ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (1 month ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (1 month ago)
@@ -59,16 +59,16 @@
 
 #### ⭐ Recent Stars
 
-- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 day ago)
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 day ago)
-- [NetWatch-team/Daily-Attack-Summary](https://github.com/NetWatch-team/Daily-Attack-Summary) -  (3 days ago)
-- [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (6 days ago)
-- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (6 days ago)
-- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation (6 days ago)
-- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (6 days ago)
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 days ago)
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (2 days ago)
+- [NetWatch-team/Daily-Attack-Summary](https://github.com/NetWatch-team/Daily-Attack-Summary) -  (4 days ago)
+- [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (1 week ago)
+- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (1 week ago)
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation (1 week ago)
+- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (1 week ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (1 week ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (1 week ago)
-- [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (1 week ago)
+- [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
