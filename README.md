@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 2 weeks ago) - 
+- [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 3 weeks ago) - 
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.6.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.6.0), 1 month ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.198](https://github.com/mozilla-it/refractr/releases/tag/v0.0.198), 1 month ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
@@ -66,8 +66,8 @@
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (2 weeks ago)
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation (2 weeks ago)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (2 weeks ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 weeks ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (2 weeks ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (3 weeks ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (3 weeks ago)
 - [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
