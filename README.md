@@ -53,7 +53,7 @@
 
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (2 months ago)
 - [Enten 🦆](https://auch.cool/enten/) (8 months ago)
-- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (8 months ago)
+- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (9 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 
