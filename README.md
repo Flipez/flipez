@@ -43,7 +43,7 @@
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 month ago)
 - [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 month ago)
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 month ago)
-- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (1 month ago)
+- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 months ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 months ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
@@ -68,7 +68,7 @@
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (3 weeks ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (3 weeks ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (3 weeks ago)
-- [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (4 weeks ago)
+- [mna/trofaf](https://github.com/mna/trofaf) - Super simple live static blog generator in Go. Vraiment trofaf. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
