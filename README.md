@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/os](https://github.com/Flipez/os) -  (3 weeks ago)
+- [Flipez/os](https://github.com/Flipez/os) -  (4 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (1 month ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (1 month ago)
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.199](https://github.com/mozilla-it/refractr/releases/tag/v0.0.199), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.199](https://github.com/mozilla-it/refractr/releases/tag/v0.0.199), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 1 month ago) - 
 - [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.6.0](https://github.com/mozilla/terraform-modules/releases/tag/v2.6.0), 1 month ago) - Cross-SRE Terraform modules
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 1 month ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 2 months ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 10 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
@@ -44,7 +44,7 @@
 - [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
-- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (2 months ago)
+- [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 months ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
 - [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
 - [add dockerized wiki configuration](https://github.com/mozilla/wiki.mozilla.org/pull/117) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (5 months ago)
@@ -52,7 +52,7 @@
 #### 📜 My recent blog posts
 
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (3 months ago)
-- [Enten 🦆](https://auch.cool/enten/) (8 months ago)
+- [Enten 🦆](https://auch.cool/enten/) (9 months ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (9 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
@@ -61,7 +61,7 @@
 
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (3 weeks ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (3 weeks ago)
-- [NetWatch-team/Daily-Attack-Summary](https://github.com/NetWatch-team/Daily-Attack-Summary) -  (3 weeks ago)
+- [NetWatch-team/Daily-Attack-Summary](https://github.com/NetWatch-team/Daily-Attack-Summary) -  (4 weeks ago)
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (1 month ago)
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (1 month ago)
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation (1 month ago)
