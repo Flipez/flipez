@@ -29,7 +29,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla/terraform-modules](https://github.com/mozilla/terraform-modules) ([v2.6.1](https://github.com/mozilla/terraform-modules/releases/tag/v2.6.1), 1 week ago) - Cross-SRE Terraform modules
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.200](https://github.com/mozilla-it/refractr/releases/tag/v0.0.200), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 2 months ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 10 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
@@ -37,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactoring](https://github.com/Flipez/mvg-live/pull/3) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [chore(scraper): publish responses to redis](https://github.com/Flipez/mvg-scraper/pull/1) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (1 day ago)
 - [fix(cache): Replace deprecated wfGetCache() call](https://github.com/mozilla/mediawiki-bugzilla/pull/109) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
 - [fix(docker): Add php-gd extension](https://github.com/mozilla/wiki.mozilla.org/pull/118) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
@@ -46,7 +46,6 @@
 - [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 months ago)
 - [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
-- [use papermod](https://github.com/Flipez/blog.auch.cool/pull/61) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 months ago)
 
 #### 📜 My recent blog posts
 
