@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvg-live/pull/5) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [Refactoring](https://github.com/Flipez/mvg-live/pull/3) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
 - [chore(scraper): publish responses to redis](https://github.com/Flipez/mvg-scraper/pull/1) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (2 days ago)
 - [fix(cache): Replace deprecated wfGetCache() call](https://github.com/mozilla/mediawiki-bugzilla/pull/109) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
@@ -45,7 +46,6 @@
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [chore(build): add docker build workflow](https://github.com/common-voice/common-voice/pull/4674) on [common-voice/common-voice](https://github.com/common-voice/common-voice) (3 months ago)
-- [add: Clickhouse: Import compressed JSON fast](https://github.com/Flipez/blog.auch.cool/pull/62) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 months ago)
 
 #### 📜 My recent blog posts
 
