@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(frontend): add status map](https://github.com/Flipez/mvg-live/pull/9) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [fix(frontend): visual improvements](https://github.com/Flipez/mvg-live/pull/8) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvg-live/pull/5) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [Refactoring](https://github.com/Flipez/mvg-live/pull/3) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
@@ -45,7 +46,6 @@
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 - [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/52) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
-- [remove ECR buildpipeline and add GAR](https://github.com/mozilla/discourse.mozilla.org/pull/51) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 
 #### 📜 My recent blog posts
 
