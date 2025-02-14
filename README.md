@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(frontend): add analytics](https://github.com/Flipez/mvg-live/pull/12) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
+- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvg-live/pull/11) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [fix(map): use maplibre](https://github.com/Flipez/mvg-live/pull/10) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
 - [chore(frontend): add status map](https://github.com/Flipez/mvg-live/pull/9) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
 - [fix(frontend): visual improvements](https://github.com/Flipez/mvg-live/pull/8) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
@@ -44,8 +46,6 @@
 - [chore(scraper): publish responses to redis](https://github.com/Flipez/mvg-scraper/pull/1) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (3 days ago)
 - [fix(cache): Replace deprecated wfGetCache() call](https://github.com/mozilla/mediawiki-bugzilla/pull/109) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
 - [fix(docker): Add php-gd extension](https://github.com/mozilla/wiki.mozilla.org/pull/118) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
-- [fix env](https://github.com/mozilla/discourse.mozilla.org/pull/54) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
-- [add build env](https://github.com/mozilla/discourse.mozilla.org/pull/53) on [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) (2 months ago)
 
 #### 📜 My recent blog posts
 
