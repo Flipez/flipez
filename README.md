@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg-live](https://github.com/Flipez/mvg-live) -  (today)
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (3 days ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (2 months ago)
@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [Flipez/mvg-live](https://github.com/Flipez/mvg-live) - 
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory
 - [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands
@@ -36,13 +36,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(frontend): add analytics](https://github.com/Flipez/mvg-live/pull/12) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
-- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvg-live/pull/11) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
-- [fix(map): use maplibre](https://github.com/Flipez/mvg-live/pull/10) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (today)
-- [chore(frontend): add status map](https://github.com/Flipez/mvg-live/pull/9) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
-- [fix(frontend): visual improvements](https://github.com/Flipez/mvg-live/pull/8) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
-- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvg-live/pull/5) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (1 day ago)
-- [Refactoring](https://github.com/Flipez/mvg-live/pull/3) on [Flipez/mvg-live](https://github.com/Flipez/mvg-live) (2 days ago)
+- [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
+- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
+- [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
+- [chore(frontend): add status map](https://github.com/Flipez/mvgeht.de/pull/9) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [Refactoring](https://github.com/Flipez/mvgeht.de/pull/3) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
 - [chore(scraper): publish responses to redis](https://github.com/Flipez/mvg-scraper/pull/1) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (3 days ago)
 - [fix(cache): Replace deprecated wfGetCache() call](https://github.com/mozilla/mediawiki-bugzilla/pull/109) on [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) (2 months ago)
 - [fix(docker): Add php-gd extension](https://github.com/mozilla/wiki.mozilla.org/pull/118) on [mozilla/wiki.mozilla.org](https://github.com/mozilla/wiki.mozilla.org) (2 months ago)
