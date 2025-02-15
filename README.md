@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(translations): start translations](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
