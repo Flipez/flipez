@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (today)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 month ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 month ago)
@@ -66,7 +67,6 @@
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation (1 month ago)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server (1 month ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (1 month ago)
-- [Flipez/os](https://github.com/Flipez/os) -  (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
