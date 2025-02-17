@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add history page](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 - [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 - [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
@@ -45,7 +46,6 @@
 - [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
 - [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
 - [Refactoring](https://github.com/Flipez/mvgeht.de/pull/3) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [chore(scraper): publish responses to redis](https://github.com/Flipez/mvg-scraper/pull/1) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (6 days ago)
 
 #### 📜 My recent blog posts
 
