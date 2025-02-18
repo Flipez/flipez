@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 days ago)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (6 days ago)
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (3 days ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 week ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
-- [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (2 months ago)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (2 months ago)
+- [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
 - [mozilla-it/itse-apps-stage-1-infra](https://github.com/mozilla-it/itse-apps-stage-1-infra) - Infrastructure and configuration files for itse-apps-stage-1-infra Kubernetes cluster (11 months ago)
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team (11 months ago)
 - [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) - Generic GitHub composite actions/workflows for deploying applications (11 months ago)
@@ -35,20 +35,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add history page](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [chore(frontend): add status map](https://github.com/Flipez/mvgeht.de/pull/9) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [Refactoring](https://github.com/Flipez/mvgeht.de/pull/3) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [add history page](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
+- [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
+- [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
+- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
+- [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
+- [chore(frontend): add status map](https://github.com/Flipez/mvgeht.de/pull/9) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [Refactoring](https://github.com/Flipez/mvgeht.de/pull/3) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
 
 #### 📜 My recent blog posts
 
-- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (3 months ago)
+- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (4 months ago)
 - [Enten 🦆](https://auch.cool/enten/) (9 months ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (10 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 day ago)
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (2 days ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 month ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 month ago)
