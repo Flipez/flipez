@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (3 days ago)
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 days ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 week ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add history page](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
-- [chore(frontend): add status map](https://github.com/Flipez/mvgeht.de/pull/9) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [Refactoring](https://github.com/Flipez/mvgeht.de/pull/3) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
+- [add history page](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
+- [chore(frontend): add status map](https://github.com/Flipez/mvgeht.de/pull/9) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
+- [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
+- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
+- [Refactoring](https://github.com/Flipez/mvgeht.de/pull/3) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (2 days ago)
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (3 days ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (2 weeks ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 month ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 month ago)
