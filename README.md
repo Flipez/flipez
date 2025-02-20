@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (5 days ago)
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 week ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add history page](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
+- [feat(pita): add point in time recovery](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 - [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
 - [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
 - [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
