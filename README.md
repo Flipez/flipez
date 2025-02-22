@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): streamline ui and add help icons](https://github.com/Flipez/mvgeht.de/pull/30) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [fix(ui): handle stations without any departures](https://github.com/Flipez/mvgeht.de/pull/29) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [fix(ui): add rendering for subway `U`](https://github.com/Flipez/mvgeht.de/pull/28) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [fix(pita): display extreme stations in charts](https://github.com/Flipez/mvgeht.de/pull/27) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
@@ -44,7 +45,6 @@
 - [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 - [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 - [chore(frontend): refactor and cleanup](https://github.com/Flipez/mvgeht.de/pull/11) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
-- [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 
 #### 📜 My recent blog posts
 
