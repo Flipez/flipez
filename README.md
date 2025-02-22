@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(pita): display extreme stations in charts](https://github.com/Flipez/mvgeht.de/pull/27) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(ui): overall improvements](https://github.com/Flipez/mvgeht.de/pull/26) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [feat(pita): add point in time recovery](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
 - [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
@@ -44,7 +45,6 @@
 - [fix(map): use maplibre](https://github.com/Flipez/mvgeht.de/pull/10) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 - [chore(frontend): add status map](https://github.com/Flipez/mvgeht.de/pull/9) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 - [fix(frontend): visual improvements](https://github.com/Flipez/mvgeht.de/pull/8) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
-- [chore(frontend): add landing page and ui cleanup](https://github.com/Flipez/mvgeht.de/pull/5) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 
 #### 📜 My recent blog posts
 
