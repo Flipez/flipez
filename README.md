@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
+- [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(pita): add slideable map](https://github.com/Flipez/mvgeht.de/pull/31) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [fix(ui): streamline ui and add help icons](https://github.com/Flipez/mvgeht.de/pull/30) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [fix(ui): handle stations without any departures](https://github.com/Flipez/mvgeht.de/pull/29) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
@@ -43,8 +45,6 @@
 - [chore(ui): overall improvements](https://github.com/Flipez/mvgeht.de/pull/26) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [feat(pita): add point in time recovery](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
 - [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
-- [chore(backend): remove dedup; limit by number only](https://github.com/Flipez/mvgeht.de/pull/13) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
-- [chore(frontend): add analytics](https://github.com/Flipez/mvgeht.de/pull/12) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
 
 #### 📜 My recent blog posts
 
