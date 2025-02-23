@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): please linter](https://github.com/Flipez/mvgeht.de/pull/36) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
@@ -44,7 +45,6 @@
 - [fix(ui): handle stations without any departures](https://github.com/Flipez/mvgeht.de/pull/29) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [fix(ui): add rendering for subway `U`](https://github.com/Flipez/mvgeht.de/pull/28) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [fix(pita): display extreme stations in charts](https://github.com/Flipez/mvgeht.de/pull/27) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [chore(ui): overall improvements](https://github.com/Flipez/mvgeht.de/pull/26) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 
 #### 📜 My recent blog posts
 
