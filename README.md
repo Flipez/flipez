@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update favicon](https://github.com/Flipez/mvgeht.de/pull/39) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
+- [chore(ui): display occupancy and messages](https://github.com/Flipez/mvgeht.de/pull/38) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(charts): improve PITA charts by switching to bar chart &#43; background](https://github.com/Flipez/mvgeht.de/pull/37) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [fix(ci): please linter](https://github.com/Flipez/mvgeht.de/pull/36) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
@@ -43,8 +45,6 @@
 - [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [chore(pita): add slideable map](https://github.com/Flipez/mvgeht.de/pull/31) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [fix(ui): streamline ui and add help icons](https://github.com/Flipez/mvgeht.de/pull/30) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [fix(ui): handle stations without any departures](https://github.com/Flipez/mvgeht.de/pull/29) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [fix(ui): add rendering for subway `U`](https://github.com/Flipez/mvgeht.de/pull/28) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 
 #### 📜 My recent blog posts
 
