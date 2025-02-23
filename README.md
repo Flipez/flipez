@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [chore(pita): add slideable map](https://github.com/Flipez/mvgeht.de/pull/31) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [fix(ui): streamline ui and add help icons](https://github.com/Flipez/mvgeht.de/pull/30) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [fix(ui): handle stations without any departures](https://github.com/Flipez/mvgeht.de/pull/29) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [fix(ui): add rendering for subway `U`](https://github.com/Flipez/mvgeht.de/pull/28) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [fix(pita): display extreme stations in charts](https://github.com/Flipez/mvgeht.de/pull/27) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [chore(ui): overall improvements](https://github.com/Flipez/mvgeht.de/pull/26) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [feat(pita): add point in time recovery](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [chore(translations): translate the app](https://github.com/Flipez/mvgeht.de/pull/14) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
+- [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [chore(pita): add slideable map](https://github.com/Flipez/mvgeht.de/pull/31) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(ui): streamline ui and add help icons](https://github.com/Flipez/mvgeht.de/pull/30) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(ui): handle stations without any departures](https://github.com/Flipez/mvgeht.de/pull/29) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(ui): add rendering for subway `U`](https://github.com/Flipez/mvgeht.de/pull/28) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [fix(pita): display extreme stations in charts](https://github.com/Flipez/mvgeht.de/pull/27) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [chore(ui): overall improvements](https://github.com/Flipez/mvgeht.de/pull/26) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [feat(pita): add point in time recovery](https://github.com/Flipez/mvgeht.de/pull/15) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (6 days ago)
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 week ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (3 weeks ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 month ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 month ago)
