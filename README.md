@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (2 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add popup information](https://github.com/Flipez/mvgeht.de/pull/43) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (today)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvgeht.de/pull/42) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [chore(ui): add grafana dashboard](https://github.com/Flipez/mvgeht.de/pull/41) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
@@ -44,7 +45,6 @@
 - [fix(ci): please linter](https://github.com/Flipez/mvgeht.de/pull/36) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
 - [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
 - [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 
 #### 📜 My recent blog posts
 
