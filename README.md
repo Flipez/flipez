@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 week ago)
+- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (2 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.202](https://github.com/mozilla-it/refractr/releases/tag/v0.0.202), today) - yaml -&gt; nginx for redirects and rewrites
-- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 2 months ago) - Generic GitHub composite actions/workflows for deploying applications
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.202](https://github.com/mozilla-it/refractr/releases/tag/v0.0.202), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/deploy-actions](https://github.com/mozilla-it/deploy-actions) ([v3.13.0](https://github.com/mozilla-it/deploy-actions/releases/tag/v3.13.0), 3 months ago) - Generic GitHub composite actions/workflows for deploying applications
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 11 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
 
-- [chore(ui): add link to status page](https://github.com/Flipez/mvgeht.de/pull/42) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [chore(ui): add grafana dashboard](https://github.com/Flipez/mvgeht.de/pull/41) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (today)
-- [update favicon](https://github.com/Flipez/mvgeht.de/pull/39) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [chore(ui): display occupancy and messages](https://github.com/Flipez/mvgeht.de/pull/38) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [chore(charts): improve PITA charts by switching to bar chart &#43; background](https://github.com/Flipez/mvgeht.de/pull/37) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [fix(ci): please linter](https://github.com/Flipez/mvgeht.de/pull/36) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
-- [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
-- [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
-- [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [chore(ui): add link to status page](https://github.com/Flipez/mvgeht.de/pull/42) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [chore(ui): add grafana dashboard](https://github.com/Flipez/mvgeht.de/pull/41) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
+- [update favicon](https://github.com/Flipez/mvgeht.de/pull/39) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [chore(ui): display occupancy and messages](https://github.com/Flipez/mvgeht.de/pull/38) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [chore(charts): improve PITA charts by switching to bar chart &#43; background](https://github.com/Flipez/mvgeht.de/pull/37) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [fix(ci): please linter](https://github.com/Flipez/mvgeht.de/pull/36) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
+- [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
+- [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
+- [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 
 #### 📜 My recent blog posts
 
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (4 months ago)
-- [Enten 🦆](https://auch.cool/enten/) (9 months ago)
+- [Enten 🦆](https://auch.cool/enten/) (10 months ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (10 months ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
