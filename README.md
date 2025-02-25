@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (today)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvgeht.de/pull/42) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [chore(ui): add grafana dashboard](https://github.com/Flipez/mvgeht.de/pull/41) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 day ago)
 - [update favicon](https://github.com/Flipez/mvgeht.de/pull/39) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
@@ -44,7 +45,6 @@
 - [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (2 days ago)
 - [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 - [fix(ui): improve responsiveness of the grid](https://github.com/Flipez/mvgeht.de/pull/33) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
-- [fix(metrics): update analytics and add speed insights](https://github.com/Flipez/mvgeht.de/pull/32) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (3 days ago)
 
 #### 📜 My recent blog posts
 
