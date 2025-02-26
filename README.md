@@ -73,10 +73,10 @@
 #### 👯 Check out some of my recent followers
 
 - [l-h6269](https://github.com/l-h6269)
-- [XiaomingX](https://github.com/XiaomingX)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Khalilheyrani](https://github.com/Khalilheyrani)
 - [Morayo110](https://github.com/Morayo110)
+- [Muhammad-Tayyab-Awan](https://github.com/Muhammad-Tayyab-Awan)
 
 #### 💬 Feedback
 
