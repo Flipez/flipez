@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 days ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 days ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (2 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (2 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
@@ -14,7 +14,7 @@
 
 #### 🌱 My latest projects
 
-- [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory
 - [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands
@@ -35,16 +35,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add popup information](https://github.com/Flipez/mvgeht.de/pull/43) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (4 days ago)
+- [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 days ago)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (4 days ago)
-- [chore(ui): add link to status page](https://github.com/Flipez/mvgeht.de/pull/42) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [chore(ui): add grafana dashboard](https://github.com/Flipez/mvgeht.de/pull/41) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (5 days ago)
-- [update favicon](https://github.com/Flipez/mvgeht.de/pull/39) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
-- [chore(ui): display occupancy and messages](https://github.com/Flipez/mvgeht.de/pull/38) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
-- [chore(charts): improve PITA charts by switching to bar chart &#43; background](https://github.com/Flipez/mvgeht.de/pull/37) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
-- [fix(ci): please linter](https://github.com/Flipez/mvgeht.de/pull/36) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
-- [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvgeht.de/pull/35) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (6 days ago)
-- [Improve Translations](https://github.com/Flipez/mvgeht.de/pull/34) on [Flipez/mvgeht.de](https://github.com/Flipez/mvgeht.de) (1 week ago)
+- [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (5 days ago)
+- [chore(ui): add grafana dashboard](https://github.com/Flipez/mvg.observer/pull/41) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (5 days ago)
+- [update favicon](https://github.com/Flipez/mvg.observer/pull/39) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [chore(ui): display occupancy and messages](https://github.com/Flipez/mvg.observer/pull/38) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [chore(charts): improve PITA charts by switching to bar chart &#43; background](https://github.com/Flipez/mvg.observer/pull/37) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [fix(ci): please linter](https://github.com/Flipez/mvg.observer/pull/36) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvg.observer/pull/35) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [Improve Translations](https://github.com/Flipez/mvg.observer/pull/34) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 
 #### 📜 My recent blog posts
 
