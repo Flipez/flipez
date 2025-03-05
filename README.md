@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 days ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (3 weeks ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 days ago)
 - [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 week ago)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
