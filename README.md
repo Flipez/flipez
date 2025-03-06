@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Eikonsphere](https://github.com/Eikonsphere)
 - [l-h6269](https://github.com/l-h6269)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Khalilheyrani](https://github.com/Khalilheyrani)
 - [Morayo110](https://github.com/Morayo110)
-- [Muhammad-Tayyab-Awan](https://github.com/Muhammad-Tayyab-Awan)
 
 #### 💬 Feedback
 
