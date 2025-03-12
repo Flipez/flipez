@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (today)
+- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (1 day ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (3 weeks ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 months ago)
