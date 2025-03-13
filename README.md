@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 week ago)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (4 weeks ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (1 day ago)
+- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (2 days ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (3 weeks ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 months ago)
