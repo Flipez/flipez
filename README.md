@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 week ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 month ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 weeks ago)
@@ -42,7 +43,6 @@
 - [chore(ui): display occupancy and messages](https://github.com/Flipez/mvg.observer/pull/38) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
 - [chore(charts): improve PITA charts by switching to bar chart &#43; background](https://github.com/Flipez/mvg.observer/pull/37) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
 - [fix(ci): please linter](https://github.com/Flipez/mvg.observer/pull/36) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
-- [chore(ui): instead on data refresh, flash cards and map pins on departure](https://github.com/Flipez/mvg.observer/pull/35) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
