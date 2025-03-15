@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.205](https://github.com/mozilla-it/refractr/releases/tag/v0.0.205), today) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.205](https://github.com/mozilla-it/refractr/releases/tag/v0.0.205), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 11 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (3 days ago)
+- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (4 days ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (3 weeks ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 months ago)
