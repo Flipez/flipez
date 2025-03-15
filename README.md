@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (today)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 month ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (2 months ago)
@@ -11,7 +11,7 @@
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 months ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (3 months ago)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (3 months ago)
+- [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) - Configuration for discourse.mozilla.org (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), today) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.205](https://github.com/mozilla-it/refractr/releases/tag/v0.0.205), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 2 months ago) - 
 - [mozilla-it/helm-charts](https://github.com/mozilla-it/helm-charts) ([discourse-3.0.7](https://github.com/mozilla-it/helm-charts/releases/tag/discourse-3.0.7), 11 months ago) - This repository contains a collection of Helm charts curated by Mozilla&#39;s Service Engineering team
