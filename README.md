@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (today)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 day ago)
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (6 days ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (4 weeks ago)
@@ -67,7 +68,6 @@
 - [NetWatch-team/Daily-Attack-Summary](https://github.com/NetWatch-team/Daily-Attack-Summary) -  (2 months ago)
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (2 months ago)
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (2 months ago)
-- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
