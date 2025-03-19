@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (2 days ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (3 days ago)
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (1 week ago)
@@ -67,7 +68,6 @@
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (2 months ago)
 - [NetWatch-team/Daily-Attack-Summary](https://github.com/NetWatch-team/Daily-Attack-Summary) -  (2 months ago)
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (2 months ago)
-- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
