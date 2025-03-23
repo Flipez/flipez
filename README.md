@@ -2,6 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (today)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 week ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 week ago)
@@ -10,11 +12,11 @@
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 months ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (3 months ago)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (3 months ago)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) - yaml -&gt; nginx for redirects and rewrites (4 months ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/nvim](https://github.com/Flipez/nvim) - 
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) - 
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory
 - [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de
@@ -23,8 +25,6 @@
 - [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) - 
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper
 - [Flipez/auch.cool](https://github.com/Flipez/auch.cool) - 
-- [Flipez/data-science-from-scratch](https://github.com/Flipez/data-science-from-scratch) - Follow along repo for https://www.oreilly.com/library/view/data-science-from/9781492041122/
-- [Flipez/bkv](https://github.com/Flipez/bkv) - 
 
 
 #### 🔭 Latest releases I've contributed to
