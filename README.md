@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (today)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 days ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
@@ -66,7 +67,6 @@
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (1 week ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 month ago)
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
-- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
