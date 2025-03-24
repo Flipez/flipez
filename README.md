@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (today)
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (today)
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (1 day ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (1 day ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (1 week ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 week ago)
@@ -40,11 +40,11 @@
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
+- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 weeks ago)
 - [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 weeks ago)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 weeks ago)
-- [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 weeks ago)
-- [chore(ui): add grafana dashboard](https://github.com/Flipez/mvg.observer/pull/41) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 weeks ago)
+- [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 weeks ago)
+- [chore(ui): add grafana dashboard](https://github.com/Flipez/mvg.observer/pull/41) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 weeks ago)
 - [update favicon](https://github.com/Flipez/mvg.observer/pull/39) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 weeks ago)
 
 #### 📜 My recent blog posts
@@ -57,11 +57,11 @@
 
 #### ⭐ Recent Stars
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 day ago)
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 day ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (4 days ago)
-- [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (6 days ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 days ago)
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (5 days ago)
+- [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (1 week ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (1 week ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 month ago)
