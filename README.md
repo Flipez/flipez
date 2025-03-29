@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (today)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (5 days ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
@@ -66,7 +67,6 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (2 weeks ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 month ago)
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
