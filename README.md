@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (6 days ago)
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (6 days ago)
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (1 week ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (1 week ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 weeks ago)
@@ -57,14 +57,14 @@
 
 #### ⭐ Recent Stars
 
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (today)
-- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (5 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 day ago)
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (6 days ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 week ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (1 week ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 week ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 weeks ago)
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (2 weeks ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 month ago)
 
@@ -76,8 +76,8 @@
 - [Eikonsphere](https://github.com/Eikonsphere)
 - [l-h6269](https://github.com/l-h6269)
 - [standardgalactic](https://github.com/standardgalactic)
-- [Khalilheyrani](https://github.com/Khalilheyrani)
 - [Morayo110](https://github.com/Morayo110)
+- [Muhammad-Tayyab-Awan](https://github.com/Muhammad-Tayyab-Awan)
 
 #### 💬 Feedback
 
