@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 days ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (1 week ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
@@ -65,7 +65,7 @@
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (2 weeks ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 weeks ago)
-- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (2 weeks ago)
+- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (3 weeks ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
