@@ -10,7 +10,7 @@
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 month ago)
 - [Flipez/os](https://github.com/Flipez/os) -  (3 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 months ago)
-- [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (3 months ago)
+- [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (4 months ago)
 - [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (4 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (5 days ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (1 week ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
