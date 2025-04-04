@@ -30,7 +30,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 2 weeks ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.205](https://github.com/mozilla-it/refractr/releases/tag/v0.0.205), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.205](https://github.com/mozilla-it/refractr/releases/tag/v0.0.205), 3 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 3 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (5 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (6 days ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (1 week ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
