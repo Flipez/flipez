@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (1 week ago)
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (1 week ago)
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (2 weeks ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (3 weeks ago)
@@ -64,7 +64,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (2 weeks ago)
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (2 weeks ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 weeks ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (3 weeks ago)
 - [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (3 weeks ago)
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language (1 month ago)
 
