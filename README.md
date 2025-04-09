@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (today)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 days ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 week ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (2 weeks ago)
@@ -66,7 +67,6 @@
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (3 weeks ago)
 - [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (3 weeks ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (3 weeks ago)
-- [libretro/netplay-tunnel-server](https://github.com/libretro/netplay-tunnel-server) -  (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
