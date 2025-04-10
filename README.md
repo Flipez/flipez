@@ -57,8 +57,8 @@
 
 #### ⭐ Recent Stars
 
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (today)
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 days ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 day ago)
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (4 days ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 week ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (2 weeks ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 weeks ago)
