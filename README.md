@@ -57,6 +57,8 @@
 
 #### ⭐ Recent Stars
 
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (today)
+- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (today)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (3 days ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (6 days ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 weeks ago)
@@ -65,8 +67,6 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (3 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (3 weeks ago)
-- [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) - Online browser-based RTS game (3 weeks ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
