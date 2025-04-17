@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.208](https://github.com/mozilla-it/refractr/releases/tag/v0.0.208), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.208](https://github.com/mozilla-it/refractr/releases/tag/v0.0.208), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 3 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
@@ -51,14 +51,14 @@
 
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (5 months ago)
 - [Enten 🦆](https://auch.cool/enten/) (11 months ago)
-- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (11 months ago)
+- [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (1 year ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (4 days ago)
-- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (4 days ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 days ago)
+- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (5 days ago)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 week ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 week ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 weeks ago)
