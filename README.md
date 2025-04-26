@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.210](https://github.com/mozilla-it/refractr/releases/tag/v0.0.210), today) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.210](https://github.com/mozilla-it/refractr/releases/tag/v0.0.210), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 4 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
@@ -41,8 +41,8 @@
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
 - [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
-- [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
-- [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (1 month ago)
+- [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
+- [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 - [chore(ui): add grafana dashboard](https://github.com/Flipez/mvg.observer/pull/41) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 - [update favicon](https://github.com/Flipez/mvg.observer/pull/39) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
@@ -50,18 +50,18 @@
 #### 📜 My recent blog posts
 
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (6 months ago)
-- [Enten 🦆](https://auch.cool/enten/) (11 months ago)
+- [Enten 🦆](https://auch.cool/enten/) (1 year ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (1 year ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
-- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (1 week ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (2 weeks ago)
+- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (2 weeks ago)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (2 weeks ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (2 weeks ago)
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 weeks ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (4 weeks ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (1 month ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 month ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 month ago)
