@@ -11,7 +11,7 @@
 - [Flipez/os](https://github.com/Flipez/os) -  (4 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [mozilla/mediawiki-bugzilla](https://github.com/mozilla/mediawiki-bugzilla) - A MediaWiki extension that provides read-only access to the Bugzilla REST API (4 months ago)
-- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (4 months ago)
+- [Flipez/advent-of-code](https://github.com/Flipez/advent-of-code) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.211](https://github.com/mozilla-it/refractr/releases/tag/v0.0.211), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.211](https://github.com/mozilla-it/refractr/releases/tag/v0.0.211), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 4 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
@@ -40,7 +40,7 @@
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
-- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
+- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 - [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
