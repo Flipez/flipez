@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (today)
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
@@ -45,7 +46,6 @@
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 - [chore(ui): add grafana dashboard](https://github.com/Flipez/mvg.observer/pull/41) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
-- [update favicon](https://github.com/Flipez/mvg.observer/pull/39) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 
 #### 📜 My recent blog posts
 
