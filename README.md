@@ -29,14 +29,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.216](https://github.com/mozilla-it/refractr/releases/tag/v0.0.216), 3 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.216](https://github.com/mozilla-it/refractr/releases/tag/v0.0.216), 4 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 5 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
 
-- [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 day ago)
+- [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 days ago)
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
@@ -57,15 +57,15 @@
 
 #### ⭐ Recent Stars
 
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (5 days ago)
-- [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (6 days ago)
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (6 days ago)
+- [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (1 week ago)
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (1 week ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 month ago)
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (1 month ago)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 month ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 month ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 month ago)
-- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (1 month ago)
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (2 months ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
