@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 days ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 days ago)
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (2 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (2 months ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 months ago)
@@ -29,21 +29,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.216](https://github.com/mozilla-it/refractr/releases/tag/v0.0.216), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.216](https://github.com/mozilla-it/refractr/releases/tag/v0.0.216), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 5 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
 
-- [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 days ago)
+- [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 days ago)
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 - [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
-- [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
-- [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (2 months ago)
+- [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
+- [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
 - [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
 - [chore(ui): add grafana dashboard](https://github.com/Flipez/mvg.observer/pull/41) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
 
