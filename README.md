@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [rjltrevisan](https://github.com/rjltrevisan)
 - [NeoDesign](https://github.com/NeoDesign)
 - [Eikonsphere](https://github.com/Eikonsphere)
 - [l-h6269](https://github.com/l-h6269)
 - [standardgalactic](https://github.com/standardgalactic)
-- [Morayo110](https://github.com/Morayo110)
 
 #### 💬 Feedback
 
