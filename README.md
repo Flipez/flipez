@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (today)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (3 weeks ago)
 - [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (3 weeks ago)
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (3 weeks ago)
@@ -66,7 +67,6 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (2 months ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 months ago)
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh. (2 months ago)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
