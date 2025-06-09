@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [VoicesColeby](https://github.com/VoicesColeby)
 - [kkpan11](https://github.com/kkpan11)
 - [rjltrevisan](https://github.com/rjltrevisan)
 - [NeoDesign](https://github.com/NeoDesign)
 - [Eikonsphere](https://github.com/Eikonsphere)
-- [l-h6269](https://github.com/l-h6269)
 
 #### 💬 Feedback
 
