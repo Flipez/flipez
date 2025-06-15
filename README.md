@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (today)
 - [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 weeks ago)
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
@@ -45,7 +46,6 @@
 - [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
 - [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
 - [chore(deprecation): add deprecation banner](https://github.com/mozilla-it/pastebin/pull/18) on [mozilla-it/pastebin](https://github.com/mozilla-it/pastebin) (3 months ago)
-- [chore(ui): add link to status page](https://github.com/Flipez/mvg.observer/pull/42) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
 
 #### 📜 My recent blog posts
 
