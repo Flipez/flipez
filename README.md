@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.221](https://github.com/mozilla-it/refractr/releases/tag/v0.0.221), 5 days ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.221](https://github.com/mozilla-it/refractr/releases/tag/v0.0.221), 6 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 3 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 6 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 days ago)
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (3 days ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (1 week ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (2 weeks ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (1 month ago)
@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [alexjalonso7777](https://github.com/alexjalonso7777)
 - [VoicesColeby](https://github.com/VoicesColeby)
 - [kkpan11](https://github.com/kkpan11)
 - [rjltrevisan](https://github.com/rjltrevisan)
 - [NeoDesign](https://github.com/NeoDesign)
-- [Eikonsphere](https://github.com/Eikonsphere)
 
 #### 💬 Feedback
 
