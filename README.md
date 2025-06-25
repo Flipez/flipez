@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (today)
 - [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (today)
 - [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (1 week ago)
 - [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (2 weeks ago)
@@ -45,7 +46,6 @@
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 - [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
 - [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 months ago)
-- [Add popup information](https://github.com/Flipez/mvg.observer/pull/43) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 months ago)
 
 #### 📜 My recent blog posts
 
