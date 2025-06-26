@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/cv](https://github.com/Flipez/cv) -  (1 day ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 day ago)
+- [Flipez/cv](https://github.com/Flipez/cv) -  (1 day ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 day ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (3 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (3 months ago)
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (3 months ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (4 months ago)
 
 #### 🌱 My latest projects
