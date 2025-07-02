@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (6 days ago)
-- [Flipez/cv](https://github.com/Flipez/cv) -  (6 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 days ago)
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 week ago)
+- [Flipez/cv](https://github.com/Flipez/cv) -  (1 week ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (3 months ago)
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (3 months ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.221](https://github.com/mozilla-it/refractr/releases/tag/v0.0.221), 1 week ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.221](https://github.com/mozilla-it/refractr/releases/tag/v0.0.221), 2 weeks ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 3 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 6 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
 
-- [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (6 days ago)
-- [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (6 days ago)
+- [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
+- [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (2 weeks ago)
 - [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
@@ -58,7 +58,7 @@
 #### ⭐ Recent Stars
 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (1 week ago)
-- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (2 weeks ago)
+- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 weeks ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (3 weeks ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (1 month ago)
 - [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (1 month ago)
