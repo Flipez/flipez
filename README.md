@@ -38,8 +38,8 @@
 
 - [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
-- [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (2 weeks ago)
-- [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
+- [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (3 weeks ago)
+- [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 weeks ago)
 - [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
