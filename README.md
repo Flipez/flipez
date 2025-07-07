@@ -59,7 +59,7 @@
 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 weeks ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 weeks ago)
-- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (3 weeks ago)
+- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (4 weeks ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (1 month ago)
 - [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (1 month ago)
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (1 month ago)
