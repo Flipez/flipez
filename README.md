@@ -39,7 +39,7 @@
 - [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (3 weeks ago)
-- [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 weeks ago)
+- [chore(theme): update papermod and hugo](https://github.com/Flipez/blog.auch.cool/pull/63) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 - [chore(k8s): Update cluster, coredns and cert-manager in stage](https://github.com/mozilla-iam/iam-infra/pull/329) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
@@ -65,7 +65,7 @@
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (1 month ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (2 months ago)
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (2 months ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (2 months ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (3 months ago)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
