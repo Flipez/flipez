@@ -9,8 +9,8 @@
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (3 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 months ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 months ago)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (5 months ago)
 
 #### 🌱 My latest projects
