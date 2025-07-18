@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/cv](https://github.com/Flipez/cv) -  (3 weeks ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (3 weeks ago)
+- [Flipez/cv](https://github.com/Flipez/cv) -  (3 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (3 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (3 months ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 months ago)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 months ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (4 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (5 months ago)
 
@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (today)
+- [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (1 month ago)
@@ -44,8 +46,6 @@
 - [fix(release): Update goreleaser config to v2](https://github.com/Flipez/rocket-lang/pull/210) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 months ago)
 - [chore(docs): Update to Docusaurus 3.7 and React 19](https://github.com/Flipez/rocket-lang/pull/209) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 months ago)
 - [chore(go): Update Go to 1.24](https://github.com/Flipez/rocket-lang/pull/208) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 months ago)
-- [chore(pita): Persist settings to URL](https://github.com/Flipez/mvg.observer/pull/47) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 months ago)
-- [fix(map): fix missing lastUpdated attribute](https://github.com/Flipez/mvg.observer/pull/45) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 months ago)
 
 #### 📜 My recent blog posts
 
