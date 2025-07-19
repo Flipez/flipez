@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (3 weeks ago)
 - [Flipez/cv](https://github.com/Flipez/cv) -  (3 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (today)
-- [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 day ago)
+- [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (3 weeks ago)
 - [rewrite in nextjs](https://github.com/Flipez/the-spezi-project/pull/1) on [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) (1 month ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (3 weeks ago)
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (4 weeks ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (1 month ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (1 month ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (2 months ago)
