@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
@@ -45,7 +46,6 @@
 - [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (6 days ago)
 - [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
 - [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 weeks ago)
-- [Update vercel json](https://github.com/Flipez/blog.auch.cool/pull/64) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
