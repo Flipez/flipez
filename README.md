@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add footer and about page](https://github.com/Flipez/mvg.observer/pull/62) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
 - [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
@@ -45,7 +46,6 @@
 - [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
 - [chore(pita): remove calender after limit](https://github.com/Flipez/mvg.observer/pull/54) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 days ago)
 - [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
-- [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 
 #### 📜 My recent blog posts
 
