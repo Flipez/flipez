@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 days ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 month ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
 - [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
 - [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
@@ -45,7 +46,6 @@
 - [chore(pita): remove calender after limit](https://github.com/Flipez/mvg.observer/pull/54) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 days ago)
 - [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
 - [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
-- [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 
 #### 📜 My recent blog posts
 
