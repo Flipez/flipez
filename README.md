@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (5 days ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 days ago)
-- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (4 weeks ago)
-- [Flipez/cv](https://github.com/Flipez/cv) -  (4 weeks ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
+- [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 month ago)
+- [Flipez/cv](https://github.com/Flipez/cv) -  (1 month ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (4 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (4 months ago)
@@ -29,23 +29,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.222](https://github.com/mozilla-it/refractr/releases/tag/v0.0.222), 1 day ago) - yaml -&gt; nginx for redirects and rewrites
+- [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.222](https://github.com/mozilla-it/refractr/releases/tag/v0.0.222), 2 days ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 4 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 7 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 3 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
 
-- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
-- [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
-- [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
-- [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
-- [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
-- [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
-- [chore(pita): remove calender after limit](https://github.com/Flipez/mvg.observer/pull/54) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 days ago)
-- [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (6 days ago)
-- [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
-- [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (4 weeks ago)
+- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
+- [chore(pita): remove calender after limit](https://github.com/Flipez/mvg.observer/pull/54) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (3 days ago)
+- [New spezi redirect](https://github.com/Flipez/blog.auch.cool/pull/66) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 week ago)
+- [chore(docs): Update Docusaurus to 3.8](https://github.com/Flipez/rocket-lang/pull/217) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
+- [remove outdated spezi page](https://github.com/Flipez/blog.auch.cool/pull/65) on [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) (1 month ago)
 
 #### 📜 My recent blog posts
 
