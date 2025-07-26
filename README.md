@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (today)
 - [add footer and about page](https://github.com/Flipez/mvg.observer/pull/62) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
 - [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 day ago)
@@ -45,7 +46,6 @@
 - [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 days ago)
 - [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 days ago)
 - [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 days ago)
-- [chore(pita): remove calender after limit](https://github.com/Flipez/mvg.observer/pull/54) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 days ago)
 
 #### 📜 My recent blog posts
 
