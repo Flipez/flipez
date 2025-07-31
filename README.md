@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 days ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (5 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 month ago)
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 days ago)
-- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 days ago)
-- [add footer and about page](https://github.com/Flipez/mvg.observer/pull/62) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (5 days ago)
-- [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (5 days ago)
-- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
-- [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
-- [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
-- [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
-- [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
-- [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (5 days ago)
+- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (5 days ago)
+- [add footer and about page](https://github.com/Flipez/mvg.observer/pull/62) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 
 #### 📜 My recent blog posts
 
