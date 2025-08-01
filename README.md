@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [willis3979](https://github.com/willis3979)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [alexjalonso7777](https://github.com/alexjalonso7777)
 - [VoicesColeby](https://github.com/VoicesColeby)
-- [kkpan11](https://github.com/kkpan11)
 
 #### 💬 Feedback
 
