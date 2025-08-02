@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (6 days ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 week ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (1 month ago)
 - [Flipez/cv](https://github.com/Flipez/cv) -  (1 month ago)
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
-- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (6 days ago)
+- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [add footer and about page](https://github.com/Flipez/mvg.observer/pull/62) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
