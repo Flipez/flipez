@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (today)
+- [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 day ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 week ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
@@ -40,12 +40,12 @@
 - [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [add footer and about page](https://github.com/Flipez/mvg.observer/pull/62) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
 - [cleanup files and build](https://github.com/Flipez/mvg.observer/pull/61) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
-- [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 week ago)
+- [fix prettier](https://github.com/Flipez/mvg.observer/pull/60) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
+- [add own umami tracking](https://github.com/Flipez/mvg.observer/pull/59) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
+- [remove vercel dependencies](https://github.com/Flipez/mvg.observer/pull/58) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
+- [move frontend into frontend dir](https://github.com/Flipez/mvg.observer/pull/57) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
+- [Update deps](https://github.com/Flipez/mvg.observer/pull/56) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
+- [refactor](https://github.com/Flipez/mvg.observer/pull/55) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 day ago)
+- [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (2 days ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (1 month ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (1 month ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (1 month ago)
@@ -66,7 +66,7 @@
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (2 months ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (3 months ago)
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (3 months ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (3 months ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
