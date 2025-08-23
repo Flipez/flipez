@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Data Description Format) files. (today)
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (today)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (4 days ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Data Description Format) files.
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) - 
 - [Flipez/nvim](https://github.com/Flipez/nvim) - 
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) - 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.3.0](https://github.com/Flipez/ruby-uddf/releases/tag/v0.3.0), today) - A Ruby library for parsing and writing UDDF (Universal Data Description Format) files.
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.3.0](https://github.com/Flipez/ruby-uddf/releases/tag/v0.3.0), today) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 4 days ago) - 
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.222](https://github.com/mozilla-it/refractr/releases/tag/v0.0.222), 1 month ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
