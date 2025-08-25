@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (today)
-- [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (5 days ago)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 weeks ago)
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 day ago)
+- [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (6 days ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 month ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
 - [Flipez/cv](https://github.com/Flipez/cv) -  (2 months ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), today) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
-- [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 5 days ago) - 
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 1 day ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
+- [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 6 days ago) - 
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.222](https://github.com/mozilla-it/refractr/releases/tag/v0.0.222), 1 month ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 8 months ago) - 
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (today)
-- [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (today)
-- [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (today)
-- [add support for 3.2.2 in parser](https://github.com/Flipez/ruby-uddf/pull/2) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (today)
-- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 day ago)
-- [fix(time): add iso 8601 without trailing Z](https://github.com/Flipez/go-uddf/pull/3) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (5 days ago)
+- [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 day ago)
+- [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 day ago)
+- [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 day ago)
+- [add support for 3.2.2 in parser](https://github.com/Flipez/ruby-uddf/pull/2) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 day ago)
+- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 days ago)
+- [fix(time): add iso 8601 without trailing Z](https://github.com/Flipez/go-uddf/pull/3) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (6 days ago)
 - [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 week ago)
 - [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 week ago)
-- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 weeks ago)
-- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (4 weeks ago)
+- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
+- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
 
 #### 📜 My recent blog posts
 
