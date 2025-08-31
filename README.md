@@ -7,11 +7,11 @@
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 month ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
-- [Flipez/cv](https://github.com/Flipez/cv) -  (2 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (2 months ago)
+- [Flipez/cv](https://github.com/Flipez/cv) -  (2 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (5 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (5 months ago)
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (5 months ago)
 
 #### 🌱 My latest projects
 
