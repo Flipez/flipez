@@ -42,7 +42,7 @@
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 week ago)
 - [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 week ago)
 - [add support for 3.2.2 in parser](https://github.com/Flipez/ruby-uddf/pull/2) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 week ago)
-- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 week ago)
+- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
 - [fix(time): add iso 8601 without trailing Z](https://github.com/Flipez/go-uddf/pull/3) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (2 weeks ago)
 - [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (3 weeks ago)
 - [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (3 weeks ago)
@@ -68,7 +68,7 @@
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (3 months ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (4 months ago)
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (4 months ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (4 months ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
