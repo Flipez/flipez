@@ -10,8 +10,8 @@
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (2 months ago)
 - [Flipez/cv](https://github.com/Flipez/cv) -  (2 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (5 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (5 months ago)
+- [Flipez/nvim](https://github.com/Flipez/nvim) -  (5 months ago)
 
 #### 🌱 My latest projects
 
