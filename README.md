@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (today)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 months ago)
@@ -68,7 +69,6 @@
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (3 months ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 months ago)
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (5 months ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
