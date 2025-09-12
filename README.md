@@ -44,8 +44,8 @@
 - [add support for 3.2.2 in parser](https://github.com/Flipez/ruby-uddf/pull/2) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
 - [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
 - [fix(time): add iso 8601 without trailing Z](https://github.com/Flipez/go-uddf/pull/3) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (3 weeks ago)
-- [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (3 weeks ago)
-- [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (3 weeks ago)
+- [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (4 weeks ago)
+- [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (4 weeks ago)
 - [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
 - [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
 
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (1 day ago)
+- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 days ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 months ago)
