@@ -42,7 +42,7 @@
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
 - [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
 - [add support for 3.2.2 in parser](https://github.com/Flipez/ruby-uddf/pull/2) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
-- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 weeks ago)
+- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (3 weeks ago)
 - [fix(time): add iso 8601 without trailing Z](https://github.com/Flipez/go-uddf/pull/3) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (3 weeks ago)
 - [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (4 weeks ago)
 - [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (4 weeks ago)
@@ -59,13 +59,13 @@
 
 #### ⭐ Recent Stars
 
-- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 days ago)
+- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (3 days ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 months ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (3 months ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (3 months ago)
-- [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (3 months ago)
+- [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (4 months ago)
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (4 months ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 months ago)
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (5 months ago)
