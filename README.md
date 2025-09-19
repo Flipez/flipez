@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (1 week ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (3 months ago)
@@ -68,7 +69,6 @@
 - [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (4 months ago)
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (4 months ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 months ago)
-- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
