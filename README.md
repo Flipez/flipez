@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Better Curl Saul is a terminal based lightweight API testing client focused on user experience and simplicity when compared to other clients (today)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 weeks ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
@@ -68,7 +69,6 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (4 months ago)
 - [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (4 months ago)
 - [wareya/webtyler](https://github.com/wareya/webtyler) - Autotyler on HTML5 and JS (4 months ago)
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
