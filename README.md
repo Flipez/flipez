@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AnshuRajbhar](https://github.com/AnshuRajbhar)
 - [bblooming77-creator](https://github.com/bblooming77-creator)
 - [keystone32prd](https://github.com/keystone32prd)
 - [willis3979](https://github.com/willis3979)
 - [alexjalonso7777](https://github.com/alexjalonso7777)
-- [VoicesColeby](https://github.com/VoicesColeby)
 
 #### 💬 Feedback
 
