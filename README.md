@@ -4,7 +4,7 @@
 
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 month ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (3 months ago)
@@ -46,8 +46,8 @@
 - [fix(time): add iso 8601 without trailing Z](https://github.com/Flipez/go-uddf/pull/3) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 month ago)
 - [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 month ago)
 - [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 month ago)
-- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
-- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (1 month ago)
+- [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
+- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -59,8 +59,8 @@
 
 #### ⭐ Recent Stars
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
-- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (1 week ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 weeks ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (3 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 months ago)
