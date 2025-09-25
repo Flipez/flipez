@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;HTTP client&#39; to make API reusability simple. (1 day ago)
+- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (1 day ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 weeks ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
