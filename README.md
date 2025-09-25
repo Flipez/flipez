@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (today)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
 - [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
@@ -47,7 +48,6 @@
 - [chore(datetime): Support unmashal of datetime attributes](https://github.com/Flipez/go-uddf/pull/2) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 month ago)
 - [chore(datetime): Add support for year only and timestamp without seconds](https://github.com/Flipez/go-uddf/pull/1) on [Flipez/go-uddf](https://github.com/Flipez/go-uddf) (1 month ago)
 - [Add e2e tests](https://github.com/Flipez/mvg.observer/pull/64) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
-- [chore(app): make station list searchable and fix hydration issues](https://github.com/Flipez/mvg.observer/pull/63) on [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) (2 months ago)
 
 #### 📜 My recent blog posts
 
