@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (2 days ago)
+- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (3 days ago)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
 - [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (3 days ago)
+- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (4 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 weeks ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (1 month ago)
