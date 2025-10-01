@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (today)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
@@ -11,10 +12,10 @@
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (6 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (6 months ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (6 months ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) - 
 - [Flipez/nvim](https://github.com/Flipez/nvim) - 
@@ -24,7 +25,6 @@
 - [Flipez/stoerticker-dl](https://github.com/Flipez/stoerticker-dl) - Downloads and parses disruption messages from stoerticker.de
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands
 - [Flipez/mvg-analyser](https://github.com/Flipez/mvg-analyser) - Tool to export MVG Observatory data into ClickHouse and BigQuery
-- [Flipez/photos.auch.cool](https://github.com/Flipez/photos.auch.cool) - 
 
 
 #### 🔭 Latest releases I've contributed to
