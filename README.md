@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (1 day ago)
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (2 days ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
@@ -59,14 +59,14 @@
 
 #### ⭐ Recent Stars
 
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (4 days ago)
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (5 days ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (3 weeks ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (2 months ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (3 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (3 months ago)
-- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (3 months ago)
+- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (4 months ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (4 months ago)
 - [zibetnu/godot-git-describe](https://github.com/zibetnu/godot-git-describe) - Seamlessly display in-game versions based on your Git tags. (4 months ago)
 
