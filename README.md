@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [badlilma73-dev](https://github.com/badlilma73-dev)
 - [mubarek57](https://github.com/mubarek57)
 - [ajsb85](https://github.com/ajsb85)
 - [AnshuRajbhar](https://github.com/AnshuRajbhar)
 - [bblooming77-creator](https://github.com/bblooming77-creator)
-- [keystone32prd](https://github.com/keystone32prd)
 
 #### 💬 Feedback
 
