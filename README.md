@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (5 days ago)
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (today)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
