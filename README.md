@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (today)
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (3 days ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (3 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (6 months ago)
-- [Flipez/nvim](https://github.com/Flipez/nvim) -  (6 months ago)
 
 #### 🌱 My latest projects
 
