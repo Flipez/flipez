@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (today)
-- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (3 days ago)
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (1 day ago)
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (4 days ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (3 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (6 months ago)
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (2 weeks ago)
+- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (3 weeks ago)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
 - [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (1 month ago)
@@ -51,7 +51,7 @@
 
 #### 📜 My recent blog posts
 
-- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (11 months ago)
+- [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (1 year ago)
 - [Enten 🦆](https://auch.cool/enten/) (1 year ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (2 years ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
@@ -59,8 +59,8 @@
 
 #### ⭐ Recent Stars
 
-- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (6 days ago)
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (1 week ago)
+- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (1 week ago)
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (2 weeks ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (3 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (1 month ago)
