@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (1 day ago)
-- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (4 days ago)
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (2 days ago)
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (5 days ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (1 month ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (1 month ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
+- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (3 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 months ago)
@@ -62,7 +62,7 @@
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (1 week ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (2 weeks ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (3 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 weeks ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (1 month ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (2 months ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (3 months ago)
