@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (1 week ago)
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (2 weeks ago)
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (2 weeks ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (2 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (2 months ago)
