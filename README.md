@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 days ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 days ago)
 - [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (2 weeks ago)
-- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (2 weeks ago)
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (3 weeks ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (2 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (2 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (3 months ago)
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 days ago)
+- [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 days ago)
 - [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (1 month ago)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 months ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (2 months ago)
