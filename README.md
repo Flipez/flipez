@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 weeks ago)
-- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (4 weeks ago)
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (1 month ago)
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (1 month ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (2 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (2 months ago)
