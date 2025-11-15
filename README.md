@@ -9,7 +9,7 @@
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (2 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (3 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 months ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (4 months ago)
 - [Flipez/nvim](https://github.com/Flipez/nvim) -  (7 months ago)
 
@@ -55,7 +55,7 @@
 - [Enten 🦆](https://auch.cool/enten/) (2 years ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (2 years ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
-- [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (2 years ago)
+- [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (3 years ago)
 
 #### ⭐ Recent Stars
 
