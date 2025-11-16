@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (today)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (1 month ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (1 month ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (1 month ago)
@@ -68,7 +69,6 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (4 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (5 months ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (5 months ago)
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
