@@ -11,7 +11,7 @@
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (4 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (4 months ago)
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (7 months ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 3 months ago) - 
 - [mozilla-it/refractr](https://github.com/mozilla-it/refractr) ([v0.0.222](https://github.com/mozilla-it/refractr/releases/tag/v0.0.222), 3 months ago) - yaml -&gt; nginx for redirects and rewrites
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.22.1](https://github.com/Flipez/rocket-lang/releases/tag/v0.22.1), 8 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 10 months ago) - 
+- [Flipez/os](https://github.com/Flipez/os) ([v0.1.0](https://github.com/Flipez/os/releases/tag/v0.1.0), 11 months ago) - 
 - [mozilla/discourse.mozilla.org](https://github.com/mozilla/discourse.mozilla.org) ([v1.0.0](https://github.com/mozilla/discourse.mozilla.org/releases/tag/v1.0.0), 4 years ago) - Configuration for discourse.mozilla.org
 
 #### 🔨 My recent Pull Requests
@@ -59,14 +59,14 @@
 
 #### ⭐ Recent Stars
 
-- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (1 day ago)
+- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (2 days ago)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (1 month ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (1 month ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (1 month ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 months ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (3 months ago)
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (4 months ago)
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (5 months ago)
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (5 months ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (5 months ago)
 
