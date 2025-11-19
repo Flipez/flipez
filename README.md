@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (2 days ago)
+- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (3 days ago)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (1 month ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (1 month ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (1 month ago)
