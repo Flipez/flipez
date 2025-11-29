@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (4 weeks ago)
+- [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
 - [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (1 month ago)
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (1 month ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (3 months ago)
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 weeks ago)
+- [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
 - [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (2 months ago)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (3 months ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (3 months ago)
