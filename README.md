@@ -57,6 +57,8 @@
 
 #### ⭐ Recent Stars
 
+- [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (today)
+- [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (today)
 - [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (2 weeks ago)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (1 month ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (1 month ago)
@@ -65,8 +67,6 @@
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 months ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (3 months ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (5 months ago)
-- [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool. (5 months ago)
-- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
