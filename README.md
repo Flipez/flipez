@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (today)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (3 days ago)
 - [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (3 days ago)
 - [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (2 weeks ago)
@@ -66,7 +67,6 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (2 months ago)
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator (4 months ago)
-- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
