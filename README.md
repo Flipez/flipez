@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (1 month ago)
-- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (1 month ago)
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (2 months ago)
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (2 months ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (3 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (3 months ago)
@@ -58,9 +58,9 @@
 #### ⭐ Recent Stars
 
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (1 week ago)
-- [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (1 week ago)
-- [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (1 week ago)
-- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (3 weeks ago)
+- [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (2 weeks ago)
+- [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (2 weeks ago)
+- [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (4 weeks ago)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (2 months ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (2 months ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (2 months ago)
