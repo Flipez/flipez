@@ -7,7 +7,7 @@
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (2 months ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (4 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (4 months ago)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 months ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (5 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (5 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (6 months ago)
@@ -57,14 +57,14 @@
 
 #### ⭐ Recent Stars
 
-- [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (5 days ago)
+- [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (6 days ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (2 weeks ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (3 weeks ago)
 - [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (3 weeks ago)
 - [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (1 month ago)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (2 months ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (2 months ago)
-- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (2 months ago)
+- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (3 months ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 months ago)
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (3 months ago)
 
