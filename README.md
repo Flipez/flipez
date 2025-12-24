@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 - [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
-- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (2 months ago)
+- [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (3 months ago)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
 - [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
@@ -57,8 +57,8 @@
 
 #### ⭐ Recent Stars
 
-- [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (6 days ago)
-- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (2 weeks ago)
+- [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (1 week ago)
+- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (3 weeks ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (3 weeks ago)
 - [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (3 weeks ago)
 - [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (1 month ago)
