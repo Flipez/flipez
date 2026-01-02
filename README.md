@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (today)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (2 weeks ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (1 month ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (1 month ago)
@@ -66,7 +67,6 @@
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (3 months ago)
 - [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (3 months ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 months ago)
-- [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
