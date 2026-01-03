@@ -76,8 +76,8 @@
 - [re1Lucky365](https://github.com/re1Lucky365)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [charlespowell1973](https://github.com/charlespowell1973)
-- [seckinyasar](https://github.com/seckinyasar)
 - [mamat972](https://github.com/mamat972)
+- [cindymabe01-alt](https://github.com/cindymabe01-alt)
 
 #### 💬 Feedback
 
