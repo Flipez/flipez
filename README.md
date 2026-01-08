@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (5 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (3 weeks ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (1 month ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (1 month ago)
