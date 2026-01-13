@@ -4,7 +4,7 @@
 
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 weeks ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
-- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (2 months ago)
+- [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (3 months ago)
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (3 months ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (4 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (4 months ago)
