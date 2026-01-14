@@ -10,7 +10,7 @@
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (4 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (5 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (5 months ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (5 months ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (6 months ago)
 
 #### 🌱 My latest projects
@@ -58,7 +58,7 @@
 #### ⭐ Recent Stars
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
-- [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (3 weeks ago)
+- [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (4 weeks ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (1 month ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (1 month ago)
 - [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (1 month ago)
