@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 weeks ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
 - [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (3 months ago)
@@ -10,7 +11,6 @@
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (5 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (5 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 months ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (6 months ago)
 - [Flipez/the-spezi-project](https://github.com/Flipez/the-spezi-project) - A completely subjective test of different Spezi and Cola brands (6 months ago)
 
 #### 🌱 My latest projects
@@ -36,6 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(puts): improve behavior of puts](https://github.com/Flipez/rocket-lang/pull/225) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(array): fix go panic on .pop() on empty array](https://github.com/Flipez/rocket-lang/pull/224) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(docs):update docusaurus](https://github.com/Flipez/rocket-lang/pull/223) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(matrix) add matrix object](https://github.com/Flipez/rocket-lang/pull/222) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Use firewalls](https://github.com/Flipez/hcloud-kv/pull/5) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (2 weeks ago)
 - [update modules](https://github.com/Flipez/hcloud-kv/pull/4) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (3 weeks ago)
@@ -43,9 +46,6 @@
 - [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (3 months ago)
 - [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
 - [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
-- [add remaining &gt;3 parser models](https://github.com/Flipez/ruby-uddf/pull/3) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
-- [add support for 3.2.2 in parser](https://github.com/Flipez/ruby-uddf/pull/2) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
-- [fix tags and add support for v3.3.0 and v3.3.1](https://github.com/Flipez/ruby-uddf/pull/1) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
 
 #### 📜 My recent blog posts
 
