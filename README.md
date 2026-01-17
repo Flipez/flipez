@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
+- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (today)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (2 weeks ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (2 months ago)
 - [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (3 months ago)
@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(release): create RELEASE.md](https://github.com/Flipez/rocket-lang/pull/230) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(int/string): prevent int downcast](https://github.com/Flipez/rocket-lang/pull/229) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(deps): update dependencies](https://github.com/Flipez/rocket-lang/pull/228) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(assign): add ability to unpack variables on assignment](https://github.com/Flipez/rocket-lang/pull/227) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -45,7 +46,6 @@
 - [feat(docs):update docusaurus](https://github.com/Flipez/rocket-lang/pull/223) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(matrix) add matrix object](https://github.com/Flipez/rocket-lang/pull/222) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Use firewalls](https://github.com/Flipez/hcloud-kv/pull/5) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (2 weeks ago)
-- [update modules](https://github.com/Flipez/hcloud-kv/pull/4) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
