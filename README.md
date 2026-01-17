@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(assign): add abaility to unpack variables](https://github.com/Flipez/rocket-lang/pull/227) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(control_flow): make parentheses optional](https://github.com/Flipez/rocket-lang/pull/226) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(puts): improve behavior of puts](https://github.com/Flipez/rocket-lang/pull/225) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(array): fix go panic on .pop() on empty array](https://github.com/Flipez/rocket-lang/pull/224) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(docs):update docusaurus](https://github.com/Flipez/rocket-lang/pull/223) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -44,8 +46,6 @@
 - [update modules](https://github.com/Flipez/hcloud-kv/pull/4) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (3 weeks ago)
 - [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 months ago)
 - [feat(cis): Only whitelist LDAP for CIS profile creation](https://github.com/mozilla-iam/auth0-deploy/pull/511) on [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) (3 months ago)
-- [deduplicate more classes](https://github.com/Flipez/ruby-uddf/pull/5) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
-- [move duplicate classes into base #1](https://github.com/Flipez/ruby-uddf/pull/4) on [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) (4 months ago)
 
 #### 📜 My recent blog posts
 
