@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(int/string): prevent int downcast](https://github.com/Flipez/rocket-lang/pull/229) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(deps): update dependencies](https://github.com/Flipez/rocket-lang/pull/228) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(assign): add ability to unpack variables on assignment](https://github.com/Flipez/rocket-lang/pull/227) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(control_flow): make parentheses optional](https://github.com/Flipez/rocket-lang/pull/226) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -45,7 +46,6 @@
 - [feat(matrix) add matrix object](https://github.com/Flipez/rocket-lang/pull/222) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [Use firewalls](https://github.com/Flipez/hcloud-kv/pull/5) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (2 weeks ago)
 - [update modules](https://github.com/Flipez/hcloud-kv/pull/4) on [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) (3 weeks ago)
-- [lock providers for new platforms](https://github.com/mozilla-iam/iam-infra/pull/337) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (2 months ago)
 
 #### 📜 My recent blog posts
 
