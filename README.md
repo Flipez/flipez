@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (2 weeks ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
@@ -57,9 +57,9 @@
 
 #### ⭐ Recent Stars
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (4 weeks ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 month ago)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (1 month ago)
-- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (1 month ago)
+- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (2 months ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (2 months ago)
 - [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (2 months ago)
 - [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (2 months ago)
