@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (1 week ago)
+- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (2 weeks ago)
 - [feat(release): create RELEASE.md](https://github.com/Flipez/rocket-lang/pull/230) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [fix(int/string): prevent int downcast](https://github.com/Flipez/rocket-lang/pull/229) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [fix(deps): update dependencies](https://github.com/Flipez/rocket-lang/pull/228) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
