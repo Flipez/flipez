@@ -2,6 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (today)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (today)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
@@ -10,8 +12,6 @@
 - [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (3 months ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (5 months ago)
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) -  (5 months ago)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (6 months ago)
-- [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (today)
+- [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (today)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 days ago)
 - [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (2 weeks ago)
 - [feat(release): create RELEASE.md](https://github.com/Flipez/rocket-lang/pull/230) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
@@ -44,8 +46,6 @@
 - [feat(assign): add ability to unpack variables on assignment](https://github.com/Flipez/rocket-lang/pull/227) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [feat(control_flow): make parentheses optional](https://github.com/Flipez/rocket-lang/pull/226) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [feat(puts): improve behavior of puts](https://github.com/Flipez/rocket-lang/pull/225) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [fix(array): fix go panic on .pop() on empty array](https://github.com/Flipez/rocket-lang/pull/224) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
-- [feat(docs):update docusaurus](https://github.com/Flipez/rocket-lang/pull/223) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
