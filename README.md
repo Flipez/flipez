@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (today)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (today)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (today)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 day ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 day ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (1 day ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
 - [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 weeks ago)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me (1 month ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (3 months ago)
 - [mozilla-iam/auth0-deploy](https://github.com/mozilla-iam/auth0-deploy) - Rules and hosted pages (lock) used for the Auth0 instances of Mozilla. (3 months ago)
-- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (3 months ago)
+- [Flipez/data-fun](https://github.com/Flipez/data-fun) - exploring data stuff (4 months ago)
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files. (5 months ago)
 
 #### 🌱 My latest projects
@@ -36,10 +36,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (today)
-- [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (today)
-- [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (4 days ago)
-- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (2 weeks ago)
+- [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (1 day ago)
+- [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (1 day ago)
+- [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (5 days ago)
+- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (3 weeks ago)
 - [feat(release): create RELEASE.md](https://github.com/Flipez/rocket-lang/pull/230) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [fix(int/string): prevent int downcast](https://github.com/Flipez/rocket-lang/pull/229) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
 - [fix(deps): update dependencies](https://github.com/Flipez/rocket-lang/pull/228) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 weeks ago)
