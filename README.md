@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [digitalby](https://github.com/digitalby)
 - [roberthuge2](https://github.com/roberthuge2)
 - [re1Lucky365](https://github.com/re1Lucky365)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [charlespowell1973](https://github.com/charlespowell1973)
-- [mamat972](https://github.com/mamat972)
 
 #### 💬 Feedback
 
