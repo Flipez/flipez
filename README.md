@@ -31,7 +31,7 @@
 
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 1 month ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 1 month ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 5 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 6 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
