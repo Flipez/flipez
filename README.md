@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.1.0](https://github.com/Flipez/subtonic/releases/tag/v0.1.0), today) - Terminal UI music player for Subsonic-compatible music servers.
+- [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.2.0](https://github.com/Flipez/subtonic/releases/tag/v0.2.0), today) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 6 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor things](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (today)
+- [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (today)
 - [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (1 month ago)
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (1 month ago)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
