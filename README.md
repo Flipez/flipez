@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor things](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (today)
 - [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (1 month ago)
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (1 month ago)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
@@ -46,7 +47,6 @@
 - [fix(deps): update dependencies](https://github.com/Flipez/rocket-lang/pull/228) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [feat(assign): add ability to unpack variables on assignment](https://github.com/Flipez/rocket-lang/pull/227) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [feat(control_flow): make parentheses optional](https://github.com/Flipez/rocket-lang/pull/226) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
-- [feat(puts): improve behavior of puts](https://github.com/Flipez/rocket-lang/pull/225) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 
 #### 📜 My recent blog posts
 
