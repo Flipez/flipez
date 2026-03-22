@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (today)
+- [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (1 day ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (1 month ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 month ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (1 month ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.2.0](https://github.com/Flipez/subtonic/releases/tag/v0.2.0), today) - Terminal UI music player for Subsonic-compatible music servers.
+- [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.2.0](https://github.com/Flipez/subtonic/releases/tag/v0.2.0), 1 day ago) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 2 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 2 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 6 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 7 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (today)
+- [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 day ago)
 - [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (1 month ago)
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (1 month ago)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (1 month ago)
@@ -53,7 +53,7 @@
 - [Clickhouse: Import compressed JSON fast](https://auch.cool/posts/2024/zstd-json-clickhouse-import/) (1 year ago)
 - [Enten 🦆](https://auch.cool/enten/) (2 years ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (2 years ago)
-- [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (2 years ago)
+- [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (3 years ago)
 - [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (3 years ago)
 
 #### ⭐ Recent Stars
