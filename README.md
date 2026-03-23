@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (today)
 - [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 day ago)
 - [add artist and album info](https://github.com/Flipez/subtonic/pull/2) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 day ago)
 - [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 days ago)
@@ -46,7 +47,6 @@
 - [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (2 months ago)
 - [feat(release): create RELEASE.md](https://github.com/Flipez/rocket-lang/pull/230) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 - [fix(int/string): prevent int downcast](https://github.com/Flipez/rocket-lang/pull/229) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
-- [fix(deps): update dependencies](https://github.com/Flipez/rocket-lang/pull/228) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 
 #### 📜 My recent blog posts
 
