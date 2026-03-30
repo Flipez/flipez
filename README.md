@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (1 day ago)
+- [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (today)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (1 week ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (1 month ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (1 month ago)
