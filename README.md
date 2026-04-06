@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (today)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 week ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 months ago)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (3 months ago)
@@ -68,7 +69,6 @@
 - [Tonkabohne/mampfmampf](https://github.com/Tonkabohne/mampfmampf) -  (4 months ago)
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API (5 months ago)
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public. (6 months ago)
-- [DeprecatedLuar/better-curl-saul](https://github.com/DeprecatedLuar/better-curl-saul) - Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI &#39;http client&#39; to make api reusability simple. (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
