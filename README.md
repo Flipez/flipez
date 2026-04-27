@@ -4,7 +4,7 @@
 
 - [Flipez/infra](https://github.com/Flipez/infra) -  (1 week ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 week ago)
-- [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (3 weeks ago)
+- [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (4 weeks ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (1 month ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (2 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (2 months ago)
@@ -32,7 +32,7 @@
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) ([v0.2.1](https://github.com/Flipez/hcloud-fs/releases/tag/v0.2.1), 4 weeks ago) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.3.0](https://github.com/Flipez/subtonic/releases/tag/v0.3.0), 1 month ago) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 3 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 3 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 4 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 8 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 8 months ago) - 
 
@@ -59,9 +59,9 @@
 
 #### ⭐ Recent Stars
 
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 days ago)
-- [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (1 week ago)
-- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (2 weeks ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (6 days ago)
+- [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (2 weeks ago)
+- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (3 weeks ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (4 weeks ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 months ago)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (4 months ago)
@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [ipqwery](https://github.com/ipqwery)
 - [digitalby](https://github.com/digitalby)
 - [roberthuge2](https://github.com/roberthuge2)
 - [re1Lucky365](https://github.com/re1Lucky365)
-- [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 
 #### 💬 Feedback
 
