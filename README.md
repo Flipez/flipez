@@ -75,11 +75,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AreasH](https://github.com/AreasH)
 - [ipqwery](https://github.com/ipqwery)
 - [digitalby](https://github.com/digitalby)
 - [roberthuge2](https://github.com/roberthuge2)
 - [re1Lucky365](https://github.com/re1Lucky365)
-- [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 
 #### 💬 Feedback
 
