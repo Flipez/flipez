@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/crispy-sbahn](https://github.com/Flipez/crispy-sbahn) - CRISP-DM Vorlesungsbeispiel – FOM Digitales Live-Studium SS26 (1 day ago)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (2 weeks ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (3 weeks ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (1 month ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (1 month ago)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (2 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (2 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (2 months ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (2 months ago)
 - [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) -  (3 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 months ago)
-- [Flipez/homebrew-tap](https://github.com/Flipez/homebrew-tap) -  (3 months ago)
 
 #### 🌱 My latest projects
 
+- [Flipez/crispy-sbahn](https://github.com/Flipez/crispy-sbahn) - CRISP-DM Vorlesungsbeispiel – FOM Digitales Live-Studium SS26
 - [Flipez/infra](https://github.com/Flipez/infra) - 
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers.
@@ -24,7 +25,6 @@
 - [Flipez/nvim](https://github.com/Flipez/nvim) - 
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) - 
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory
 
 
 #### 🔭 Latest releases I've contributed to
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(features): add sbahn messages as disruption features](https://github.com/Flipez/crispy-sbahn/pull/1) on [Flipez/crispy-sbahn](https://github.com/Flipez/crispy-sbahn) (1 day ago)
 - [code cleanup](https://github.com/Flipez/hcloud-fs/pull/1) on [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) (1 month ago)
 - [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
 - [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
@@ -47,7 +48,6 @@
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (2 months ago)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 months ago)
 - [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (3 months ago)
-- [feat(release): create RELEASE.md](https://github.com/Flipez/rocket-lang/pull/230) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 months ago)
 
 #### 📜 My recent blog posts
 
