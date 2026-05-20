@@ -42,7 +42,7 @@
 - [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
 - [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
 - [add artist and album info](https://github.com/Flipez/subtonic/pull/2) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
-- [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
+- [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
 - [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (3 months ago)
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (3 months ago)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (3 months ago)
