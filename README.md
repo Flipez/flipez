@@ -39,7 +39,7 @@
 #### 🔨 My recent Pull Requests
 
 - [code cleanup](https://github.com/Flipez/hcloud-fs/pull/1) on [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) (1 month ago)
-- [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (1 month ago)
+- [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
 - [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
 - [add artist and album info](https://github.com/Flipez/subtonic/pull/2) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
 - [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
