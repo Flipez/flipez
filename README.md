@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/infra](https://github.com/Flipez/infra) -  (4 days ago)
+- [Flipez/infra](https://github.com/Flipez/infra) -  (5 days ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (1 month ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (2 months ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (2 months ago)
