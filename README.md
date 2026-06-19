@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (today)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (1 week ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (2 months ago)
@@ -68,7 +69,6 @@
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (6 months ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (6 months ago)
 - [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (6 months ago)
-- [game-ci/steam-deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
