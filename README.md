@@ -5,7 +5,7 @@
 - [Flipez/infra](https://github.com/Flipez/infra) -  (1 week ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (2 months ago)
-- [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (2 months ago)
+- [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (3 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (4 months ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (4 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (4 months ago)
@@ -30,18 +30,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) ([v0.2.1](https://github.com/Flipez/hcloud-fs/releases/tag/v0.2.1), 2 months ago) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
-- [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.3.0](https://github.com/Flipez/subtonic/releases/tag/v0.3.0), 2 months ago) - Terminal UI music player for Subsonic-compatible music servers.
+- [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.3.0](https://github.com/Flipez/subtonic/releases/tag/v0.3.0), 3 months ago) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 5 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
-- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 9 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
+- [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 10 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
 - [code cleanup](https://github.com/Flipez/hcloud-fs/pull/1) on [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) (2 months ago)
 - [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
-- [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
-- [add artist and album info](https://github.com/Flipez/subtonic/pull/2) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (2 months ago)
+- [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (3 months ago)
+- [add artist and album info](https://github.com/Flipez/subtonic/pull/2) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (3 months ago)
 - [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (3 months ago)
 - [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (4 months ago)
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (4 months ago)
@@ -59,9 +59,9 @@
 
 #### ⭐ Recent Stars
 
-- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (today)
-- [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (1 week ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
+- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (1 day ago)
+- [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (2 weeks ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 - [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (2 months ago)
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (2 months ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (2 months ago)
