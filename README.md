@@ -32,7 +32,7 @@
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) ([v0.2.1](https://github.com/Flipez/hcloud-fs/releases/tag/v0.2.1), 2 months ago) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.3.0](https://github.com/Flipez/subtonic/releases/tag/v0.3.0), 3 months ago) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 5 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 5 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 6 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 - [Flipez/ruby-uddf](https://github.com/Flipez/ruby-uddf) ([v0.4.1](https://github.com/Flipez/ruby-uddf/releases/tag/v0.4.1), 10 months ago) - A Ruby library for parsing and writing UDDF (Universal Dive Data Format) files.
 - [Flipez/go-uddf](https://github.com/Flipez/go-uddf) ([v1.3.0](https://github.com/Flipez/go-uddf/releases/tag/v1.3.0), 10 months ago) - 
 
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (6 days ago)
+- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (1 week ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (2 weeks ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 - [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (2 months ago)
