@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (1 week ago)
+- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (2 weeks ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (3 weeks ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
 - [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (2 months ago)
