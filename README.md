@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (1 month ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (2 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (3 months ago)
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(docs): Update to docusaurus 3.10](https://github.com/Flipez/rocket-lang/pull/260) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(docs): Update to docusaurus 3.10](https://github.com/Flipez/rocket-lang/pull/260) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [code cleanup](https://github.com/Flipez/hcloud-fs/pull/1) on [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) (3 months ago)
 - [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (3 months ago)
 - [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (3 months ago)
@@ -62,7 +62,7 @@
 - [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (3 weeks ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 months ago)
-- [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (2 months ago)
+- [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (3 months ago)
 - [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (3 months ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (3 months ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 months ago)
