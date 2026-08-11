@@ -62,7 +62,7 @@
 - [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (1 month ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (2 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (3 months ago)
-- [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (3 months ago)
+- [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (4 months ago)
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (4 months ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (4 months ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump (7 months ago)
