@@ -11,7 +11,7 @@
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (6 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (6 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (6 months ago)
-- [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) -  (6 months ago)
+- [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@
 - [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (6 months ago)
 - [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (6 months ago)
 - [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
-- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (6 months ago)
+- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (7 months ago)
 
 #### 📜 My recent blog posts
 
