@@ -32,7 +32,7 @@
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) ([v0.2.1](https://github.com/Flipez/hcloud-fs/releases/tag/v0.2.1), 4 months ago) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.3.0](https://github.com/Flipez/subtonic/releases/tag/v0.3.0), 5 months ago) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 7 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
-- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 7 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
+- [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 8 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
 
 #### 🔨 My recent Pull Requests
 
