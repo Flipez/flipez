@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (5 months ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (5 months ago)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (6 months ago)
-- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (6 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (6 months ago)
+- [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (6 months ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (6 months ago)
 - [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) - This repo contains the resources and configuration needed to create the Mozilla IAM infrastructure (6 months ago)
 - [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) -  (7 months ago)
 
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(docs): Update to docusaurus 3.10](https://github.com/Flipez/rocket-lang/pull/260) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [code cleanup](https://github.com/Flipez/hcloud-fs/pull/1) on [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) (5 months ago)
-- [refactor discover](https://github.com/Flipez/subtonic/pull/4) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (5 months ago)
-- [split model into more subfiles](https://github.com/Flipez/subtonic/pull/3) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (5 months ago)
-- [add artist and album info](https://github.com/Flipez/subtonic/pull/2) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (5 months ago)
-- [Improve UI of the player](https://github.com/Flipez/subtonic/pull/1) on [Flipez/subtonic](https://github.com/Flipez/subtonic) (5 months ago)
-- [Improvements](https://github.com/Flipez/mvg-scraper/pull/3) on [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) (6 months ago)
-- [clean up old sql; add sbahn scraper](https://github.com/Flipez/mvg-observatory/pull/1) on [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) (6 months ago)
-- [fix some version errors and pin versions](https://github.com/mozilla-iam/iam-infra/pull/342) on [mozilla-iam/iam-infra](https://github.com/mozilla-iam/iam-infra) (6 months ago)
-- [Add support for MVG (Munich Public Transport)](https://github.com/tjhorner/transit-tracker-api/pull/8) on [tjhorner/transit-tracker-api](https://github.com/tjhorner/transit-tracker-api) (7 months ago)
+- [feat(number): numeric methods, and integer division yields an integer](https://github.com/Flipez/rocket-lang/pull/287) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [docs: operators, precedence, scoping, escapes and hash keys](https://github.com/Flipez/rocket-lang/pull/286) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(object): to_i and to_f return nil on a failed conversion](https://github.com/Flipez/rocket-lang/pull/285) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(import): anchor relative imports on cwd when there is no source file](https://github.com/Flipez/rocket-lang/pull/284) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(utilities): ROCKETLANGPATH adds search paths instead of replacing cwd](https://github.com/Flipez/rocket-lang/pull/283) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(string): correct base inference in to_i()](https://github.com/Flipez/rocket-lang/pull/282) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [docs(module): document where an import may appear](https://github.com/Flipez/rocket-lang/pull/281) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(parser): report unterminated blocks instead of swallowing the file](https://github.com/Flipez/rocket-lang/pull/280) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(import): make import a statement rather than an expression](https://github.com/Flipez/rocket-lang/pull/279) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(module): redesign the module system](https://github.com/Flipez/rocket-lang/pull/278) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 
 #### 📜 My recent blog posts
 
