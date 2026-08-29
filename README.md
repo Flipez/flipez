@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: multi-file programs with imports, in the playground](https://github.com/Flipez/rocket-lang/pull/304) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat: exercises, multi-file imports, and a playground refresh](https://github.com/Flipez/rocket-lang/pull/303) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(evaluator): call a callable stored in a hash as a method](https://github.com/Flipez/rocket-lang/pull/302) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(object): add the methods the function applier unlocked](https://github.com/Flipez/rocket-lang/pull/301) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(object): let a method call a user function, and add Array#each](https://github.com/Flipez/rocket-lang/pull/300) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(object): add is_a? and type_groups](https://github.com/Flipez/rocket-lang/pull/299) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat: type groups for arguments and elements, with a docs page (#296)](https://github.com/Flipez/rocket-lang/pull/298) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(object): make wat() print its listing instead of returning it](https://github.com/Flipez/rocket-lang/pull/297) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(docs): show which arguments are optional and which are variadic](https://github.com/Flipez/rocket-lang/pull/295) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(object): consistent ! convention, and fill in String&#39;s Ruby methods (#231)](https://github.com/Flipez/rocket-lang/pull/294) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [docs: refresh the landing page, and fix the examples it pointed at](https://github.com/Flipez/rocket-lang/pull/293) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [fix(function): check the arity of a user-defined function call](https://github.com/Flipez/rocket-lang/pull/292) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [feat(planet): planets, a package system for RocketLang](https://github.com/Flipez/rocket-lang/pull/290) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [feat(control-flow): loops evaluate to nil](https://github.com/Flipez/rocket-lang/pull/289) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [fix(string): ascii always returns an array](https://github.com/Flipez/rocket-lang/pull/288) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat(number): numeric methods, and integer division yields an integer](https://github.com/Flipez/rocket-lang/pull/287) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 
 #### 📜 My recent blog posts
 
