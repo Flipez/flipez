@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (today)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (5 months ago)
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: type groups for arguments and elements, with a docs page (#296)](https://github.com/Flipez/rocket-lang/pull/298) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(object): make wat() print its listing instead of returning it](https://github.com/Flipez/rocket-lang/pull/297) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(docs): show which arguments are optional and which are variadic](https://github.com/Flipez/rocket-lang/pull/295) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [feat(object): consistent ! convention, and fill in String&#39;s Ruby methods (#231)](https://github.com/Flipez/rocket-lang/pull/294) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [docs: refresh the landing page, and fix the examples it pointed at](https://github.com/Flipez/rocket-lang/pull/293) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(function): check the arity of a user-defined function call](https://github.com/Flipez/rocket-lang/pull/292) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(planet): planets, a package system for RocketLang](https://github.com/Flipez/rocket-lang/pull/290) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(control-flow): loops evaluate to nil](https://github.com/Flipez/rocket-lang/pull/289) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [fix(string): ascii always returns an array](https://github.com/Flipez/rocket-lang/pull/288) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [feat(number): numeric methods, and integer division yields an integer](https://github.com/Flipez/rocket-lang/pull/287) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [docs: operators, precedence, scoping, escapes and hash keys](https://github.com/Flipez/rocket-lang/pull/286) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat(object): to_i and to_f return nil on a failed conversion](https://github.com/Flipez/rocket-lang/pull/285) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [fix(import): anchor relative imports on cwd when there is no source file](https://github.com/Flipez/rocket-lang/pull/284) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [fix(utilities): ROCKETLANGPATH adds search paths instead of replacing cwd](https://github.com/Flipez/rocket-lang/pull/283) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [fix(string): correct base inference in to_i()](https://github.com/Flipez/rocket-lang/pull/282) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [docs(module): document where an import may appear](https://github.com/Flipez/rocket-lang/pull/281) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 
 #### 📜 My recent blog posts
 
