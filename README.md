@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix(playground): the Share handler, plus 27 more exercises](https://github.com/Flipez/rocket-lang/pull/305) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat: multi-file programs with imports, in the playground](https://github.com/Flipez/rocket-lang/pull/304) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat: exercises, multi-file imports, and a playground refresh](https://github.com/Flipez/rocket-lang/pull/303) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(evaluator): call a callable stored in a hash as a method](https://github.com/Flipez/rocket-lang/pull/302) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(object): add the methods the function applier unlocked](https://github.com/Flipez/rocket-lang/pull/301) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(object): let a method call a user function, and add Array#each](https://github.com/Flipez/rocket-lang/pull/300) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat(object): add is_a? and type_groups](https://github.com/Flipez/rocket-lang/pull/299) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [feat: type groups for arguments and elements, with a docs page (#296)](https://github.com/Flipez/rocket-lang/pull/298) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [fix(object): make wat() print its listing instead of returning it](https://github.com/Flipez/rocket-lang/pull/297) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [fix(docs): show which arguments are optional and which are variadic](https://github.com/Flipez/rocket-lang/pull/295) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [feat(object): consistent ! convention, and fill in String&#39;s Ruby methods (#231)](https://github.com/Flipez/rocket-lang/pull/294) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 
 #### 📜 My recent blog posts
 
