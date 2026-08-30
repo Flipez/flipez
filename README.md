@@ -36,6 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix: finish removing curly-brace blocks](https://github.com/Flipez/rocket-lang/pull/312) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(docs): re-land the broken-link fix lost in #308&#39;s merge](https://github.com/Flipez/rocket-lang/pull/311) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix: let a line break end a statement, and report where a token starts](https://github.com/Flipez/rocket-lang/pull/310) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix: spell &#34;too few&#34;/&#34;too many&#34; in arity errors](https://github.com/Flipez/rocket-lang/pull/309) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
@@ -43,9 +46,6 @@
 - [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [fix(playground): the Share handler, plus 27 more exercises](https://github.com/Flipez/rocket-lang/pull/305) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat: multi-file programs with imports, in the playground](https://github.com/Flipez/rocket-lang/pull/304) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat: exercises, multi-file imports, and a playground refresh](https://github.com/Flipez/rocket-lang/pull/303) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat(evaluator): call a callable stored in a hash as a method](https://github.com/Flipez/rocket-lang/pull/302) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 
 #### 📜 My recent blog posts
 
