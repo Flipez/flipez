@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (today)
 - [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (1 day ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 day ago)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (5 months ago)
@@ -36,6 +36,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(docs): re-land the broken-link fix lost in #308&#39;s merge](https://github.com/Flipez/rocket-lang/pull/311) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix: let a line break end a statement, and report where a token starts](https://github.com/Flipez/rocket-lang/pull/310) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
+- [fix: spell &#34;too few&#34;/&#34;too many&#34; in arity errors](https://github.com/Flipez/rocket-lang/pull/309) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
@@ -43,9 +46,6 @@
 - [feat: multi-file programs with imports, in the playground](https://github.com/Flipez/rocket-lang/pull/304) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [feat: exercises, multi-file imports, and a playground refresh](https://github.com/Flipez/rocket-lang/pull/303) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [feat(evaluator): call a callable stored in a hash as a method](https://github.com/Flipez/rocket-lang/pull/302) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat(object): add the methods the function applier unlocked](https://github.com/Flipez/rocket-lang/pull/301) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat(object): let a method call a user function, and add Array#each](https://github.com/Flipez/rocket-lang/pull/300) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
-- [feat(object): add is_a? and type_groups](https://github.com/Flipez/rocket-lang/pull/299) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 
 #### 📜 My recent blog posts
 
