@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
 - [fix: finish removing curly-brace blocks](https://github.com/Flipez/rocket-lang/pull/312) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
@@ -45,7 +46,6 @@
 - [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [fix(playground): the Share handler, plus 27 more exercises](https://github.com/Flipez/rocket-lang/pull/305) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 
 #### 📜 My recent blog posts
 
