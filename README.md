@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (1 day ago)
-- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 days ago)
-- [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (3 days ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (2 days ago)
+- [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 days ago)
+- [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (4 days ago)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (5 months ago)
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
-- [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [fix: finish removing curly-brace blocks](https://github.com/Flipez/rocket-lang/pull/312) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [fix(docs): re-land the broken-link fix lost in #308&#39;s merge](https://github.com/Flipez/rocket-lang/pull/311) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [fix: let a line break end a statement, and report where a token starts](https://github.com/Flipez/rocket-lang/pull/310) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [fix: spell &#34;too few&#34;/&#34;too many&#34; in arity errors](https://github.com/Flipez/rocket-lang/pull/309) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 days ago)
-- [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
-- [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
+- [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [fix: finish removing curly-brace blocks](https://github.com/Flipez/rocket-lang/pull/312) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [fix(docs): re-land the broken-link fix lost in #308&#39;s merge](https://github.com/Flipez/rocket-lang/pull/311) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [fix: let a line break end a statement, and report where a token starts](https://github.com/Flipez/rocket-lang/pull/310) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [fix: spell &#34;too few&#34;/&#34;too many&#34; in arity errors](https://github.com/Flipez/rocket-lang/pull/309) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
+- [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
+- [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 
 #### 📜 My recent blog posts
 
