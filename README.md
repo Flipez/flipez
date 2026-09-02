@@ -36,6 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (today)
 - [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 day ago)
 - [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
@@ -45,7 +46,6 @@
 - [fix: spell &#34;too few&#34;/&#34;too many&#34; in arity errors](https://github.com/Flipez/rocket-lang/pull/309) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (3 days ago)
 - [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 - [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
-- [fix: report failure with a non-zero exit code](https://github.com/Flipez/rocket-lang/pull/306) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
 
 #### 📜 My recent blog posts
 
