@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (6 days ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (1 week ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 week ago)
 - [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (1 week ago)
-- [Flipez/infra](https://github.com/Flipez/infra) -  (2 months ago)
+- [Flipez/infra](https://github.com/Flipez/infra) -  (3 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (4 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (5 months ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (5 months ago)
@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (4 days ago)
-- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
+- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
+- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
 - [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [fix: finish removing curly-brace blocks](https://github.com/Flipez/rocket-lang/pull/312) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
