@@ -36,8 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (5 days ago)
-- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (6 days ago)
+- [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
 - [fix: finish removing curly-brace blocks](https://github.com/Flipez/rocket-lang/pull/312) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
