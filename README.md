@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 week ago)
+- [feat!: # comments, for, and scripts stop printing their final value (step 2)](https://github.com/Flipez/rocket-lang/pull/316) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [feat!: rename the standard library for v1.0 (step 1 of the redesign)](https://github.com/Flipez/rocket-lang/pull/315) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [test(stdlib): cover OS.exit and OS.raise](https://github.com/Flipez/rocket-lang/pull/314) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
 - [test(repl): make the REPL testable, and stop a typo ending the session](https://github.com/Flipez/rocket-lang/pull/313) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 weeks ago)
