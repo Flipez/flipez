@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (2 weeks ago)
+- [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (3 weeks ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (3 weeks ago)
 - [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (3 weeks ago)
 - [Flipez/infra](https://github.com/Flipez/infra) -  (3 months ago)
