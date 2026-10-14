@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [0vm](https://github.com/0vm)
 - [AreasH](https://github.com/AreasH)
 - [ipqwery](https://github.com/ipqwery)
 - [digitalby](https://github.com/digitalby)
 - [roberthuge2](https://github.com/roberthuge2)
-- [re1Lucky365](https://github.com/re1Lucky365)
 
 #### 💬 Feedback
 
