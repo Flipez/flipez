@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) ([v0.2.1](https://github.com/Flipez/hcloud-fs/releases/tag/v0.2.1), 6 months ago) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
+- [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) ([v0.2.1](https://github.com/Flipez/hcloud-fs/releases/tag/v0.2.1), 7 months ago) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree.
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) ([v0.3.0](https://github.com/Flipez/subtonic/releases/tag/v0.3.0), 7 months ago) - Terminal UI music player for Subsonic-compatible music servers.
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) ([v0.23.0](https://github.com/Flipez/rocket-lang/releases/tag/v0.23.0), 9 months ago) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters)
 - [Flipez/hcloud-kv](https://github.com/Flipez/hcloud-kv) ([v2.0.0](https://github.com/Flipez/hcloud-kv/releases/tag/v2.0.0), 10 months ago) - Simple, free key/value store based on hetzner-cloud. plz don&#39;t sue me
@@ -62,7 +62,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (6 months ago)
 - [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (6 months ago)
 - [liketrek/TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. (6 months ago)
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (6 months ago)
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (7 months ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI &#43; TUI.  (9 months ago)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (10 months ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (10 months ago)
