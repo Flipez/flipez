@@ -5,7 +5,7 @@
 - [Flipez/infra](https://github.com/Flipez/infra) -  (1 month ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (1 month ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (1 month ago)
-- [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (1 month ago)
+- [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (2 months ago)
 - [Flipez/blog.auch.cool](https://github.com/Flipez/blog.auch.cool) - personal webpage (6 months ago)
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (7 months ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (7 months ago)
@@ -44,8 +44,8 @@
 - [fix(docs): re-land the broken-link fix lost in #308&#39;s merge](https://github.com/Flipez/rocket-lang/pull/311) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [fix: let a line break end a statement, and report where a token starts](https://github.com/Flipez/rocket-lang/pull/310) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
 - [fix: spell &#34;too few&#34;/&#34;too many&#34; in arity errors](https://github.com/Flipez/rocket-lang/pull/309) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
-- [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (1 month ago)
+- [fix(docs): repair the homepage and HTTP examples, and make broken links fatal](https://github.com/Flipez/rocket-lang/pull/308) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
+- [fix: count characters, not bytes, in strings outside ASCII](https://github.com/Flipez/rocket-lang/pull/307) on [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) (2 months ago)
 
 #### 📜 My recent blog posts
 
