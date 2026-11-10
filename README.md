@@ -53,7 +53,7 @@
 - [Enten 🦆](https://auch.cool/enten/) (2 years ago)
 - [Fly with Sensible Photo Equipment](https://auch.cool/posts/2024/sensible-equipment/) (2 years ago)
 - [TIL: &#39;dot_clean&#39; in macOS](https://auch.cool/posts/2023/til-dot-clean/) (3 years ago)
-- [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (3 years ago)
+- [Advent of Code - RocketLang Edition](https://auch.cool/posts/2022/aoc-day-1/) (4 years ago)
 
 #### ⭐ Recent Stars
 
