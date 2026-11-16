@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Flipez/infra](https://github.com/Flipez/infra) -  (5 days ago)
+- [Flipez/infra](https://github.com/Flipez/infra) -  (6 days ago)
 - [Flipez/dotfiles](https://github.com/Flipez/dotfiles) -  (2 months ago)
 - [Flipez/rocket-lang](https://github.com/Flipez/rocket-lang) - Home of 🚀🇱🅰🆖 (or RocketLang, if you are more into letters) (2 months ago)
 - [Flipez/rocket-lang-core](https://github.com/Flipez/rocket-lang-core) - Core utils for rocket-lang and example rocket-lang planet implementation (2 months ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (4 months ago)
+- [weppos/uddf-specs](https://github.com/weppos/uddf-specs) -  (5 months ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (5 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (6 months ago)
 - [mediux-team/AURA](https://github.com/mediux-team/AURA) - A tool to use MediUX poster images for Media Server content (7 months ago)
