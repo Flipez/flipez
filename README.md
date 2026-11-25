@@ -10,8 +10,8 @@
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (8 months ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (8 months ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (9 months ago)
-- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (9 months ago)
 - [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (9 months ago)
+- [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [tristankechlo/DigitalePruefungsordnung](https://github.com/tristankechlo/DigitalePruefungsordnung) - Webanwendung die auf der offiziellen API der DLRG aufbaut (today)
 - [weppos/uddf-spec](https://github.com/weppos/uddf-spec) -  (5 months ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (5 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (7 months ago)
@@ -66,7 +67,6 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI &#43; TUI.  (10 months ago)
 - [louisbarclay/marcos](https://github.com/louisbarclay/marcos) -  (11 months ago)
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more (11 months ago)
-- [Reneator/github-godot-ci-test](https://github.com/Reneator/github-godot-ci-test) -  (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
