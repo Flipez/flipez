@@ -10,8 +10,8 @@
 - [Flipez/hcloud-fs](https://github.com/Flipez/hcloud-fs) - A FUSE filesystem that mounts your Hetzner Cloud infrastructure as a directory tree. (8 months ago)
 - [Flipez/subtonic](https://github.com/Flipez/subtonic) - Terminal UI music player for Subsonic-compatible music servers. (8 months ago)
 - [Flipez/mvg-observatory](https://github.com/Flipez/mvg-observatory) - Tooling and Infrastructure for MVG Observatory (9 months ago)
-- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (9 months ago)
 - [Flipez/mvg.observer](https://github.com/Flipez/mvg.observer) - Inoffizieller Abfahrtsmonitor für die U-Bahnen in München (9 months ago)
+- [Flipez/mvg-scraper](https://github.com/Flipez/mvg-scraper) - MVG public transport network scraper (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [tristankechlo/DigitalePruefungsordnung](https://github.com/tristankechlo/DigitalePruefungsordnung) - Webanwendung die auf der offiziellen API der DLRG aufbaut (today)
+- [tristankechlo/DigitalePruefungsordnung](https://github.com/tristankechlo/DigitalePruefungsordnung) - Webanwendung die auf der offiziellen API der DLRG aufbaut (1 day ago)
 - [weppos/uddf-spec](https://github.com/weppos/uddf-spec) -  (5 months ago)
 - [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly (5 months ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (7 months ago)
